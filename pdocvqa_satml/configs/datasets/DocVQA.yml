@@ -1,0 +1,12 @@
+dataset_name: DocVQA
+#imdb_dir: /data/PFL-DocVQA/imdb/blue # TODO: CHANGE THIS!
+imdb_dir: "D:/tfg/TFG_FINAL" #"C:/Users/marta/tfg"
+
+# either point at a directory of jpeg files:
+#images_dir: /data/PFL-DocVQA/images/blue/
+images_dir: "D:/tfg/TFG_FINAL/dataset_landscape" #"C:/Users/marta/tfg/dataset_landscape"
+# or a hdf5 archive, while using cmdline flag: -h5 / --use_h5
+# images_h5_path: /data/PFL-DocVQA/images/blue_images.h5
+
+# used for dp provider-document mapping:
+# provider_docs: /data/PFL-DocVQA/imdb/blue/centralized_data_points.json
