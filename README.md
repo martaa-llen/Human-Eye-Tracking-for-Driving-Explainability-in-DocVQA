@@ -18,6 +18,7 @@ This component provides a framework for conducting eye-tracking experiments usin
 The original TraceOverview.md and README.md are also included in the folder for more detailed information.
 
 #### Key Features & Modifications
+
 - **Experiment GUI**: A user interface (main_GUI.py) built with Tkinter that displays document images and corresponding questions while recording gaze data from the Tobii eye tracker.
 - **Data Analysis**: A comprehensive analysis script (main_data_analysis.py) that processes the stored experiment data.
 - **Heatmap Generation**: Creates visual heatmaps to represent a user's gaze distribution over a document image.
@@ -34,9 +35,9 @@ The original TraceOverview.md and README.md are also included in the folder for 
 
 #### Setup and Usage
 1. Navigate to the eye-tracking directory:
-```
-cd Eye-Tracking
-```
+  ```
+  cd Eye-Tracking
+  ```
 2. Create a Python 3.8 virtual environment. This is required for compatibility with the Tobii Pro Spark hardware.
 3. Install the required dependencies in `requirements.txt`
 4. *Setup Tobii Hardware*: Download and install the [Tobii Pro Eye Tracker Manager](https://connect.tobii.com/s/etm-downloads?language=en_US) and configure your Tobii Pro Spark device.
@@ -71,10 +72,48 @@ To run main_data_analysis.py:
     python main_data_analysis.py --mode full --analysis-mode bbox_heatmaps
     ```
 
+### pdocvqa_satml/
+
+This component uses the VT5 model to generate predictions and attention maps for the documents used in the human trials. It was also used to run the causal occlusion experiments.
+
+#### Key Features & Modifications
+- **Textual Attention Map Generation**: The model was used to extract decoder cross-attention scores, which were aggregated to a word-level to produce an AI attention map for each document-question pair.
+- **Causal Occlusion Experiments**: The core of the AI-side analysis. The model was run on modified inputs where information was selectively hidden or revealed based on the human consensus heatmaps to test for sufficiency and necessity.
+- My Additions:
+  - Developed scripts to systematically run the model on the experimental dataset.
+  - Implemented the logic for the occlusion experiments (generating masked images and filtered text inputs).
+  - Modified the `eval.py` to save the model's textual attention maps in a format compatible with the human data analysis pipeline.
+
+#### Setup and Usage
+1. Navigate to the pdocvqa_satml directory:
+  ```
+  cd pdocvqa_satml
+  ```
+2. Set up the Conda Environment:
+  ```
+  conda env create -f environment.yml
+  conda activate pdocvqa_satml
+  ```
+3. Download the Dataset: Obtain the dataset from the ELSA Benchmarks Platform (or use the specific subset from this project).
+4. Configure Paths: Modify the paths in configs/datasets/DocVQA.yml to point to your imdb_dir and images_dir.
+5. Run Training or Evaluation:
+  - To train the model:
+    ```
+    python train.py --dataset PFL-DocVQA-BLUE --model VT5
+
+    ```
+  - To evaluate the model (on my selected dataset):
+    ```
+    python eval.py --dataset DocVQA --model VT5
+    ```
 
 
+## Acknowledgments
+A special thank you to the original authors of the Eye-Tracking and pdocvqa_satml repositories for their foundational work.
 
+I am deeply grateful to all 30 participants who generously volunteered their time for this study.
 
+My sincere appreciation to my tutor, Andrey Barsky, and the Computer Vision Center (CVC) for their guidance and for providing the Tobii Pro Spark eye-tracker.
 
 
 
