@@ -36,9 +36,9 @@ only_vertical = False
 
 
 if not only_vertical:
-    folder_path =  r"D:\tfg\TFG_FINAL\dataset_landscape" #r"C:\Users\marta\tfg\dataset_landscape" #folder path that contains all set of images to be shown
+    folder_path =  r"Human-Eye-Tracking-for-Driving-Explainability-in-DocVQA\dataset_landscape"  #folder path that contains all set of images to be shown
     #OCR DATA -- contains data on each of the images of DocVQA dataset Task 1
-    npy_filtered_landscape_path = r"D:\tfg\TFG_FINAL\filtered_imdb_train_landscape.npy" #"C:/Users/marta/tfg/filtered_imdb_train_landscape.npy"
+    npy_filtered_landscape_path = r"Human-Eye-Tracking-for-Driving-Explainability-in-DocVQA\filtered_imdb_train_landscape.npy" 
     ocr_data = np.load(npy_filtered_landscape_path,allow_pickle=True)
 
     #reduced proportion: the maximum proportion of display height/width that image will take up in experiment
