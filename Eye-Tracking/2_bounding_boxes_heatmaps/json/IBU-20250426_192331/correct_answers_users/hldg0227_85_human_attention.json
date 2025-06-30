@@ -1,0 +1,139 @@
+{
+    "image_number": 212,
+    "user_answer": "6",
+    "correct_answer": "6",
+    "last_fixation_attention": [],
+    "pre_typing_attention": [
+        {
+            "word": "acid",
+            "bounding_box": {
+                "topLeftX": 0.4237986270022883,
+                "topLeftY": 0.28240190249702735,
+                "width": 0.040274599542334096,
+                "height": 0.02318668252080856
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "n",
+            "bounding_box": {
+                "topLeftX": 0.5112128146453089,
+                "topLeftY": 0.316884661117717,
+                "width": 0.010526315789473684,
+                "height": 0.019024970273483946
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "added",
+            "bounding_box": {
+                "topLeftX": 0.38306636155606405,
+                "topLeftY": 0.3162901307966706,
+                "width": 0.0494279176201373,
+                "height": 0.020808561236623068
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "met-cys",
+            "bounding_box": {
+                "topLeftX": 0.3510297482837529,
+                "topLeftY": 0.42092746730083236,
+                "width": 0.07139588100686499,
+                "height": 0.02140309155766944
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "0.20",
+            "bounding_box": {
+                "topLeftX": 0.43249427917620137,
+                "topLeftY": 0.46135552913198574,
+                "width": 0.037986270022883295,
+                "height": 0.021997621878715814
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "0.15",
+            "bounding_box": {
+                "topLeftX": 0.43249427917620137,
+                "topLeftY": 0.42092746730083236,
+                "width": 0.039359267734553775,
+                "height": 0.020808561236623068
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "met-cys",
+            "bounding_box": {
+                "topLeftX": 0.3510297482837529,
+                "topLeftY": 0.4625445897740785,
+                "width": 0.07093821510297482,
+                "height": 0.020808561236623068
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "0",
+            "bounding_box": {
+                "topLeftX": 0.4320366132723112,
+                "topLeftY": 0.5029726516052319,
+                "width": 0.008695652173913044,
+                "height": 0.020808561236623068
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": ".",
+            "bounding_box": {
+                "topLeftX": 0.4434782608695652,
+                "topLeftY": 0.5029726516052319,
+                "width": 0.005949656750572082,
+                "height": 0.020808561236623068
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "02",
+            "bounding_box": {
+                "topLeftX": 0.45217391304347826,
+                "topLeftY": 0.5029726516052319,
+                "width": 0.019679633867276888,
+                "height": 0.020808561236623068
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "dac-glycine",
+            "bounding_box": {
+                "topLeftX": 0.12356979405034325,
+                "topLeftY": 0.18014268727705113,
+                "width": 0.11304347826086956,
+                "height": 0.023781212841854936
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "6.",
+            "bounding_box": {
+                "topLeftX": 0.1853546910755149,
+                "topLeftY": 0.13793103448275862,
+                "width": 0.021967963386727688,
+                "height": 0.021997621878715814
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "table",
+            "bounding_box": {
+                "topLeftX": 0.12540045766590388,
+                "topLeftY": 0.13852556480380498,
+                "width": 0.05080091533180778,
+                "height": 0.02140309155766944
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": []
+}

@@ -1,0 +1,160 @@
+{
+    "image_number": 1,
+    "user_answer": "81.3",
+    "correct_answer": "100",
+    "last_fixation_attention": [
+        {
+            "word": "81.3%",
+            "bounding_box": {
+                "topLeftX": 0.6153114598193058,
+                "topLeftY": 0.3859102244389027,
+                "width": 0.04850213980028531,
+                "height": 0.024314214463840397
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "retention",
+            "bounding_box": {
+                "topLeftX": 0.2715168806466952,
+                "topLeftY": 0.385286783042394,
+                "width": 0.08416547788873038,
+                "height": 0.02493765586034913
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "rate",
+            "bounding_box": {
+                "topLeftX": 0.30052306229196385,
+                "topLeftY": 0.44139650872817954,
+                "width": 0.04136947218259629,
+                "height": 0.025561097256857856
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "rate",
+            "bounding_box": {
+                "topLeftX": 0.30099857346647646,
+                "topLeftY": 0.41334164588528677,
+                "width": 0.039942938659058486,
+                "height": 0.02493765586034913
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "of",
+            "bounding_box": {
+                "topLeftX": 0.34427009034712314,
+                "topLeftY": 0.41271820448877805,
+                "width": 0.018544935805991442,
+                "height": 0.025561097256857856
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "of",
+            "bounding_box": {
+                "topLeftX": 0.34522111269614836,
+                "topLeftY": 0.44139650872817954,
+                "width": 0.01806942463147884,
+                "height": 0.025561097256857856
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "switching",
+            "bounding_box": {
+                "topLeftX": 0.3661436043747028,
+                "topLeftY": 0.41271820448877805,
+                "width": 0.08606752258678078,
+                "height": 0.026184538653366583
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "franchise:",
+            "bounding_box": {
+                "topLeftX": 0.38135996195910604,
+                "topLeftY": 0.385286783042394,
+                "width": 0.09082263433190679,
+                "height": 0.02493765586034913
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "of",
+            "bounding_box": {
+                "topLeftX": 0.3609129814550642,
+                "topLeftY": 0.3859102244389027,
+                "width": 0.017118402282453638,
+                "height": 0.024314214463840397
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "quitting",
+            "bounding_box": {
+                "topLeftX": 0.3661436043747028,
+                "topLeftY": 0.44139650872817954,
+                "width": 0.06990014265335236,
+                "height": 0.026184538653366583
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "brand",
+            "bounding_box": {
+                "topLeftX": 0.3309557774607703,
+                "topLeftY": 0.49625935162094764,
+                "width": 0.052781740370898715,
+                "height": 0.026184538653366583
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "81.3%",
+            "bounding_box": {
+                "topLeftX": 0.6153114598193058,
+                "topLeftY": 0.3859102244389027,
+                "width": 0.04850213980028531,
+                "height": 0.024314214463840397
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "9.3%",
+            "bounding_box": {
+                "topLeftX": 0.6248216833095578,
+                "topLeftY": 0.41458852867830426,
+                "width": 0.038991916310033285,
+                "height": 0.023067331670822942
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "9.4%",
+            "bounding_box": {
+                "topLeftX": 0.6252971944840704,
+                "topLeftY": 0.44326683291770574,
+                "width": 0.038040893961008085,
+                "height": 0.022443890274314215
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "81.9%",
+            "bounding_box": {
+                "topLeftX": 0.6153114598193058,
+                "topLeftY": 0.49875311720698257,
+                "width": 0.04850213980028531,
+                "height": 0.022443890274314215
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": []
+}

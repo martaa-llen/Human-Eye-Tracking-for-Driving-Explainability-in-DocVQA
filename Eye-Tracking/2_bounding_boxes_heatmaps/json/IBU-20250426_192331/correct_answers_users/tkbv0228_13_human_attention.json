@@ -1,0 +1,180 @@
+{
+    "image_number": 167,
+    "user_answer": "frequency distribution of weight deviation",
+    "correct_answer": "frequency distribution of weight deviation",
+    "last_fixation_attention": [],
+    "pre_typing_attention": [
+        {
+            "word": "frequency",
+            "bounding_box": {
+                "topLeftX": 0.14957833999112294,
+                "topLeftY": 0.037714285714285714,
+                "width": 0.16866400355082112,
+                "height": 0.036
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "deviation",
+            "bounding_box": {
+                "topLeftX": 0.7394584997780737,
+                "topLeftY": 0.036571428571428574,
+                "width": 0.1478029294274301,
+                "height": 0.037142857142857144
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "0",
+            "bounding_box": {
+                "topLeftX": 0.47137150466045274,
+                "topLeftY": 0.8611428571428571,
+                "width": 0.011984021304926764,
+                "height": 0.02457142857142857
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "10-10",
+            "bounding_box": {
+                "topLeftX": 0.3945849977807368,
+                "topLeftY": 0.8605714285714285,
+                "width": 0.04349755881047492,
+                "height": 0.025142857142857144
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "from",
+            "bounding_box": {
+                "topLeftX": 0.3657345761207279,
+                "topLeftY": 0.9051428571428571,
+                "width": 0.0492676431424767,
+                "height": 0.02457142857142857
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "baldwin-wood",
+            "bounding_box": {
+                "topLeftX": 0.43009320905459386,
+                "topLeftY": 0.9057142857142857,
+                "width": 0.1384820239680426,
+                "height": 0.025142857142857144
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "-01",
+            "bounding_box": {
+                "topLeftX": 0.3692853972481136,
+                "topLeftY": 0.8605714285714285,
+                "width": 0.02174877940523746,
+                "height": 0.02457142857142857
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "10+10",
+            "bounding_box": {
+                "topLeftX": 0.4882379050155348,
+                "topLeftY": 0.8611428571428571,
+                "width": 0.04216600088770528,
+                "height": 0.025142857142857144
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "ydocuments.ucsf",
+            "bounding_box": {
+                "topLeftX": 0.47181535730137597,
+                "topLeftY": 0.9777142857142858,
+                "width": 0.11229471815357302,
+                "height": 0.016
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "frequency",
+            "bounding_box": {
+                "topLeftX": 0.14957833999112294,
+                "topLeftY": 0.037714285714285714,
+                "width": 0.16866400355082112,
+                "height": 0.036
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "distribution",
+            "bounding_box": {
+                "topLeftX": 0.340878828229028,
+                "topLeftY": 0.038285714285714284,
+                "width": 0.1935197514425211,
+                "height": 0.036
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "+2110+30",
+            "bounding_box": {
+                "topLeftX": 0.6395916555703507,
+                "topLeftY": 0.8622857142857143,
+                "width": 0.07856191744340879,
+                "height": 0.02457142857142857
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "+10to+20",
+            "bounding_box": {
+                "topLeftX": 0.5472703062583223,
+                "topLeftY": 0.8611428571428571,
+                "width": 0.07811806480248558,
+                "height": 0.025714285714285714
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "weight-height-",
+            "bounding_box": {
+                "topLeftX": 0.5823346648912561,
+                "topLeftY": 0.9062857142857143,
+                "width": 0.15667998224589436,
+                "height": 0.025142857142857144
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "edu/docs/tkby0228",
+            "bounding_box": {
+                "topLeftX": 0.5854416333777186,
+                "topLeftY": 0.9765714285714285,
+                "width": 0.12383488681757657,
+                "height": 0.017142857142857144
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "weight",
+            "bounding_box": {
+                "topLeftX": 0.6067465601420329,
+                "topLeftY": 0.037142857142857144,
+                "width": 0.1118508655126498,
+                "height": 0.037142857142857144
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "of",
+            "bounding_box": {
+                "topLeftX": 0.5534842432312472,
+                "topLeftY": 0.037714285714285714,
+                "width": 0.03772747447847315,
+                "height": 0.036571428571428574
+            },
+            "attention_score": 0.5
+        }
+    ]
+}

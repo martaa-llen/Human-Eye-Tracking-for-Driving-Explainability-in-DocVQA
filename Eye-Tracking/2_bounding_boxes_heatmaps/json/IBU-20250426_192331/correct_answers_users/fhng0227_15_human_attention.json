@@ -1,0 +1,121 @@
+{
+    "image_number": 115,
+    "user_answer": "7-27-61",
+    "correct_answer": "7-27-61",
+    "last_fixation_attention": [
+        {
+            "word": "order",
+            "bounding_box": {
+                "topLeftX": 0.7186800894854586,
+                "topLeftY": 0.3169073916737468,
+                "width": 0.05536912751677853,
+                "height": 0.02463891248937978
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "wohl",
+            "bounding_box": {
+                "topLeftX": 0.6498881431767338,
+                "topLeftY": 0.18946474086661003,
+                "width": 0.04530201342281879,
+                "height": 0.0237892948173322
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "clinic",
+            "bounding_box": {
+                "topLeftX": 0.7074944071588367,
+                "topLeftY": 0.18946474086661003,
+                "width": 0.06655480984340045,
+                "height": 0.0237892948173322
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "4950",
+            "bounding_box": {
+                "topLeftX": 0.6633109619686801,
+                "topLeftY": 0.22005097706032287,
+                "width": 0.043064876957494405,
+                "height": 0.02463891248937978
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "order",
+            "bounding_box": {
+                "topLeftX": 0.7186800894854586,
+                "topLeftY": 0.3169073916737468,
+                "width": 0.05536912751677853,
+                "height": 0.02463891248937978
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "audubon",
+            "bounding_box": {
+                "topLeftX": 0.7181208053691275,
+                "topLeftY": 0.22090059473237042,
+                "width": 0.07885906040268456,
+                "height": 0.0237892948173322
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "no.",
+            "bounding_box": {
+                "topLeftX": 0.7857941834451901,
+                "topLeftY": 0.3169073916737468,
+                "width": 0.036353467561521254,
+                "height": 0.02463891248937978
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "7-27-61",
+            "bounding_box": {
+                "topLeftX": 0.7321029082774049,
+                "topLeftY": 0.4129141886151232,
+                "width": 0.07774049217002237,
+                "height": 0.02463891248937978
+            },
+            "attention_score": 0.5
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "order",
+            "bounding_box": {
+                "topLeftX": 0.7186800894854586,
+                "topLeftY": 0.3169073916737468,
+                "width": 0.05536912751677853,
+                "height": 0.02463891248937978
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "7-27-61",
+            "bounding_box": {
+                "topLeftX": 0.7321029082774049,
+                "topLeftY": 0.4129141886151232,
+                "width": 0.07774049217002237,
+                "height": 0.02463891248937978
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "no.",
+            "bounding_box": {
+                "topLeftX": 0.7857941834451901,
+                "topLeftY": 0.3169073916737468,
+                "width": 0.036353467561521254,
+                "height": 0.02463891248937978
+            },
+            "attention_score": 0.5
+        }
+    ]
+}

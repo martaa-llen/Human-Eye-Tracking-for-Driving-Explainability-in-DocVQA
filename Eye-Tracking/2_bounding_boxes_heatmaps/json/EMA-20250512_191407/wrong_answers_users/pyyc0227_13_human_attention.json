@@ -1,0 +1,439 @@
+{
+    "image_number": 98,
+    "user_answer": "20",
+    "correct_answer": "21",
+    "last_fixation_attention": [],
+    "pre_typing_attention": [
+        {
+            "word": "'",
+            "bounding_box": {
+                "topLeftX": 0.09614782336360789,
+                "topLeftY": 0.7030812324929971,
+                "width": 0.0034450360162856246,
+                "height": 0.011671335200746966
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "ma",
+            "bounding_box": {
+                "topLeftX": 0.08581271531475101,
+                "topLeftY": 0.7026143790849673,
+                "width": 0.009395552771688067,
+                "height": 0.011671335200746966
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "nijel",
+            "bounding_box": {
+                "topLeftX": 0.08612590040714062,
+                "topLeftY": 0.7324929971988795,
+                "width": 0.02474162229877858,
+                "height": 0.011671335200746966
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "an",
+            "bounding_box": {
+                "topLeftX": 0.10053241465706232,
+                "topLeftY": 0.7035480859010271,
+                "width": 0.009395552771688067,
+                "height": 0.012138188608776844
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "aqaba",
+            "bounding_box": {
+                "topLeftX": 0.09019730660820545,
+                "topLeftY": 0.7170868347338936,
+                "width": 0.025367992483557783,
+                "height": 0.012605042016806723
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "jerusalem",
+            "bounding_box": {
+                "topLeftX": 0.0707798308800501,
+                "topLeftY": 0.7619047619047619,
+                "width": 0.04384591293454432,
+                "height": 0.014472455648926238
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "bethlehem",
+            "bounding_box": {
+                "topLeftX": 0.08455997494519261,
+                "topLeftY": 0.7903828197945845,
+                "width": 0.041966802380206704,
+                "height": 0.013071895424836602
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "bir",
+            "bounding_box": {
+                "topLeftX": 0.0848731600375822,
+                "topLeftY": 0.8478057889822596,
+                "width": 0.015659254619480114,
+                "height": 0.013071895424836602
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "jericho",
+            "bounding_box": {
+                "topLeftX": 0.08581271531475101,
+                "topLeftY": 0.8342670401493931,
+                "width": 0.034137175070466645,
+                "height": 0.012138188608776844
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "beit",
+            "bounding_box": {
+                "topLeftX": 0.08455997494519261,
+                "topLeftY": 0.8627450980392157,
+                "width": 0.02067021609771375,
+                "height": 0.012138188608776844
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "beit",
+            "bounding_box": {
+                "topLeftX": 0.0848731600375822,
+                "topLeftY": 0.8048552754435108,
+                "width": 0.02067021609771375,
+                "height": 0.012138188608776844
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "ramallah",
+            "bounding_box": {
+                "topLeftX": 0.0848731600375822,
+                "topLeftY": 0.8183940242763772,
+                "width": 0.03914813654870028,
+                "height": 0.011671335200746966
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "district",
+            "bounding_box": {
+                "topLeftX": 0.11901033510804886,
+                "topLeftY": 0.7619047619047619,
+                "width": 0.03852176636392108,
+                "height": 0.013071895424836602
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "zeit",
+            "bounding_box": {
+                "topLeftX": 0.10429063576573755,
+                "topLeftY": 0.8473389355742297,
+                "width": 0.021296586282492952,
+                "height": 0.013071895424836602
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "rima",
+            "bounding_box": {
+                "topLeftX": 0.10898841215158159,
+                "topLeftY": 0.8632119514472456,
+                "width": 0.019104290635765738,
+                "height": 0.012138188608776844
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "jala",
+            "bounding_box": {
+                "topLeftX": 0.11055433761352959,
+                "topLeftY": 0.803921568627451,
+                "width": 0.018791105543376135,
+                "height": 0.013071895424836602
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "jerusalem",
+            "bounding_box": {
+                "topLeftX": 0.08581271531475101,
+                "topLeftY": 0.7754435107376284,
+                "width": 0.04290635765737551,
+                "height": 0.011671335200746966
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "20",
+            "bounding_box": {
+                "topLeftX": 0.24585029752583776,
+                "topLeftY": 0.9150326797385621,
+                "width": 0.00845599749451926,
+                "height": 0.008870214752567693
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "edh",
+            "bounding_box": {
+                "topLeftX": 0.3072345756341998,
+                "topLeftY": 0.6587301587301587,
+                "width": 0.01534606952709051,
+                "height": 0.013071895424836602
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "*arroub",
+            "bounding_box": {
+                "topLeftX": 0.3088005010961478,
+                "topLeftY": 0.6736694677871149,
+                "width": 0.03288443470090824,
+                "height": 0.013071895424836602
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "x",
+            "bounding_box": {
+                "topLeftX": 0.2812402129658628,
+                "topLeftY": 0.8622782446311859,
+                "width": 0.005637331663012841,
+                "height": 0.013071895424836602
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "kerak",
+            "bounding_box": {
+                "topLeftX": 0.2922016911994989,
+                "topLeftY": 0.7894491129785247,
+                "width": 0.025681177575947386,
+                "height": 0.012138188608776844
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "amman",
+            "bounding_box": {
+                "topLeftX": 0.2934544315690573,
+                "topLeftY": 0.7180205415499533,
+                "width": 0.02348888192922017,
+                "height": 0.010737628384687208
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "jerusalem",
+            "bounding_box": {
+                "topLeftX": 0.2934544315690573,
+                "topLeftY": 0.8314659197012139,
+                "width": 0.04384591293454432,
+                "height": 0.014005602240896359
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "irbed",
+            "bounding_box": {
+                "topLeftX": 0.2934544315690573,
+                "topLeftY": 0.7455648926237162,
+                "width": 0.025681177575947386,
+                "height": 0.013071895424836602
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "nablus",
+            "bounding_box": {
+                "topLeftX": 0.2928280613842781,
+                "topLeftY": 0.8622782446311859,
+                "width": 0.03069213905418102,
+                "height": 0.012605042016806723
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "el-duheisheh",
+            "bounding_box": {
+                "topLeftX": 0.3084873160037582,
+                "topLeftY": 0.6876750700280112,
+                "width": 0.05668650172251801,
+                "height": 0.013071895424836602
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "balqa",
+            "bounding_box": {
+                "topLeftX": 0.34168493579705606,
+                "topLeftY": 0.7175536881419234,
+                "width": 0.024428437206388976,
+                "height": 0.011671335200746966
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "or",
+            "bounding_box": {
+                "topLeftX": 0.37081114938928905,
+                "topLeftY": 0.746031746031746,
+                "width": 0.01096147823363608,
+                "height": 0.012138188608776844
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "and",
+            "bounding_box": {
+                "topLeftX": 0.3228938302536799,
+                "topLeftY": 0.7175536881419234,
+                "width": 0.014406514249921704,
+                "height": 0.011671335200746966
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "ma",
+            "bounding_box": {
+                "topLeftX": 0.3410585656122769,
+                "topLeftY": 0.7903828197945845,
+                "width": 0.011587848418415283,
+                "height": 0.011204481792717087
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "(northern",
+            "bounding_box": {
+                "topLeftX": 0.3238333855308487,
+                "topLeftY": 0.746031746031746,
+                "width": 0.04290635765737551,
+                "height": 0.012605042016806723
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "district)",
+            "bounding_box": {
+                "topLeftX": 0.3084873160037582,
+                "topLeftY": 0.7595704948646125,
+                "width": 0.03946132164108988,
+                "height": 0.012138188608776844
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "and",
+            "bounding_box": {
+                "topLeftX": 0.3222674600689007,
+                "topLeftY": 0.7899159663865546,
+                "width": 0.01534606952709051,
+                "height": 0.011671335200746966
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "an",
+            "bounding_box": {
+                "topLeftX": 0.3564046351393674,
+                "topLeftY": 0.7903828197945845,
+                "width": 0.010021922956467273,
+                "height": 0.011671335200746966
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "district",
+            "bounding_box": {
+                "topLeftX": 0.3072345756341998,
+                "topLeftY": 0.8043884220354809,
+                "width": 0.03946132164108988,
+                "height": 0.012605042016806723
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "district",
+            "bounding_box": {
+                "topLeftX": 0.34074538051988723,
+                "topLeftY": 0.8314659197012139,
+                "width": 0.03977450673347949,
+                "height": 0.014005602240896359
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "district",
+            "bounding_box": {
+                "topLeftX": 0.32696523645474473,
+                "topLeftY": 0.861811391223156,
+                "width": 0.038208581271531476,
+                "height": 0.013071895424836602
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "key",
+            "bounding_box": {
+                "topLeftX": 0.1825869088631381,
+                "topLeftY": 0.11251167133520075,
+                "width": 0.016285624804259317,
+                "height": 0.013071895424836602
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "balga",
+            "bounding_box": {
+                "topLeftX": 0.11994989038521767,
+                "topLeftY": 0.14239028944911297,
+                "width": 0.025367992483557783,
+                "height": 0.013071895424836602
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "district",
+            "bounding_box": {
+                "topLeftX": 0.14938928906984028,
+                "topLeftY": 0.14239028944911297,
+                "width": 0.03852176636392108,
+                "height": 0.013071895424836602
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "locations,",
+            "bounding_box": {
+                "topLeftX": 0.21672408393360476,
+                "topLeftY": 0.11204481792717087,
+                "width": 0.05104917005950517,
+                "height": 0.014005602240896359
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "to",
+            "bounding_box": {
+                "topLeftX": 0.20263075477607265,
+                "topLeftY": 0.11251167133520075,
+                "width": 0.01096147823363608,
+                "height": 0.01353874883286648
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": []
+}

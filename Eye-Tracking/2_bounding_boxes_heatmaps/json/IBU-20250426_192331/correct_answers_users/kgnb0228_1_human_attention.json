@@ -1,0 +1,121 @@
+{
+    "image_number": 160,
+    "user_answer": "0223-51781",
+    "correct_answer": "0223-51781",
+    "last_fixation_attention": [
+        {
+            "word": "telephone:",
+            "bounding_box": {
+                "topLeftX": 0.058823529411764705,
+                "topLeftY": 0.2179144385026738,
+                "width": 0.08823529411764706,
+                "height": 0.034759358288770054
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "-",
+            "bounding_box": {
+                "topLeftX": 0.2104779411764706,
+                "topLeftY": 0.2179144385026738,
+                "width": 0.012867647058823529,
+                "height": 0.03609625668449198
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "0223",
+            "bounding_box": {
+                "topLeftX": 0.15073529411764705,
+                "topLeftY": 0.2179144385026738,
+                "width": 0.05606617647058824,
+                "height": 0.03609625668449198
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "51781",
+            "bounding_box": {
+                "topLeftX": 0.2270220588235294,
+                "topLeftY": 0.21524064171122995,
+                "width": 0.06066176470588235,
+                "height": 0.040106951871657755
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "telephone:",
+            "bounding_box": {
+                "topLeftX": 0.058823529411764705,
+                "topLeftY": 0.2179144385026738,
+                "width": 0.08823529411764706,
+                "height": 0.034759358288770054
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "-",
+            "bounding_box": {
+                "topLeftX": 0.2104779411764706,
+                "topLeftY": 0.2179144385026738,
+                "width": 0.012867647058823529,
+                "height": 0.03609625668449198
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "0223",
+            "bounding_box": {
+                "topLeftX": 0.15073529411764705,
+                "topLeftY": 0.2179144385026738,
+                "width": 0.05606617647058824,
+                "height": 0.03609625668449198
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "telephone:",
+            "bounding_box": {
+                "topLeftX": 0.058823529411764705,
+                "topLeftY": 0.2179144385026738,
+                "width": 0.08823529411764706,
+                "height": 0.034759358288770054
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "51781",
+            "bounding_box": {
+                "topLeftX": 0.2270220588235294,
+                "topLeftY": 0.21524064171122995,
+                "width": 0.06066176470588235,
+                "height": 0.040106951871657755
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "is",
+            "bounding_box": {
+                "topLeftX": 0.21323529411764705,
+                "topLeftY": 0.4852941176470588,
+                "width": 0.02297794117647059,
+                "height": 0.0427807486631016
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "this",
+            "bounding_box": {
+                "topLeftX": 0.15257352941176472,
+                "topLeftY": 0.4852941176470588,
+                "width": 0.05514705882352941,
+                "height": 0.04144385026737968
+            },
+            "attention_score": 0.5
+        }
+    ]
+}

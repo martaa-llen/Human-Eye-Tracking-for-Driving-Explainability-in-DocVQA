@@ -1,0 +1,61 @@
+{
+    "image_number": 63,
+    "user_answer": "petty cash",
+    "correct_answer": "petty cash",
+    "last_fixation_attention": [
+        {
+            "word": "petty",
+            "bounding_box": {
+                "topLeftX": 0.2756155679110405,
+                "topLeftY": 0.09843400447427293,
+                "width": 0.11119936457505956,
+                "height": 0.03803131991051454
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "petty",
+            "bounding_box": {
+                "topLeftX": 0.2756155679110405,
+                "topLeftY": 0.09843400447427293,
+                "width": 0.11119936457505956,
+                "height": 0.03803131991051454
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "r.",
+            "bounding_box": {
+                "topLeftX": 0.46068308181096107,
+                "topLeftY": 0.039149888143176735,
+                "width": 0.023034154090548053,
+                "height": 0.026845637583892617
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "cash",
+            "bounding_box": {
+                "topLeftX": 0.40428911834789516,
+                "topLeftY": 0.09731543624161074,
+                "width": 0.09054805401111994,
+                "height": 0.040268456375838924
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "u.",
+            "bounding_box": {
+                "topLeftX": 0.4868943606036537,
+                "topLeftY": 0.039149888143176735,
+                "width": 0.019857029388403495,
+                "height": 0.026845637583892617
+            },
+            "attention_score": 1.0
+        }
+    ]
+}

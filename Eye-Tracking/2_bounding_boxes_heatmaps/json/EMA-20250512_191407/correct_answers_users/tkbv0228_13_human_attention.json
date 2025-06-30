@@ -1,0 +1,60 @@
+{
+    "image_number": 167,
+    "user_answer": "frequency distribution of weight deviation",
+    "correct_answer": "frequency distribution of weight deviation",
+    "last_fixation_attention": [],
+    "pre_typing_attention": [
+        {
+            "word": "frequency",
+            "bounding_box": {
+                "topLeftX": 0.14957833999112294,
+                "topLeftY": 0.037714285714285714,
+                "width": 0.16866400355082112,
+                "height": 0.036
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "distribution",
+            "bounding_box": {
+                "topLeftX": 0.340878828229028,
+                "topLeftY": 0.038285714285714284,
+                "width": 0.1935197514425211,
+                "height": 0.036
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "weight",
+            "bounding_box": {
+                "topLeftX": 0.6067465601420329,
+                "topLeftY": 0.037142857142857144,
+                "width": 0.1118508655126498,
+                "height": 0.037142857142857144
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "of",
+            "bounding_box": {
+                "topLeftX": 0.5534842432312472,
+                "topLeftY": 0.037714285714285714,
+                "width": 0.03772747447847315,
+                "height": 0.036571428571428574
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "deviation",
+            "bounding_box": {
+                "topLeftX": 0.7394584997780737,
+                "topLeftY": 0.036571428571428574,
+                "width": 0.1478029294274301,
+                "height": 0.037142857142857144
+            },
+            "attention_score": 0.5
+        }
+    ]
+}

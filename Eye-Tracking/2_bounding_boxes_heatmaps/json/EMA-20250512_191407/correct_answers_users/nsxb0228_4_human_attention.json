@@ -1,0 +1,210 @@
+{
+    "image_number": 163,
+    "user_answer": "12/20/71",
+    "correct_answer": "12/20/71",
+    "last_fixation_attention": [],
+    "pre_typing_attention": [
+        {
+            "word": "the",
+            "bounding_box": {
+                "topLeftX": 0.3089500860585198,
+                "topLeftY": 0.21790341578327443,
+                "width": 0.04561101549053356,
+                "height": 0.03415783274440518
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "living",
+            "bounding_box": {
+                "topLeftX": 0.36058519793459554,
+                "topLeftY": 0.21790341578327443,
+                "width": 0.08261617900172118,
+                "height": 0.0353356890459364
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "vanderbilt",
+            "bounding_box": {
+                "topLeftX": 0.1927710843373494,
+                "topLeftY": 0.13898704358068315,
+                "width": 0.26592082616179,
+                "height": 0.04122497055359246
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "frank",
+            "bounding_box": {
+                "topLeftX": 0.2977624784853701,
+                "topLeftY": 0.3392226148409894,
+                "width": 0.08605851979345955,
+                "height": 0.03651354534746761
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "gratefully",
+            "bounding_box": {
+                "topLeftX": 0.27710843373493976,
+                "topLeftY": 0.26148409893992935,
+                "width": 0.13080895008605853,
+                "height": 0.05889281507656066
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "university",
+            "bounding_box": {
+                "topLeftX": 0.48967297762478484,
+                "topLeftY": 0.13898704358068315,
+                "width": 0.25645438898450945,
+                "height": 0.04122497055359246
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "duplicate",
+            "bounding_box": {
+                "topLeftX": 0.6497418244406197,
+                "topLeftY": 0.10011778563015312,
+                "width": 0.15834767641996558,
+                "height": 0.03297997644287397
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "12/20/71",
+            "bounding_box": {
+                "topLeftX": 0.7925989672977625,
+                "topLeftY": 0.2591283863368669,
+                "width": 0.13855421686746988,
+                "height": 0.03769140164899882
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "6211-4835-085-12",
+            "bounding_box": {
+                "topLeftX": 0.6523235800344234,
+                "topLeftY": 0.4994110718492344,
+                "width": 0.27969018932874357,
+                "height": 0.038869257950530034
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "tax",
+            "bounding_box": {
+                "topLeftX": 0.8037865748709122,
+                "topLeftY": 0.8857479387514723,
+                "width": 0.03098106712564544,
+                "height": 0.024734982332155476
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "laws.",
+            "bounding_box": {
+                "topLeftX": 0.8390705679862306,
+                "topLeftY": 0.8845700824499411,
+                "width": 0.04905335628227195,
+                "height": 0.024734982332155476
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "xxxxxxxxxxxxxxxxxxxxxx",
+            "bounding_box": {
+                "topLeftX": 0.5240963855421686,
+                "topLeftY": 0.9210836277974087,
+                "width": 0.4449225473321859,
+                "height": 0.024734982332155476
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "ome",
+            "bounding_box": {
+                "topLeftX": 0.7624784853700516,
+                "topLeftY": 0.8857479387514723,
+                "width": 0.03700516351118761,
+                "height": 0.024734982332155476
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "to",
+            "bounding_box": {
+                "topLeftX": 0.21600688468158347,
+                "topLeftY": 0.8857479387514723,
+                "width": 0.0189328743545611,
+                "height": 0.023557126030624265
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "2910",
+            "bounding_box": {
+                "topLeftX": 0.2134251290877797,
+                "topLeftY": 0.7856301531213192,
+                "width": 0.06626506024096386,
+                "height": 0.03415783274440518
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "chihuahua",
+            "bounding_box": {
+                "topLeftX": 0.21084337349397592,
+                "topLeftY": 0.8268551236749117,
+                "width": 0.15920826161790017,
+                "height": 0.03297997644287397
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "col",
+            "bounding_box": {
+                "topLeftX": 0.29862306368330466,
+                "topLeftY": 0.7856301531213192,
+                "width": 0.05163511187607573,
+                "height": 0.03415783274440518
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "bustamante",
+            "bounding_box": {
+                "topLeftX": 0.2117039586919105,
+                "topLeftY": 0.7455830388692579,
+                "width": 0.1738382099827883,
+                "height": 0.03297997644287397
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "m",
+            "bounding_box": {
+                "topLeftX": 0.2977624784853701,
+                "topLeftY": 0.7031802120141343,
+                "width": 0.016351118760757316,
+                "height": 0.03415783274440518
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "derbilt",
+            "bounding_box": {
+                "topLeftX": 0.27969018932874357,
+                "topLeftY": 0.8857479387514723,
+                "width": 0.06282271944922548,
+                "height": 0.024734982332155476
+            },
+            "attention_score": 1.0
+        }
+    ]
+}
