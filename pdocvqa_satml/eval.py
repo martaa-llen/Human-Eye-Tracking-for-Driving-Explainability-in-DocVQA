@@ -545,7 +545,7 @@ def evaluate(data_loader, model, evaluator, config, epoch, max_steps=None,
 
 def find_human_consensus_file(base_name):
     """Searches for a human consensus file in the correct/semi_correct/wrong directories."""
-    AGGREGATED_HUMAN_JSON_DIR = r"D:\tfg\TFG_FINAL\Eye-Tracking\consensus_human_results\json" # r"C:\Users\marta\tfg\Eye-Tracking\general_human_results4\json" #"/export/fhome/mllopart/general_human_results4/json"
+    AGGREGATED_HUMAN_JSON_DIR = r"Human-Eye-Tracking-for-Driving-Explainability-in-DocVQA\Eye-Tracking\consensus_human_results\json" " #
     for category in ["correct_answers_users", "semi_correct_answers_users", "wrong_answers_users"]:
         path = os.path.join(AGGREGATED_HUMAN_JSON_DIR, category, f"{base_name}_aggregate.json")
         if os.path.exists(path):
