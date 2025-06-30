@@ -1,0 +1,161 @@
+{
+    "image_number": 209,
+    "user_answer": "Dr. Robert B. Watson",
+    "correct_answer": "dr. robert b. watson",
+    "last_fixation_attention": [
+        {
+            "word": "dr.",
+            "bounding_box": {
+                "topLeftX": 0.13837638376383765,
+                "topLeftY": 0.13529411764705881,
+                "width": 0.052583025830258305,
+                "height": 0.04264705882352941
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "dr.",
+            "bounding_box": {
+                "topLeftX": 0.13837638376383765,
+                "topLeftY": 0.13529411764705881,
+                "width": 0.052583025830258305,
+                "height": 0.04264705882352941
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "the",
+            "bounding_box": {
+                "topLeftX": 0.1392988929889299,
+                "topLeftY": 0.20588235294117646,
+                "width": 0.046125461254612546,
+                "height": 0.039705882352941174
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "robert",
+            "bounding_box": {
+                "topLeftX": 0.20018450184501846,
+                "topLeftY": 0.13529411764705881,
+                "width": 0.09870848708487084,
+                "height": 0.04411764705882353
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "postal",
+            "bounding_box": {
+                "topLeftX": 0.23247232472324722,
+                "topLeftY": 0.25441176470588234,
+                "width": 0.0959409594095941,
+                "height": 0.047058823529411764
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "rockefeller",
+            "bounding_box": {
+                "topLeftX": 0.1992619926199262,
+                "topLeftY": 0.20441176470588235,
+                "width": 0.1706642066420664,
+                "height": 0.045588235294117645
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "bi",
+            "bounding_box": {
+                "topLeftX": 0.3081180811808118,
+                "topLeftY": 0.13676470588235295,
+                "width": 0.035977859778597784,
+                "height": 0.04411764705882353
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "de",
+            "bounding_box": {
+                "topLeftX": 0.2047970479704797,
+                "topLeftY": 0.3044117647058823,
+                "width": 0.02952029520295203,
+                "height": 0.04411764705882353
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "rio",
+            "bounding_box": {
+                "topLeftX": 0.13653136531365315,
+                "topLeftY": 0.3029411764705882,
+                "width": 0.0507380073800738,
+                "height": 0.04264705882352941
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "caixa",
+            "bounding_box": {
+                "topLeftX": 0.13745387453874539,
+                "topLeftY": 0.25441176470588234,
+                "width": 0.08025830258302583,
+                "height": 0.04411764705882353
+            },
+            "attention_score": 0.5
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "bi",
+            "bounding_box": {
+                "topLeftX": 0.3081180811808118,
+                "topLeftY": 0.13676470588235295,
+                "width": 0.035977859778597784,
+                "height": 0.04411764705882353
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "watson",
+            "bounding_box": {
+                "topLeftX": 0.3514760147601476,
+                "topLeftY": 0.13676470588235295,
+                "width": 0.09686346863468635,
+                "height": 0.04411764705882353
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "robert",
+            "bounding_box": {
+                "topLeftX": 0.20018450184501846,
+                "topLeftY": 0.13529411764705881,
+                "width": 0.09870848708487084,
+                "height": 0.04411764705882353
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "rockefeller",
+            "bounding_box": {
+                "topLeftX": 0.1992619926199262,
+                "topLeftY": 0.20441176470588235,
+                "width": 0.1706642066420664,
+                "height": 0.045588235294117645
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "https://www.industrydocuments.ucsf.edu/docs/tzhg0227",
+            "bounding_box": {
+                "topLeftX": 0.17712177121771217,
+                "topLeftY": 0.9382352941176471,
+                "width": 0.7675276752767528,
+                "height": 0.05
+            },
+            "attention_score": 0.5
+        }
+    ]
+}

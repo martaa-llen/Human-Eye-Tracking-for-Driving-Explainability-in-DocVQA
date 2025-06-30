@@ -1,0 +1,131 @@
+{
+    "image_number": 9,
+    "user_answer": "3408 W. 144 ST.",
+    "correct_answer": "3408 w. 144 st.",
+    "last_fixation_attention": [
+        {
+            "word": "-dorothy",
+            "bounding_box": {
+                "topLeftX": 0.0916289592760181,
+                "topLeftY": 0.401006711409396,
+                "width": 0.3201357466063348,
+                "height": 0.09731543624161074
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "sugar.",
+            "bounding_box": {
+                "topLeftX": 0.13914027149321267,
+                "topLeftY": 0.3422818791946309,
+                "width": 0.08823529411764706,
+                "height": 0.0436241610738255
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "-dorothy",
+            "bounding_box": {
+                "topLeftX": 0.0916289592760181,
+                "topLeftY": 0.401006711409396,
+                "width": 0.3201357466063348,
+                "height": 0.09731543624161074
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "print)",
+            "bounding_box": {
+                "topLeftX": 0.5520361990950227,
+                "topLeftY": 0.4865771812080537,
+                "width": 0.06561085972850679,
+                "height": 0.031879194630872486
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "-dorothy",
+            "bounding_box": {
+                "topLeftX": 0.0916289592760181,
+                "topLeftY": 0.401006711409396,
+                "width": 0.3201357466063348,
+                "height": 0.09731543624161074
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "(name",
+            "bounding_box": {
+                "topLeftX": 0.38800904977375567,
+                "topLeftY": 0.4865771812080537,
+                "width": 0.06561085972850679,
+                "height": 0.031879194630872486
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": ".",
+            "bounding_box": {
+                "topLeftX": 0.45701357466063347,
+                "topLeftY": 0.4865771812080537,
+                "width": 0.010180995475113122,
+                "height": 0.031879194630872486
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "please",
+            "bounding_box": {
+                "topLeftX": 0.47171945701357465,
+                "topLeftY": 0.4865771812080537,
+                "width": 0.07692307692307693,
+                "height": 0.031879194630872486
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "(address)",
+            "bounding_box": {
+                "topLeftX": 0.45361990950226244,
+                "topLeftY": 0.6090604026845637,
+                "width": 0.1074660633484163,
+                "height": 0.030201342281879196
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "https://www.industrydocuments.ucsf.edu/docs/vnkk0226",
+            "bounding_box": {
+                "topLeftX": 0.167420814479638,
+                "topLeftY": 0.9345637583892618,
+                "width": 0.7828054298642534,
+                "height": 0.04194630872483222
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "celikovich",
+            "bounding_box": {
+                "topLeftX": 0.5452488687782805,
+                "topLeftY": 0.3859060402684564,
+                "width": 0.38800904977375567,
+                "height": 0.11073825503355705
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "144",
+            "bounding_box": {
+                "topLeftX": 0.5769230769230769,
+                "topLeftY": 0.5184563758389261,
+                "width": 0.12782805429864252,
+                "height": 0.09060402684563758
+            },
+            "attention_score": 0.5
+        }
+    ]
+}

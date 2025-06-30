@@ -1,0 +1,141 @@
+{
+    "image_number": 193,
+    "user_answer": "MOG TICKET SERVICE STATEMENT",
+    "correct_answer": "mog ticket service statement",
+    "last_fixation_attention": [
+        {
+            "word": "mcg",
+            "bounding_box": {
+                "topLeftX": 0.04888888888888889,
+                "topLeftY": 0.04189560439560439,
+                "width": 0.13142857142857142,
+                "height": 0.08722527472527472
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "mcg",
+            "bounding_box": {
+                "topLeftX": 0.04888888888888889,
+                "topLeftY": 0.04189560439560439,
+                "width": 0.13142857142857142,
+                "height": 0.08722527472527472
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "statement",
+            "bounding_box": {
+                "topLeftX": 0.6101587301587301,
+                "topLeftY": 0.038461538461538464,
+                "width": 0.35365079365079366,
+                "height": 0.09134615384615384
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "broadway",
+            "bounding_box": {
+                "topLeftX": 0.08825396825396825,
+                "topLeftY": 0.14423076923076922,
+                "width": 0.06412698412698413,
+                "height": 0.01510989010989011
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "mcg",
+            "bounding_box": {
+                "topLeftX": 0.04888888888888889,
+                "topLeftY": 0.04189560439560439,
+                "width": 0.13142857142857142,
+                "height": 0.08722527472527472
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "10023",
+            "bounding_box": {
+                "topLeftX": 0.1415873015873016,
+                "topLeftY": 0.15934065934065933,
+                "width": 0.04,
+                "height": 0.015796703296703296
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "ticket",
+            "bounding_box": {
+                "topLeftX": 0.19428571428571428,
+                "topLeftY": 0.042582417582417584,
+                "width": 0.1676190476190476,
+                "height": 0.08722527472527472
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "n.y.c.,",
+            "bounding_box": {
+                "topLeftX": 0.052698412698412696,
+                "topLeftY": 0.15865384615384615,
+                "width": 0.047619047619047616,
+                "height": 0.016483516483516484
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "1865",
+            "bounding_box": {
+                "topLeftX": 0.05333333333333334,
+                "topLeftY": 0.14217032967032966,
+                "width": 0.03111111111111111,
+                "height": 0.015796703296703296
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "service",
+            "bounding_box": {
+                "topLeftX": 0.3765079365079365,
+                "topLeftY": 0.04189560439560439,
+                "width": 0.21904761904761905,
+                "height": 0.08791208791208792
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "edu/docs/khpuzz7",
+            "bounding_box": {
+                "topLeftX": 0.6190476190476191,
+                "topLeftY": 0.9766483516483516,
+                "width": 0.18095238095238095,
+                "height": 0.019917582417582416
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "current",
+            "bounding_box": {
+                "topLeftX": 0.7904761904761904,
+                "topLeftY": 0.9148351648351648,
+                "width": 0.06666666666666667,
+                "height": 0.017170329670329672
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "50.00",
+            "bounding_box": {
+                "topLeftX": 0.8082539682539682,
+                "topLeftY": 0.9436813186813187,
+                "width": 0.06349206349206349,
+                "height": 0.018543956043956044
+            },
+            "attention_score": 0.3333333333333333
+        }
+    ]
+}

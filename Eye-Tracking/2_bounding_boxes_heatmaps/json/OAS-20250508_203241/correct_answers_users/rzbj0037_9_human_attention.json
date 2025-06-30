@@ -1,0 +1,141 @@
+{
+    "image_number": 1,
+    "user_answer": "100",
+    "correct_answer": "100",
+    "last_fixation_attention": [
+        {
+            "word": "index",
+            "bounding_box": {
+                "topLeftX": 0.7089871611982882,
+                "topLeftY": 0.33915211970074816,
+                "width": 0.048026628625772706,
+                "height": 0.023067331670822942
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "index",
+            "bounding_box": {
+                "topLeftX": 0.7089871611982882,
+                "topLeftY": 0.33915211970074816,
+                "width": 0.048026628625772706,
+                "height": 0.023067331670822942
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "(",
+            "bounding_box": {
+                "topLeftX": 0.7146932952924394,
+                "topLeftY": 0.4158354114713217,
+                "width": 0.011887779362815026,
+                "height": 0.023067331670822942
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "(100)",
+            "bounding_box": {
+                "topLeftX": 0.7142177841179268,
+                "topLeftY": 0.3859102244389027,
+                "width": 0.04089396100808369,
+                "height": 0.02493765586034913
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "88)",
+            "bounding_box": {
+                "topLeftX": 0.7322872087494056,
+                "topLeftY": 0.4158354114713217,
+                "width": 0.020922491678554447,
+                "height": 0.023067331670822942
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "81.3%",
+            "bounding_box": {
+                "topLeftX": 0.6153114598193058,
+                "topLeftY": 0.3859102244389027,
+                "width": 0.04850213980028531,
+                "height": 0.024314214463840397
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "9.3%",
+            "bounding_box": {
+                "topLeftX": 0.6248216833095578,
+                "topLeftY": 0.41458852867830426,
+                "width": 0.038991916310033285,
+                "height": 0.023067331670822942
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "index",
+            "bounding_box": {
+                "topLeftX": 0.7089871611982882,
+                "topLeftY": 0.33915211970074816,
+                "width": 0.048026628625772706,
+                "height": 0.023067331670822942
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "(",
+            "bounding_box": {
+                "topLeftX": 0.7146932952924394,
+                "topLeftY": 0.4158354114713217,
+                "width": 0.011887779362815026,
+                "height": 0.023067331670822942
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "(100)",
+            "bounding_box": {
+                "topLeftX": 0.7142177841179268,
+                "topLeftY": 0.3859102244389027,
+                "width": 0.04089396100808369,
+                "height": 0.02493765586034913
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "(113)",
+            "bounding_box": {
+                "topLeftX": 0.7146932952924394,
+                "topLeftY": 0.44326683291770574,
+                "width": 0.04184498335710889,
+                "height": 0.024314214463840397
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "88)",
+            "bounding_box": {
+                "topLeftX": 0.7322872087494056,
+                "topLeftY": 0.4158354114713217,
+                "width": 0.020922491678554447,
+                "height": 0.023067331670822942
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "9.4%",
+            "bounding_box": {
+                "topLeftX": 0.6252971944840704,
+                "topLeftY": 0.44326683291770574,
+                "width": 0.038040893961008085,
+                "height": 0.022443890274314215
+            },
+            "attention_score": 0.5
+        }
+    ]
+}
