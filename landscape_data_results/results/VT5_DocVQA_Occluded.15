@@ -1,0 +1,1 @@
+{"Model": "VT5", "Model_weights": "rubentito/vt5-base-spdocvqa", "Dataset": "DocVQA", "Page retrieval": "-", "Inference time": "00:04:14", "Mean accuracy": 0.7073170731707317, "Mean ANLS": 0.8783635216743958, "Scores by samples": {}}
