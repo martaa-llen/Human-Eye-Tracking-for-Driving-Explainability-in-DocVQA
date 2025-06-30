@@ -36,7 +36,7 @@ min_cluster_sample = 15 #experiment with this val #12
 #       the current state of code can only analyze images from this dataset 
 #ocr_data = np.load("C:/path/to/your/OCR/imdb/dataset.npy",allow_pickle=True) #load in ocr data
 #ocr_data = np.load("C:/Users/marta/tfg/filtered_imdb_train_horizontal.npy",allow_pickle=True) #load in ocr data
-filtered_data_npy_path = r"D:\tfg\TFG_FINAL\filtered_imdb_train_landscape.npy" #"C:/Users/marta/tfg/filtered_imdb_train_landscape.npy"
+filtered_data_npy_path = r"Human-Eye-Tracking-for-Driving-Explainability-in-DocVQA\filtered_imdb_train_landscape.npy" 
 ocr_data = np.load(filtered_data_npy_path,allow_pickle=True) #load in ocr data
 
 errors_file = "error_file.txt"
@@ -1181,7 +1181,7 @@ if __name__ == "__main__":
 
     PARTICIPANTS_IDs_FILE = "participant_IDs.txt"
     #directory where all participants' eye data is stored 
-    PARTICIPANTS_EYE_DATA_DIR = r"D:\tfg\TFG_FINAL\Eye-Tracking\participant_eye_data" #"C:/Users/marta/tfg/Eye-Tracking/participant_eye_data/" 
+    PARTICIPANTS_EYE_DATA_DIR = r"Human-Eye-Tracking-for-Driving-Explainability-in-DocVQA\Eye-Tracking\participant_eye_data"  
 
     
     parser = argparse.ArgumentParser(description="Run data analysis for the DocVQA Eye-Tracking experiment.")
