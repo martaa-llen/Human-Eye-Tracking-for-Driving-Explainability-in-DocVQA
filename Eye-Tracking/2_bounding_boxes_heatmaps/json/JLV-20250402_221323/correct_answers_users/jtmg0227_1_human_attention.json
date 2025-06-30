@@ -1,0 +1,50 @@
+{
+    "image_number": 120,
+    "user_answer": "32709",
+    "correct_answer": "32709",
+    "last_fixation_attention": [
+        {
+            "word": "no.",
+            "bounding_box": {
+                "topLeftX": 0.7606263982102909,
+                "topLeftY": 0.2894736842105263,
+                "width": 0.035794183445190156,
+                "height": 0.023769100169779286
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "audubon",
+            "bounding_box": {
+                "topLeftX": 0.7046979865771812,
+                "topLeftY": 0.15959252971137522,
+                "width": 0.07718120805369127,
+                "height": 0.025466893039049237
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "32709",
+            "bounding_box": {
+                "topLeftX": 0.8070469798657718,
+                "topLeftY": 0.28862478777589134,
+                "width": 0.05425055928411633,
+                "height": 0.02461799660441426
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "no.",
+            "bounding_box": {
+                "topLeftX": 0.7606263982102909,
+                "topLeftY": 0.2894736842105263,
+                "width": 0.035794183445190156,
+                "height": 0.023769100169779286
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": []
+}

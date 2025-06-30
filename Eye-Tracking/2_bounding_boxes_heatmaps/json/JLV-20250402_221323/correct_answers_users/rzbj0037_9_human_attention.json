@@ -1,0 +1,109 @@
+{
+    "image_number": 1,
+    "user_answer": "100",
+    "correct_answer": "100",
+    "last_fixation_attention": [],
+    "pre_typing_attention": [
+        {
+            "word": "retention",
+            "bounding_box": {
+                "topLeftX": 0.2715168806466952,
+                "topLeftY": 0.385286783042394,
+                "width": 0.08416547788873038,
+                "height": 0.02493765586034913
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "rate",
+            "bounding_box": {
+                "topLeftX": 0.30099857346647646,
+                "topLeftY": 0.41334164588528677,
+                "width": 0.039942938659058486,
+                "height": 0.02493765586034913
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "of",
+            "bounding_box": {
+                "topLeftX": 0.34427009034712314,
+                "topLeftY": 0.41271820448877805,
+                "width": 0.018544935805991442,
+                "height": 0.025561097256857856
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "switching",
+            "bounding_box": {
+                "topLeftX": 0.3661436043747028,
+                "topLeftY": 0.41271820448877805,
+                "width": 0.08606752258678078,
+                "height": 0.026184538653366583
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "franchise:",
+            "bounding_box": {
+                "topLeftX": 0.38135996195910604,
+                "topLeftY": 0.385286783042394,
+                "width": 0.09082263433190679,
+                "height": 0.02493765586034913
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "of",
+            "bounding_box": {
+                "topLeftX": 0.3609129814550642,
+                "topLeftY": 0.3859102244389027,
+                "width": 0.017118402282453638,
+                "height": 0.024314214463840397
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "index",
+            "bounding_box": {
+                "topLeftX": 0.7089871611982882,
+                "topLeftY": 0.33915211970074816,
+                "width": 0.048026628625772706,
+                "height": 0.023067331670822942
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "(",
+            "bounding_box": {
+                "topLeftX": 0.7146932952924394,
+                "topLeftY": 0.4158354114713217,
+                "width": 0.011887779362815026,
+                "height": 0.023067331670822942
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "(100)",
+            "bounding_box": {
+                "topLeftX": 0.7142177841179268,
+                "topLeftY": 0.3859102244389027,
+                "width": 0.04089396100808369,
+                "height": 0.02493765586034913
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "88)",
+            "bounding_box": {
+                "topLeftX": 0.7322872087494056,
+                "topLeftY": 0.4158354114713217,
+                "width": 0.020922491678554447,
+                "height": 0.023067331670822942
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": []
+}

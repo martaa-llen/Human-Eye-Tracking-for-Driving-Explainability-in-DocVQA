@@ -1,0 +1,81 @@
+{
+    "image_number": 163,
+    "user_answer": "12/20/71",
+    "correct_answer": "12/20/71",
+    "last_fixation_attention": [
+        {
+            "word": "12/20/71",
+            "bounding_box": {
+                "topLeftX": 0.7925989672977625,
+                "topLeftY": 0.2591283863368669,
+                "width": 0.13855421686746988,
+                "height": 0.03769140164899882
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "12/20/71",
+            "bounding_box": {
+                "topLeftX": 0.7925989672977625,
+                "topLeftY": 0.2591283863368669,
+                "width": 0.13855421686746988,
+                "height": 0.03769140164899882
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "b13057",
+            "bounding_box": {
+                "topLeftX": 0.8270223752151463,
+                "topLeftY": 0.09658421672555949,
+                "width": 0.10240963855421686,
+                "height": 0.03769140164899882
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "deduction",
+            "bounding_box": {
+                "topLeftX": 0.5671256454388984,
+                "topLeftY": 0.8845700824499411,
+                "width": 0.09208261617900172,
+                "height": 0.02591283863368669
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "under",
+            "bounding_box": {
+                "topLeftX": 0.6678141135972461,
+                "topLeftY": 0.8857479387514723,
+                "width": 0.05679862306368331,
+                "height": 0.024734982332155476
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "xxxxxxxxxxxxxxxxxxxxxx",
+            "bounding_box": {
+                "topLeftX": 0.5240963855421686,
+                "topLeftY": 0.9210836277974087,
+                "width": 0.4449225473321859,
+                "height": 0.024734982332155476
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "12/20/71",
+            "bounding_box": {
+                "topLeftX": 0.7925989672977625,
+                "topLeftY": 0.2591283863368669,
+                "width": 0.13855421686746988,
+                "height": 0.03769140164899882
+            },
+            "attention_score": 1.0
+        }
+    ]
+}

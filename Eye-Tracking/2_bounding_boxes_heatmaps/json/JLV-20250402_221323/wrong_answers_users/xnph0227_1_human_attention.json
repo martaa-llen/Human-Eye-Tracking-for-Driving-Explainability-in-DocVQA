@@ -1,0 +1,211 @@
+{
+    "image_number": 16,
+    "user_answer": "north central texas",
+    "correct_answer": "food industry association",
+    "last_fixation_attention": [
+        {
+            "word": "box",
+            "bounding_box": {
+                "topLeftX": 0.8512009373169303,
+                "topLeftY": 0.210195530726257,
+                "width": 0.031048623315758642,
+                "height": 0.017458100558659217
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "north",
+            "bounding_box": {
+                "topLeftX": 0.4370240187463386,
+                "topLeftY": 0.11452513966480447,
+                "width": 0.05272407732864675,
+                "height": 0.020251396648044692
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "central",
+            "bounding_box": {
+                "topLeftX": 0.4997070884592853,
+                "topLeftY": 0.11452513966480447,
+                "width": 0.06736965436438196,
+                "height": 0.020251396648044692
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "statement",
+            "bounding_box": {
+                "topLeftX": 0.4645577035735208,
+                "topLeftY": 0.040502793296089384,
+                "width": 0.11423550087873462,
+                "height": 0.0223463687150838
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "texas",
+            "bounding_box": {
+                "topLeftX": 0.5729349736379613,
+                "topLeftY": 0.11452513966480447,
+                "width": 0.04745166959578207,
+                "height": 0.020251396648044692
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "ma",
+            "bounding_box": {
+                "topLeftX": 0.2103104862331576,
+                "topLeftY": 0.20949720670391062,
+                "width": 0.02460456942003515,
+                "height": 0.018854748603351956
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "worth",
+            "bounding_box": {
+                "topLeftX": 0.1605155243116579,
+                "topLeftY": 0.20949720670391062,
+                "width": 0.04452255418863503,
+                "height": 0.019553072625698324
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "ft.",
+            "bounding_box": {
+                "topLeftX": 0.1347393087287639,
+                "topLeftY": 0.210195530726257,
+                "width": 0.022847100175746926,
+                "height": 0.018854748603351956
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "phone",
+            "bounding_box": {
+                "topLeftX": 0.08670181605155243,
+                "topLeftY": 0.210195530726257,
+                "width": 0.042765084944346804,
+                "height": 0.019553072625698324
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "p.o.",
+            "bounding_box": {
+                "topLeftX": 0.8131224370240188,
+                "topLeftY": 0.20949720670391062,
+                "width": 0.0351493848857645,
+                "height": 0.018156424581005588
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "box",
+            "bounding_box": {
+                "topLeftX": 0.8512009373169303,
+                "topLeftY": 0.210195530726257,
+                "width": 0.031048623315758642,
+                "height": 0.017458100558659217
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "10434",
+            "bounding_box": {
+                "topLeftX": 0.8910369068541301,
+                "topLeftY": 0.20949720670391062,
+                "width": 0.040421792618629174,
+                "height": 0.018854748603351956
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "dallas,",
+            "bounding_box": {
+                "topLeftX": 0.8142940831868776,
+                "topLeftY": 0.24231843575418993,
+                "width": 0.062097246631517285,
+                "height": 0.020251396648044692
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "texas",
+            "bounding_box": {
+                "topLeftX": 0.8793204452255419,
+                "topLeftY": 0.2430167597765363,
+                "width": 0.04510837727006444,
+                "height": 0.019553072625698324
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "central",
+            "bounding_box": {
+                "topLeftX": 0.4997070884592853,
+                "topLeftY": 0.11452513966480447,
+                "width": 0.06736965436438196,
+                "height": 0.020251396648044692
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "statement",
+            "bounding_box": {
+                "topLeftX": 0.4645577035735208,
+                "topLeftY": 0.040502793296089384,
+                "width": 0.11423550087873462,
+                "height": 0.0223463687150838
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "north",
+            "bounding_box": {
+                "topLeftX": 0.4370240187463386,
+                "topLeftY": 0.11452513966480447,
+                "width": 0.05272407732864675,
+                "height": 0.020251396648044692
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "industry",
+            "bounding_box": {
+                "topLeftX": 0.4182776801405975,
+                "topLeftY": 0.15502793296089384,
+                "width": 0.1265377855887522,
+                "height": 0.0356145251396648
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "texas",
+            "bounding_box": {
+                "topLeftX": 0.5729349736379613,
+                "topLeftY": 0.11452513966480447,
+                "width": 0.04745166959578207,
+                "height": 0.020251396648044692
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "association",
+            "bounding_box": {
+                "topLeftX": 0.5541886350322203,
+                "topLeftY": 0.15502793296089384,
+                "width": 0.16403046280023434,
+                "height": 0.037011173184357544
+            },
+            "attention_score": 0.5
+        }
+    ]
+}

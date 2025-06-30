@@ -1,0 +1,170 @@
+{
+    "image_number": 13,
+    "user_answer": "gw",
+    "correct_answer": "gw",
+    "last_fixation_attention": [
+        {
+            "word": "gw",
+            "bounding_box": {
+                "topLeftX": 0.13399503722084366,
+                "topLeftY": 0.045351473922902494,
+                "width": 0.05707196029776675,
+                "height": 0.049886621315192746
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "p.",
+            "bounding_box": {
+                "topLeftX": 0.5591397849462365,
+                "topLeftY": 0.3469387755102041,
+                "width": 0.05128205128205128,
+                "height": 0.07936507936507936
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "c.",
+            "bounding_box": {
+                "topLeftX": 0.49958643507030603,
+                "topLeftY": 0.3492063492063492,
+                "width": 0.05128205128205128,
+                "height": 0.07709750566893424
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "u.",
+            "bounding_box": {
+                "topLeftX": 0.8130686517783292,
+                "topLeftY": 0.1473922902494331,
+                "width": 0.021505376344086023,
+                "height": 0.023809523809523808
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "s.",
+            "bounding_box": {
+                "topLeftX": 0.837055417700579,
+                "topLeftY": 0.1473922902494331,
+                "width": 0.0206782464846981,
+                "height": 0.023809523809523808
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "clinton,",
+            "bounding_box": {
+                "topLeftX": 0.8130686517783292,
+                "topLeftY": 0.2108843537414966,
+                "width": 0.06865177832919768,
+                "height": 0.023809523809523808
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "bulk",
+            "bounding_box": {
+                "topLeftX": 0.8296112489660876,
+                "topLeftY": 0.11791383219954649,
+                "width": 0.0380479735318445,
+                "height": 0.024943310657596373
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "paid",
+            "bounding_box": {
+                "topLeftX": 0.8453267162944582,
+                "topLeftY": 0.18027210884353742,
+                "width": 0.04797353184449959,
+                "height": 0.024943310657596373
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "postage",
+            "bounding_box": {
+                "topLeftX": 0.8610421836228288,
+                "topLeftY": 0.1473922902494331,
+                "width": 0.06865177832919768,
+                "height": 0.027210884353741496
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "rate",
+            "bounding_box": {
+                "topLeftX": 0.8734491315136477,
+                "topLeftY": 0.11904761904761904,
+                "width": 0.03970223325062035,
+                "height": 0.023809523809523808
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "extra",
+            "bounding_box": {
+                "topLeftX": 0.1000827129859388,
+                "topLeftY": 0.46598639455782315,
+                "width": 0.04052936311000827,
+                "height": 0.035147392290249435
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "gw",
+            "bounding_box": {
+                "topLeftX": 0.08602150537634409,
+                "topLeftY": 0.35941043083900226,
+                "width": 0.0934656741108354,
+                "height": 0.1235827664399093
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "fine",
+            "bounding_box": {
+                "topLeftX": 0.141439205955335,
+                "topLeftY": 0.48299319727891155,
+                "width": 0.03391232423490488,
+                "height": 0.030612244897959183
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "granulated",
+            "bounding_box": {
+                "topLeftX": 0.09594706368899918,
+                "topLeftY": 0.48639455782312924,
+                "width": 0.08354011579818031,
+                "height": 0.05215419501133787
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "gw",
+            "bounding_box": {
+                "topLeftX": 0.13399503722084366,
+                "topLeftY": 0.045351473922902494,
+                "width": 0.05707196029776675,
+                "height": 0.049886621315192746
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "sugar",
+            "bounding_box": {
+                "topLeftX": 0.12241521918941274,
+                "topLeftY": 0.10770975056689343,
+                "width": 0.07526881720430108,
+                "height": 0.05215419501133787
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": []
+}

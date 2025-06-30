@@ -1,0 +1,90 @@
+{
+    "image_number": 149,
+    "user_answer": "4/02/80",
+    "correct_answer": "4/2/80",
+    "last_fixation_attention": [
+        {
+            "word": "1,674",
+            "bounding_box": {
+                "topLeftX": 0.7778757161745262,
+                "topLeftY": 0.25806451612903225,
+                "width": 0.03613926840017629,
+                "height": 0.019807583474816072
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "revised",
+            "bounding_box": {
+                "topLeftX": 0.7606875275451741,
+                "topLeftY": 0.18449349179400112,
+                "width": 0.05509034817100044,
+                "height": 0.01584606677985286
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "1981",
+            "bounding_box": {
+                "topLeftX": 0.7774349933891582,
+                "topLeftY": 0.16298811544991512,
+                "width": 0.02996914940502424,
+                "height": 0.01697792869269949
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "change",
+            "bounding_box": {
+                "topLeftX": 0.8664609960334949,
+                "topLeftY": 0.18505942275042445,
+                "width": 0.045835169678272364,
+                "height": 0.017543859649122806
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "1,674",
+            "bounding_box": {
+                "topLeftX": 0.7778757161745262,
+                "topLeftY": 0.25806451612903225,
+                "width": 0.03613926840017629,
+                "height": 0.019807583474816072
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "(1,558)",
+            "bounding_box": {
+                "topLeftX": 0.7708241516086382,
+                "topLeftY": 0.3152235427277872,
+                "width": 0.04847950639048039,
+                "height": 0.022637238256932653
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "-20",
+            "bounding_box": {
+                "topLeftX": 0.883208461877479,
+                "topLeftY": 0.26089417091114886,
+                "width": 0.021595416483032173,
+                "height": 0.01584606677985286
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "(-20)",
+            "bounding_box": {
+                "topLeftX": 0.875716174526223,
+                "topLeftY": 0.31635540464063383,
+                "width": 0.03393565447333627,
+                "height": 0.02037351443123939
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": []
+}

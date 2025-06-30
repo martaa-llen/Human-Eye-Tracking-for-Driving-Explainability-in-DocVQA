@@ -1,0 +1,69 @@
+{
+    "image_number": 132,
+    "user_answer": "4",
+    "correct_answer": "4",
+    "last_fixation_attention": [],
+    "pre_typing_attention": [
+        {
+            "word": "days",
+            "bounding_box": {
+                "topLeftX": 0.20115709835336004,
+                "topLeftY": 0.21555174385363066,
+                "width": 0.03115264797507788,
+                "height": 0.014865637507146942
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "1980",
+            "bounding_box": {
+                "topLeftX": 0.22785936804628393,
+                "topLeftY": 0.15494568324757005,
+                "width": 0.030262572318647086,
+                "height": 0.017724413950829045
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "darby:",
+            "bounding_box": {
+                "topLeftX": 0.17133956386292834,
+                "topLeftY": 0.15608919382504288,
+                "width": 0.04895416110369381,
+                "height": 0.017152658662092625
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "november",
+            "bounding_box": {
+                "topLeftX": 0.09701824655095684,
+                "topLeftY": 0.2641509433962264,
+                "width": 0.06008010680907877,
+                "height": 0.01429388221841052
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "nyc",
+            "bounding_box": {
+                "topLeftX": 0.2621272808188696,
+                "topLeftY": 0.2144082332761578,
+                "width": 0.023141967067200713,
+                "height": 0.016009148084619784
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "in",
+            "bounding_box": {
+                "topLeftX": 0.24076546506453048,
+                "topLeftY": 0.21497998856489423,
+                "width": 0.014241210502892745,
+                "height": 0.015437392795883362
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": []
+}
