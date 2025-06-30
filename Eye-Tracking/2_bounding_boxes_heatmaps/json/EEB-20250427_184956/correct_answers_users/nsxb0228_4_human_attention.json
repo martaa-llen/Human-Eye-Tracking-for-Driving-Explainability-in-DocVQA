@@ -1,0 +1,220 @@
+{
+    "image_number": 163,
+    "user_answer": "12/20/71",
+    "correct_answer": "12/20/71",
+    "last_fixation_attention": [],
+    "pre_typing_attention": [
+        {
+            "word": "the",
+            "bounding_box": {
+                "topLeftX": 0.3089500860585198,
+                "topLeftY": 0.21790341578327443,
+                "width": 0.04561101549053356,
+                "height": 0.03415783274440518
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "living",
+            "bounding_box": {
+                "topLeftX": 0.36058519793459554,
+                "topLeftY": 0.21790341578327443,
+                "width": 0.08261617900172118,
+                "height": 0.0353356890459364
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "vanderbilt",
+            "bounding_box": {
+                "topLeftX": 0.1927710843373494,
+                "topLeftY": 0.13898704358068315,
+                "width": 0.26592082616179,
+                "height": 0.04122497055359246
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "frank",
+            "bounding_box": {
+                "topLeftX": 0.2977624784853701,
+                "topLeftY": 0.3392226148409894,
+                "width": 0.08605851979345955,
+                "height": 0.03651354534746761
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "gratefully",
+            "bounding_box": {
+                "topLeftX": 0.27710843373493976,
+                "topLeftY": 0.26148409893992935,
+                "width": 0.13080895008605853,
+                "height": 0.05889281507656066
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "ms",
+            "bounding_box": {
+                "topLeftX": 0.28055077452667815,
+                "topLeftY": 0.6654888103651354,
+                "width": 0.03442340791738382,
+                "height": 0.02944640753828033
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "58",
+            "bounding_box": {
+                "topLeftX": 0.3347676419965577,
+                "topLeftY": 0.6654888103651354,
+                "width": 0.03270223752151463,
+                "height": 0.030624263839811542
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "m",
+            "bounding_box": {
+                "topLeftX": 0.2977624784853701,
+                "topLeftY": 0.7031802120141343,
+                "width": 0.016351118760757316,
+                "height": 0.03415783274440518
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "to",
+            "bounding_box": {
+                "topLeftX": 0.24784853700516352,
+                "topLeftY": 0.3404004711425206,
+                "width": 0.03098106712564544,
+                "height": 0.03651354534746761
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "00",
+            "bounding_box": {
+                "topLeftX": 0.1919104991394148,
+                "topLeftY": 0.3415783274440518,
+                "width": 0.035283993115318414,
+                "height": 0.0353356890459364
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "$80.",
+            "bounding_box": {
+                "topLeftX": 0.12392426850258176,
+                "topLeftY": 0.34275618374558303,
+                "width": 0.06368330464716007,
+                "height": 0.03415783274440518
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "no",
+            "bounding_box": {
+                "topLeftX": 0.24440619621342513,
+                "topLeftY": 0.3828032979976443,
+                "width": 0.03442340791738382,
+                "height": 0.03415783274440518
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "(check",
+            "bounding_box": {
+                "topLeftX": 0.12564543889845095,
+                "topLeftY": 0.3839811542991755,
+                "width": 0.09982788296041308,
+                "height": 0.03415783274440518
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "fund",
+            "bounding_box": {
+                "topLeftX": 0.7048192771084337,
+                "topLeftY": 0.3380447585394582,
+                "width": 0.06712564543889846,
+                "height": 0.0353356890459364
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "6211-4835-085-12",
+            "bounding_box": {
+                "topLeftX": 0.6523235800344234,
+                "topLeftY": 0.4994110718492344,
+                "width": 0.27969018932874357,
+                "height": 0.038869257950530034
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "12/20/71",
+            "bounding_box": {
+                "topLeftX": 0.7925989672977625,
+                "topLeftY": 0.2591283863368669,
+                "width": 0.13855421686746988,
+                "height": 0.03769140164899882
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "b13057",
+            "bounding_box": {
+                "topLeftX": 0.8270223752151463,
+                "topLeftY": 0.09658421672555949,
+                "width": 0.10240963855421686,
+                "height": 0.03769140164899882
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "xxxx>",
+            "bounding_box": {
+                "topLeftX": 0.9423407917383821,
+                "topLeftY": 0.13427561837455831,
+                "width": 0.01721170395869191,
+                "height": 0.1248527679623086
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "12/20/71",
+            "bounding_box": {
+                "topLeftX": 0.7925989672977625,
+                "topLeftY": 0.2591283863368669,
+                "width": 0.13855421686746988,
+                "height": 0.03769140164899882
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "a",
+            "bounding_box": {
+                "topLeftX": 0.5499139414802066,
+                "topLeftY": 0.8845700824499411,
+                "width": 0.011187607573149742,
+                "height": 0.02591283863368669
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "deduction",
+            "bounding_box": {
+                "topLeftX": 0.5671256454388984,
+                "topLeftY": 0.8845700824499411,
+                "width": 0.09208261617900172,
+                "height": 0.02591283863368669
+            },
+            "attention_score": 1.0
+        }
+    ]
+}

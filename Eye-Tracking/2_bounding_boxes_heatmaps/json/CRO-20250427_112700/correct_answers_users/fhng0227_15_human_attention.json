@@ -1,0 +1,291 @@
+{
+    "image_number": 115,
+    "user_answer": "7-27-61",
+    "correct_answer": "7-27-61",
+    "last_fixation_attention": [
+        {
+            "word": "pa73wb43",
+            "bounding_box": {
+                "topLeftX": 0.12416107382550336,
+                "topLeftY": 0.4163126593033135,
+                "width": 0.08892617449664429,
+                "height": 0.025488530161427356
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "with",
+            "bounding_box": {
+                "topLeftX": 0.4256152125279642,
+                "topLeftY": 0.5131690739167375,
+                "width": 0.04530201342281879,
+                "height": 0.0237892948173322
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "order",
+            "bounding_box": {
+                "topLeftX": 0.7186800894854586,
+                "topLeftY": 0.3169073916737468,
+                "width": 0.05536912751677853,
+                "height": 0.02463891248937978
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "7-27-61",
+            "bounding_box": {
+                "topLeftX": 0.7321029082774049,
+                "topLeftY": 0.4129141886151232,
+                "width": 0.07774049217002237,
+                "height": 0.02463891248937978
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "3-04725",
+            "bounding_box": {
+                "topLeftX": 0.43903803131991054,
+                "topLeftY": 0.4129141886151232,
+                "width": 0.07662192393736018,
+                "height": 0.027187765505522515
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "req.",
+            "bounding_box": {
+                "topLeftX": 0.3819910514541387,
+                "topLeftY": 0.41461342395921835,
+                "width": 0.04809843400447427,
+                "height": 0.028037383177570093
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "connection",
+            "bounding_box": {
+                "topLeftX": 0.3036912751677852,
+                "topLeftY": 0.5131690739167375,
+                "width": 0.11073825503355705,
+                "height": 0.0237892948173322
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "$500.00",
+            "bounding_box": {
+                "topLeftX": 0.3282997762863535,
+                "topLeftY": 0.5768903993203058,
+                "width": 0.07662192393736018,
+                "height": 0.026338147833474938
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "rec'd.",
+            "bounding_box": {
+                "topLeftX": 0.4172259507829978,
+                "topLeftY": 0.5751911639762107,
+                "width": 0.06431767337807606,
+                "height": 0.028037383177570093
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "locust",
+            "bounding_box": {
+                "topLeftX": 0.18008948545861297,
+                "topLeftY": 0.286321155480034,
+                "width": 0.06599552572706935,
+                "height": 0.025488530161427356
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "pa73wb43",
+            "bounding_box": {
+                "topLeftX": 0.12416107382550336,
+                "topLeftY": 0.4163126593033135,
+                "width": 0.08892617449664429,
+                "height": 0.025488530161427356
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "city",
+            "bounding_box": {
+                "topLeftX": 0.1347874720357942,
+                "topLeftY": 0.32030586236193714,
+                "width": 0.0441834451901566,
+                "height": 0.025488530161427356
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "services",
+            "bounding_box": {
+                "topLeftX": 0.17058165548098433,
+                "topLeftY": 0.514018691588785,
+                "width": 0.0883668903803132,
+                "height": 0.0237892948173322
+            },
+            "attention_score": 0.5
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "7-27-61",
+            "bounding_box": {
+                "topLeftX": 0.7321029082774049,
+                "topLeftY": 0.4129141886151232,
+                "width": 0.07774049217002237,
+                "height": 0.02463891248937978
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "650.00",
+            "bounding_box": {
+                "topLeftX": 0.8098434004474273,
+                "topLeftY": 0.5089209855564996,
+                "width": 0.06599552572706935,
+                "height": 0.025488530161427356
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "order",
+            "bounding_box": {
+                "topLeftX": 0.7186800894854586,
+                "topLeftY": 0.3169073916737468,
+                "width": 0.05536912751677853,
+                "height": 0.02463891248937978
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "audubon",
+            "bounding_box": {
+                "topLeftX": 0.7181208053691275,
+                "topLeftY": 0.22090059473237042,
+                "width": 0.07885906040268456,
+                "height": 0.0237892948173322
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "no.",
+            "bounding_box": {
+                "topLeftX": 0.7857941834451901,
+                "topLeftY": 0.3169073916737468,
+                "width": 0.036353467561521254,
+                "height": 0.02463891248937978
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "53077",
+            "bounding_box": {
+                "topLeftX": 0.8299776286353467,
+                "topLeftY": 0.31520815632965166,
+                "width": 0.05536912751677853,
+                "height": 0.026338147833474938
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "j.",
+            "bounding_box": {
+                "topLeftX": 0.7197986577181208,
+                "topLeftY": 0.7391673746813934,
+                "width": 0.025167785234899327,
+                "height": 0.0237892948173322
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "cullen",
+            "bounding_box": {
+                "topLeftX": 0.7527964205816555,
+                "topLeftY": 0.7374681393372983,
+                "width": 0.06655480984340045,
+                "height": 0.026338147833474938
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "james",
+            "bounding_box": {
+                "topLeftX": 0.6543624161073825,
+                "topLeftY": 0.7391673746813934,
+                "width": 0.05480984340044743,
+                "height": 0.02463891248937978
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "miss",
+            "bounding_box": {
+                "topLeftX": 0.371923937360179,
+                "topLeftY": 0.740016992353441,
+                "width": 0.0447427293064877,
+                "height": 0.026338147833474938
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "kaiser",
+            "bounding_box": {
+                "topLeftX": 0.4278523489932886,
+                "topLeftY": 0.7391673746813934,
+                "width": 0.06711409395973154,
+                "height": 0.026338147833474938
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "confirming",
+            "bounding_box": {
+                "topLeftX": 0.18064876957494408,
+                "topLeftY": 0.6440101954120646,
+                "width": 0.11241610738255034,
+                "height": 0.022939677145284623
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "sent",
+            "bounding_box": {
+                "topLeftX": 0.12583892617449666,
+                "topLeftY": 0.7417162276975361,
+                "width": 0.0447427293064877,
+                "height": 0.02463891248937978
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "copies",
+            "bounding_box": {
+                "topLeftX": 0.18064876957494408,
+                "topLeftY": 0.7417162276975361,
+                "width": 0.06823266219239374,
+                "height": 0.025488530161427356
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "to",
+            "bounding_box": {
+                "topLeftX": 0.2600671140939597,
+                "topLeftY": 0.7417162276975361,
+                "width": 0.02237136465324385,
+                "height": 0.025488530161427356
+            },
+            "attention_score": 0.5
+        }
+    ]
+}

@@ -1,0 +1,720 @@
+{
+    "image_number": 185,
+    "user_answer": "create perception of ACTOS reducing risk of cardiovascular complications starting in 2003",
+    "correct_answer": "create perception of actos reducing risk of cardiovascular complications starting in 2003",
+    "last_fixation_attention": [],
+    "pre_typing_attention": [
+        {
+            "word": "of",
+            "bounding_box": {
+                "topLeftX": 0.5077272727272727,
+                "topLeftY": 0.20449308755760368,
+                "width": 0.01818181818181818,
+                "height": 0.03052995391705069
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "marketing",
+            "bounding_box": {
+                "topLeftX": 0.44727272727272727,
+                "topLeftY": 0.11463133640552996,
+                "width": 0.14863636363636365,
+                "height": 0.05011520737327189
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "actos",
+            "bounding_box": {
+                "topLeftX": 0.53,
+                "topLeftY": 0.20449308755760368,
+                "width": 0.0740909090909091,
+                "height": 0.03052995391705069
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "perception",
+            "bounding_box": {
+                "topLeftX": 0.40045454545454545,
+                "topLeftY": 0.20449308755760368,
+                "width": 0.10318181818181818,
+                "height": 0.03052995391705069
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "starting",
+            "bounding_box": {
+                "topLeftX": 0.39,
+                "topLeftY": 0.2350230414746544,
+                "width": 0.07045454545454545,
+                "height": 0.03052995391705069
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "2003",
+            "bounding_box": {
+                "topLeftX": 0.48863636363636365,
+                "topLeftY": 0.23559907834101382,
+                "width": 0.046363636363636364,
+                "height": 0.02880184331797235
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "in",
+            "bounding_box": {
+                "topLeftX": 0.46545454545454545,
+                "topLeftY": 0.23559907834101382,
+                "width": 0.01681818181818182,
+                "height": 0.0293778801843318
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "target",
+            "bounding_box": {
+                "topLeftX": 0.4859090909090909,
+                "topLeftY": 0.29435483870967744,
+                "width": 0.06818181818181818,
+                "height": 0.03052995391705069
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": ":",
+            "bounding_box": {
+                "topLeftX": 0.3190909090909091,
+                "topLeftY": 0.20391705069124424,
+                "width": 0.008636363636363636,
+                "height": 0.03110599078341014
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "supporting",
+            "bounding_box": {
+                "topLeftX": 0.2840909090909091,
+                "topLeftY": 0.1152073732718894,
+                "width": 0.15636363636363637,
+                "height": 0.048963133640553
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "create",
+            "bounding_box": {
+                "topLeftX": 0.33181818181818185,
+                "topLeftY": 0.20449308755760368,
+                "width": 0.06454545454545454,
+                "height": 0.03052995391705069
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "complications",
+            "bounding_box": {
+                "topLeftX": 0.2545454545454545,
+                "topLeftY": 0.2350230414746544,
+                "width": 0.13090909090909092,
+                "height": 0.03052995391705069
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "objectives",
+            "bounding_box": {
+                "topLeftX": 0.6045454545454545,
+                "topLeftY": 0.11290322580645161,
+                "width": 0.15681818181818183,
+                "height": 0.05184331797235023
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "reducing",
+            "bounding_box": {
+                "topLeftX": 0.6081818181818182,
+                "topLeftY": 0.20449308755760368,
+                "width": 0.08409090909090909,
+                "height": 0.03052995391705069
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "risk",
+            "bounding_box": {
+                "topLeftX": 0.6959090909090909,
+                "topLeftY": 0.20449308755760368,
+                "width": 0.03636363636363636,
+                "height": 0.029953917050691243
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "of",
+            "bounding_box": {
+                "topLeftX": 0.735909090909091,
+                "topLeftY": 0.20391705069124424,
+                "width": 0.02181818181818182,
+                "height": 0.029953917050691243
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "clinical",
+            "bounding_box": {
+                "topLeftX": 0.09272727272727273,
+                "topLeftY": 0.11578341013824885,
+                "width": 0.11,
+                "height": 0.04205069124423963
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "cardiovascular",
+            "bounding_box": {
+                "topLeftX": 0.11045454545454546,
+                "topLeftY": 0.23617511520737328,
+                "width": 0.14045454545454544,
+                "height": 0.02880184331797235
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "marketing",
+            "bounding_box": {
+                "topLeftX": 0.11,
+                "topLeftY": 0.2021889400921659,
+                "width": 0.1040909090909091,
+                "height": 0.03225806451612903
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "plan",
+            "bounding_box": {
+                "topLeftX": 0.2081818181818182,
+                "topLeftY": 0.11578341013824885,
+                "width": 0.06681818181818182,
+                "height": 0.04435483870967742
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "objective",
+            "bounding_box": {
+                "topLeftX": 0.21863636363636363,
+                "topLeftY": 0.2033410138248848,
+                "width": 0.09636363636363636,
+                "height": 0.03168202764976959
+            },
+            "attention_score": 0.5
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "study",
+            "bounding_box": {
+                "topLeftX": 0.37454545454545457,
+                "topLeftY": 0.29435483870967744,
+                "width": 0.06227272727272727,
+                "height": 0.032834101382488476
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "2003",
+            "bounding_box": {
+                "topLeftX": 0.48863636363636365,
+                "topLeftY": 0.23559907834101382,
+                "width": 0.046363636363636364,
+                "height": 0.02880184331797235
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "of",
+            "bounding_box": {
+                "topLeftX": 0.5077272727272727,
+                "topLeftY": 0.20449308755760368,
+                "width": 0.01818181818181818,
+                "height": 0.03052995391705069
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "glac",
+            "bounding_box": {
+                "topLeftX": 0.29363636363636364,
+                "topLeftY": 0.44642857142857145,
+                "width": 0.04181818181818182,
+                "height": 0.019585253456221197
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "0boosts.ucsf.edu/docs/fzjf0226",
+            "bounding_box": {
+                "topLeftX": 0.5036363636363637,
+                "topLeftY": 0.9740783410138248,
+                "width": 0.2059090909090909,
+                "height": 0.023617511520737326
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "objective",
+            "bounding_box": {
+                "topLeftX": 0.21863636363636363,
+                "topLeftY": 0.2033410138248848,
+                "width": 0.09636363636363636,
+                "height": 0.03168202764976959
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "starting",
+            "bounding_box": {
+                "topLeftX": 0.39,
+                "topLeftY": 0.2350230414746544,
+                "width": 0.07045454545454545,
+                "height": 0.03052995391705069
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "clinical",
+            "bounding_box": {
+                "topLeftX": 0.29318181818181815,
+                "topLeftY": 0.2932027649769585,
+                "width": 0.07818181818181819,
+                "height": 0.03168202764976959
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "in",
+            "bounding_box": {
+                "topLeftX": 0.46545454545454545,
+                "topLeftY": 0.23559907834101382,
+                "width": 0.01681818181818182,
+                "height": 0.0293778801843318
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "target",
+            "bounding_box": {
+                "topLeftX": 0.4859090909090909,
+                "topLeftY": 0.29435483870967744,
+                "width": 0.06818181818181818,
+                "height": 0.03052995391705069
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "marketing",
+            "bounding_box": {
+                "topLeftX": 0.44727272727272727,
+                "topLeftY": 0.11463133640552996,
+                "width": 0.14863636363636365,
+                "height": 0.05011520737327189
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "actos",
+            "bounding_box": {
+                "topLeftX": 0.53,
+                "topLeftY": 0.20449308755760368,
+                "width": 0.0740909090909091,
+                "height": 0.03052995391705069
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "date",
+            "bounding_box": {
+                "topLeftX": 0.5581818181818182,
+                "topLeftY": 0.2932027649769585,
+                "width": 0.05409090909090909,
+                "height": 0.03110599078341014
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "reducing",
+            "bounding_box": {
+                "topLeftX": 0.6081818181818182,
+                "topLeftY": 0.20449308755760368,
+                "width": 0.08409090909090909,
+                "height": 0.03052995391705069
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "risk",
+            "bounding_box": {
+                "topLeftX": 0.6959090909090909,
+                "topLeftY": 0.20449308755760368,
+                "width": 0.03636363636363636,
+                "height": 0.029953917050691243
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "of",
+            "bounding_box": {
+                "topLeftX": 0.735909090909091,
+                "topLeftY": 0.20391705069124424,
+                "width": 0.02181818181818182,
+                "height": 0.029953917050691243
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "action",
+            "bounding_box": {
+                "topLeftX": 0.6872727272727273,
+                "topLeftY": 0.29435483870967744,
+                "width": 0.06681818181818182,
+                "height": 0.02880184331797235
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "strategic",
+            "bounding_box": {
+                "topLeftX": 0.11545454545454545,
+                "topLeftY": 0.2932027649769585,
+                "width": 0.09409090909090909,
+                "height": 0.029953917050691243
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "cardiovascular",
+            "bounding_box": {
+                "topLeftX": 0.11045454545454546,
+                "topLeftY": 0.23617511520737328,
+                "width": 0.14045454545454544,
+                "height": 0.02880184331797235
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "marketing",
+            "bounding_box": {
+                "topLeftX": 0.11,
+                "topLeftY": 0.2021889400921659,
+                "width": 0.1040909090909091,
+                "height": 0.03225806451612903
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "objective",
+            "bounding_box": {
+                "topLeftX": 0.1159090909090909,
+                "topLeftY": 0.32661290322580644,
+                "width": 0.09636363636363636,
+                "height": 0.03052995391705069
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "lilly",
+            "bounding_box": {
+                "topLeftX": 0.47454545454545455,
+                "topLeftY": 0.8675115207373272,
+                "width": 0.015,
+                "height": 0.013248847926267281
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "company",
+            "bounding_box": {
+                "topLeftX": 0.5081818181818182,
+                "topLeftY": 0.8675115207373272,
+                "width": 0.03727272727272727,
+                "height": 0.013824884792626729
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "and",
+            "bounding_box": {
+                "topLeftX": 0.4913636363636364,
+                "topLeftY": 0.8675115207373272,
+                "width": 0.014545454545454545,
+                "height": 0.013248847926267281
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": ":",
+            "bounding_box": {
+                "topLeftX": 0.3190909090909091,
+                "topLeftY": 0.20391705069124424,
+                "width": 0.008636363636363636,
+                "height": 0.03110599078341014
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "supporting",
+            "bounding_box": {
+                "topLeftX": 0.2840909090909091,
+                "topLeftY": 0.1152073732718894,
+                "width": 0.15636363636363637,
+                "height": 0.048963133640553
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "create",
+            "bounding_box": {
+                "topLeftX": 0.33181818181818185,
+                "topLeftY": 0.20449308755760368,
+                "width": 0.06454545454545454,
+                "height": 0.03052995391705069
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "complications",
+            "bounding_box": {
+                "topLeftX": 0.2545454545454545,
+                "topLeftY": 0.2350230414746544,
+                "width": 0.13090909090909092,
+                "height": 0.03052995391705069
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "perception",
+            "bounding_box": {
+                "topLeftX": 0.40045454545454545,
+                "topLeftY": 0.20449308755760368,
+                "width": 0.10318181818181818,
+                "height": 0.03052995391705069
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "objectives",
+            "bounding_box": {
+                "topLeftX": 0.6045454545454545,
+                "topLeftY": 0.11290322580645161,
+                "width": 0.15681818181818183,
+                "height": 0.05184331797235023
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "publication",
+            "bounding_box": {
+                "topLeftX": 0.7081818181818181,
+                "topLeftY": 0.7407834101382489,
+                "width": 0.08227272727272728,
+                "height": 0.022465437788018433
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "symposia",
+            "bounding_box": {
+                "topLeftX": 0.7077272727272728,
+                "topLeftY": 0.7667050691244239,
+                "width": 0.0740909090909091,
+                "height": 0.022465437788018433
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "to",
+            "bounding_box": {
+                "topLeftX": 0.7936363636363636,
+                "topLeftY": 0.7407834101382489,
+                "width": 0.014090909090909091,
+                "height": 0.022465437788018433
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "be",
+            "bounding_box": {
+                "topLeftX": 0.8113636363636364,
+                "topLeftY": 0.7407834101382489,
+                "width": 0.019545454545454546,
+                "height": 0.022465437788018433
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "focus",
+            "bounding_box": {
+                "topLeftX": 0.785,
+                "topLeftY": 0.7667050691244239,
+                "width": 0.04454545454545455,
+                "height": 0.021889400921658985
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "pla-tak-00053924",
+            "bounding_box": {
+                "topLeftX": 0.8563636363636363,
+                "topLeftY": 0.9349078341013825,
+                "width": 0.10954545454545454,
+                "height": 0.018433179723502304
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "plan",
+            "bounding_box": {
+                "topLeftX": 0.7586363636363637,
+                "topLeftY": 0.2955069124423963,
+                "width": 0.04909090909090909,
+                "height": 0.028225806451612902
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "be",
+            "bounding_box": {
+                "topLeftX": 0.8109090909090909,
+                "topLeftY": 0.5967741935483871,
+                "width": 0.019545454545454546,
+                "height": 0.020737327188940093
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "to",
+            "bounding_box": {
+                "topLeftX": 0.7927272727272727,
+                "topLeftY": 0.5967741935483871,
+                "width": 0.015,
+                "height": 0.020737327188940093
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "to",
+            "bounding_box": {
+                "topLeftX": 0.7809090909090909,
+                "topLeftY": 0.6209677419354839,
+                "width": 0.015454545454545455,
+                "height": 0.020737327188940093
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "planned",
+            "bounding_box": {
+                "topLeftX": 0.8336363636363636,
+                "topLeftY": 0.5973502304147466,
+                "width": 0.05909090909090909,
+                "height": 0.020161290322580645
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "submitted",
+            "bounding_box": {
+                "topLeftX": 0.8222727272727273,
+                "topLeftY": 0.6203917050691244,
+                "width": 0.07363636363636364,
+                "height": 0.023617511520737326
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "be",
+            "bounding_box": {
+                "topLeftX": 0.7990909090909091,
+                "topLeftY": 0.6209677419354839,
+                "width": 0.02090909090909091,
+                "height": 0.02131336405529954
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "for",
+            "bounding_box": {
+                "topLeftX": 0.8386363636363636,
+                "topLeftY": 0.6923963133640553,
+                "width": 0.023636363636363636,
+                "height": 0.02304147465437788
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "submit",
+            "bounding_box": {
+                "topLeftX": 0.7863636363636364,
+                "topLeftY": 0.6929723502304147,
+                "width": 0.04909090909090909,
+                "height": 0.021889400921658985
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "plan",
+            "bounding_box": {
+                "topLeftX": 0.2081818181818182,
+                "topLeftY": 0.11578341013824885,
+                "width": 0.06681818181818182,
+                "height": 0.04435483870967742
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "glae",
+            "bounding_box": {
+                "topLeftX": 0.29363636363636364,
+                "topLeftY": 0.3652073732718894,
+                "width": 0.04363636363636364,
+                "height": 0.020161290322580645
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "in",
+            "bounding_box": {
+                "topLeftX": 0.21363636363636362,
+                "topLeftY": 0.39055299539170507,
+                "width": 0.014545454545454545,
+                "height": 0.019009216589861752
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "glai",
+            "bounding_box": {
+                "topLeftX": 0.29318181818181815,
+                "topLeftY": 0.4700460829493088,
+                "width": 0.038181818181818185,
+                "height": 0.020161290322580645
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "demonstrate",
+            "bounding_box": {
+                "topLeftX": 0.11409090909090909,
+                "topLeftY": 0.3663594470046083,
+                "width": 0.09181818181818181,
+                "height": 0.020737327188940093
+            },
+            "attention_score": 0.3333333333333333
+        }
+    ]
+}

@@ -1,0 +1,310 @@
+{
+    "image_number": 158,
+    "user_answer": "Dr. William J. Darby",
+    "correct_answer": "dr. william j. darby",
+    "last_fixation_attention": [],
+    "pre_typing_attention": [
+        {
+            "word": "executive",
+            "bounding_box": {
+                "topLeftX": 0.06905370843989769,
+                "topLeftY": 0.1502403846153846,
+                "width": 0.11061381074168798,
+                "height": 0.026442307692307692
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "tennessee",
+            "bounding_box": {
+                "topLeftX": 0.13107416879795397,
+                "topLeftY": 0.109375,
+                "width": 0.1010230179028133,
+                "height": 0.02283653846153846
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "nashville",
+            "bounding_box": {
+                "topLeftX": 0.1118925831202046,
+                "topLeftY": 0.19471153846153846,
+                "width": 0.08375959079283887,
+                "height": 0.026442307692307692
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "37219",
+            "bounding_box": {
+                "topLeftX": 0.20971867007672634,
+                "topLeftY": 0.19591346153846154,
+                "width": 0.04156010230179028,
+                "height": 0.025240384615384616
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "chamber",
+            "bounding_box": {
+                "topLeftX": 0.19309462915601022,
+                "topLeftY": 0.15144230769230768,
+                "width": 0.09718670076726342,
+                "height": 0.026442307692307692
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "u.s.postage",
+            "bounding_box": {
+                "topLeftX": 0.840153452685422,
+                "topLeftY": 0.18269230769230768,
+                "width": 0.09398976982097186,
+                "height": 0.038461538461538464
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "dr.",
+            "bounding_box": {
+                "topLeftX": 0.41048593350383633,
+                "topLeftY": 0.47596153846153844,
+                "width": 0.03516624040920716,
+                "height": 0.03125
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "william",
+            "bounding_box": {
+                "topLeftX": 0.4539641943734015,
+                "topLeftY": 0.47596153846153844,
+                "width": 0.07608695652173914,
+                "height": 0.036057692307692304
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "division",
+            "bounding_box": {
+                "topLeftX": 0.409846547314578,
+                "topLeftY": 0.5588942307692307,
+                "width": 0.08823529411764706,
+                "height": 0.036057692307692304
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "vanderbilt",
+            "bounding_box": {
+                "topLeftX": 0.41048593350383633,
+                "topLeftY": 0.5204326923076923,
+                "width": 0.11061381074168798,
+                "height": 0.03485576923076923
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "nashville,",
+            "bounding_box": {
+                "topLeftX": 0.4092071611253197,
+                "topLeftY": 0.5997596153846154,
+                "width": 0.11508951406649616,
+                "height": 0.036057692307692304
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "of",
+            "bounding_box": {
+                "topLeftX": 0.510230179028133,
+                "topLeftY": 0.5600961538461539,
+                "width": 0.021739130434782608,
+                "height": 0.036057692307692304
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "comes",
+            "bounding_box": {
+                "topLeftX": 0.47058823529411764,
+                "topLeftY": 0.3161057692307692,
+                "width": 0.04092071611253197,
+                "height": 0.025240384615384616
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "just",
+            "bounding_box": {
+                "topLeftX": 0.440537084398977,
+                "topLeftY": 0.3173076923076923,
+                "width": 0.027493606138107418,
+                "height": 0.025240384615384616
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "ucsf.edu/docs/ggib0228",
+            "bounding_box": {
+                "topLeftX": 0.5773657289002557,
+                "topLeftY": 0.9495192307692307,
+                "width": 0.22506393861892582,
+                "height": 0.037259615384615384
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "j.",
+            "bounding_box": {
+                "topLeftX": 0.5428388746803069,
+                "topLeftY": 0.47596153846153844,
+                "width": 0.023657289002557546,
+                "height": 0.037259615384615384
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "darby",
+            "bounding_box": {
+                "topLeftX": 0.5741687979539642,
+                "topLeftY": 0.47475961538461536,
+                "width": 0.054987212276214836,
+                "height": 0.039663461538461536
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "university",
+            "bounding_box": {
+                "topLeftX": 0.530690537084399,
+                "topLeftY": 0.5204326923076923,
+                "width": 0.10997442455242967,
+                "height": 0.037259615384615384
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "nutrition",
+            "bounding_box": {
+                "topLeftX": 0.5415601023017903,
+                "topLeftY": 0.5600961538461539,
+                "width": 0.09910485933503836,
+                "height": 0.036057692307692304
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "tennessee",
+            "bounding_box": {
+                "topLeftX": 0.532608695652174,
+                "topLeftY": 0.6009615384615384,
+                "width": 0.09718670076726342,
+                "height": 0.03485576923076923
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "dr.",
+            "bounding_box": {
+                "topLeftX": 0.41048593350383633,
+                "topLeftY": 0.47596153846153844,
+                "width": 0.03516624040920716,
+                "height": 0.03125
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "william",
+            "bounding_box": {
+                "topLeftX": 0.4539641943734015,
+                "topLeftY": 0.47596153846153844,
+                "width": 0.07608695652173914,
+                "height": 0.036057692307692304
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "division",
+            "bounding_box": {
+                "topLeftX": 0.409846547314578,
+                "topLeftY": 0.5588942307692307,
+                "width": 0.08823529411764706,
+                "height": 0.036057692307692304
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "vanderbilt",
+            "bounding_box": {
+                "topLeftX": 0.41048593350383633,
+                "topLeftY": 0.5204326923076923,
+                "width": 0.11061381074168798,
+                "height": 0.03485576923076923
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "nashville,",
+            "bounding_box": {
+                "topLeftX": 0.4092071611253197,
+                "topLeftY": 0.5997596153846154,
+                "width": 0.11508951406649616,
+                "height": 0.036057692307692304
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "of",
+            "bounding_box": {
+                "topLeftX": 0.510230179028133,
+                "topLeftY": 0.5600961538461539,
+                "width": 0.021739130434782608,
+                "height": 0.036057692307692304
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "u.s.postage",
+            "bounding_box": {
+                "topLeftX": 0.840153452685422,
+                "topLeftY": 0.18269230769230768,
+                "width": 0.09398976982097186,
+                "height": 0.038461538461538464
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": ".08",
+            "bounding_box": {
+                "topLeftX": 0.8753196930946292,
+                "topLeftY": 0.25841346153846156,
+                "width": 0.04411764705882353,
+                "height": 0.04326923076923077
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "natural",
+            "bounding_box": {
+                "topLeftX": 0.5140664961636828,
+                "topLeftY": 0.3161057692307692,
+                "width": 0.053069053708439895,
+                "height": 0.025240384615384616
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "it",
+            "bounding_box": {
+                "topLeftX": 0.42710997442455245,
+                "topLeftY": 0.3173076923076923,
+                "width": 0.010869565217391304,
+                "height": 0.025240384615384616
+            },
+            "attention_score": 0.5
+        }
+    ]
+}

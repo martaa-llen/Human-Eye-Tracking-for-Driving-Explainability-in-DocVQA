@@ -1,0 +1,130 @@
+{
+    "image_number": 8,
+    "user_answer": "Consequences of ir",
+    "correct_answer": "consequences of ir",
+    "last_fixation_attention": [],
+    "pre_typing_attention": [
+        {
+            "word": "resistance",
+            "bounding_box": {
+                "topLeftX": 0.39954545454545454,
+                "topLeftY": 0.5478110599078341,
+                "width": 0.1590909090909091,
+                "height": 0.03398617511520737
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "insulin",
+            "bounding_box": {
+                "topLeftX": 0.42454545454545456,
+                "topLeftY": 0.5028801843317973,
+                "width": 0.09727272727272727,
+                "height": 0.03456221198156682
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "of",
+            "bounding_box": {
+                "topLeftX": 0.4009090909090909,
+                "topLeftY": 0.11578341013824885,
+                "width": 0.042272727272727274,
+                "height": 0.0478110599078341
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "eyes",
+            "bounding_box": {
+                "topLeftX": 0.27454545454545454,
+                "topLeftY": 0.24078341013824886,
+                "width": 0.042272727272727274,
+                "height": 0.02304147465437788
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "kidneys",
+            "bounding_box": {
+                "topLeftX": 0.26,
+                "topLeftY": 0.27534562211981567,
+                "width": 0.07318181818181818,
+                "height": 0.024193548387096774
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "nerves",
+            "bounding_box": {
+                "topLeftX": 0.26545454545454544,
+                "topLeftY": 0.31105990783410137,
+                "width": 0.06318181818181819,
+                "height": 0.024193548387096774
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "https://www.induposciscoooacts.ucsf.edu/docs/ynjf0226",
+            "bounding_box": {
+                "topLeftX": 0.3431818181818182,
+                "topLeftY": 0.9746543778801844,
+                "width": 0.3690909090909091,
+                "height": 0.022465437788018433
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "to",
+            "bounding_box": {
+                "topLeftX": 0.25181818181818183,
+                "topLeftY": 0.2402073732718894,
+                "width": 0.017727272727272727,
+                "height": 0.02304147465437788
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "consequences",
+            "bounding_box": {
+                "topLeftX": 0.09454545454545454,
+                "topLeftY": 0.1152073732718894,
+                "width": 0.2972727272727273,
+                "height": 0.048963133640553
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "damage",
+            "bounding_box": {
+                "topLeftX": 0.175,
+                "topLeftY": 0.23963133640552994,
+                "width": 0.07272727272727272,
+                "height": 0.02304147465437788
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "ir",
+            "bounding_box": {
+                "topLeftX": 0.45,
+                "topLeftY": 0.11463133640552996,
+                "width": 0.04,
+                "height": 0.04665898617511521
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "of",
+            "bounding_box": {
+                "topLeftX": 0.4009090909090909,
+                "topLeftY": 0.11578341013824885,
+                "width": 0.042272727272727274,
+                "height": 0.0478110599078341
+            },
+            "attention_score": 1.0
+        }
+    ]
+}
