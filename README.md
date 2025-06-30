@@ -79,8 +79,8 @@ This component uses the VT5 model to generate predictions and attention maps for
 #### Key Features & Modifications
 - **Textual Attention Map Generation**: The model was used to extract decoder cross-attention scores, which were aggregated to a word-level to produce an AI attention map for each document-question pair.
 - **Causal Occlusion Experiments**: The core of the AI-side analysis. The model was run on modified inputs where information was selectively hidden or revealed based on the human consensus heatmaps to test for sufficiency and necessity.
-- My Additions:
-  - Developed scripts to systematically run the model on the experimental dataset.
+- **My Additions**:
+  - Generated visual and textual attention heatmaps of the model's performance.
   - Implemented the logic for the occlusion experiments (generating masked images and filtered text inputs).
   - Modified the `eval.py` to save the model's textual attention maps in a format compatible with the human data analysis pipeline.
 
@@ -102,7 +102,7 @@ This component uses the VT5 model to generate predictions and attention maps for
     python train.py --dataset PFL-DocVQA-BLUE --model VT5
 
     ```
-  - To evaluate the model (on my selected dataset):
+  - To evaluate the model and generate attention maps:
     ```
     python eval.py --dataset DocVQA --model VT5
     ```
