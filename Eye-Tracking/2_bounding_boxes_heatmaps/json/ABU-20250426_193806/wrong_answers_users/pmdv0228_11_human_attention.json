@@ -1,0 +1,161 @@
+{
+    "image_number": 132,
+    "user_answer": "16",
+    "correct_answer": "4",
+    "last_fixation_attention": [
+        {
+            "word": "16",
+            "bounding_box": {
+                "topLeftX": 0.2421005785491767,
+                "topLeftY": 0.5323041738136077,
+                "width": 0.017801513128615932,
+                "height": 0.02115494568324757
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "days",
+            "bounding_box": {
+                "topLeftX": 0.20115709835336004,
+                "topLeftY": 0.21555174385363066,
+                "width": 0.03115264797507788,
+                "height": 0.014865637507146942
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "1980",
+            "bounding_box": {
+                "topLeftX": 0.22785936804628393,
+                "topLeftY": 0.15494568324757005,
+                "width": 0.030262572318647086,
+                "height": 0.017724413950829045
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "nyc",
+            "bounding_box": {
+                "topLeftX": 0.2621272808188696,
+                "topLeftY": 0.2144082332761578,
+                "width": 0.023141967067200713,
+                "height": 0.016009148084619784
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "in",
+            "bounding_box": {
+                "topLeftX": 0.24076546506453048,
+                "topLeftY": 0.21497998856489423,
+                "width": 0.014241210502892745,
+                "height": 0.015437392795883362
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "14",
+            "bounding_box": {
+                "topLeftX": 0.1886960391633289,
+                "topLeftY": 0.37735849056603776,
+                "width": 0.01335113484646195,
+                "height": 0.018867924528301886
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "outside",
+            "bounding_box": {
+                "topLeftX": 0.4196706720071206,
+                "topLeftY": 0.21326472269868496,
+                "width": 0.05384957721406319,
+                "height": 0.015437392795883362
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "nyc",
+            "bounding_box": {
+                "topLeftX": 0.5028927458834,
+                "topLeftY": 0.21269296740994853,
+                "width": 0.02358700489541611,
+                "height": 0.015437392795883362
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "days",
+            "bounding_box": {
+                "topLeftX": 0.38139741878059635,
+                "topLeftY": 0.21326472269868496,
+                "width": 0.03204272363150868,
+                "height": 0.016009148084619784
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "of",
+            "bounding_box": {
+                "topLeftX": 0.48064085447263016,
+                "topLeftY": 0.21326472269868496,
+                "width": 0.01557632398753894,
+                "height": 0.014865637507146942
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "1",
+            "bounding_box": {
+                "topLeftX": 0.43346684468179797,
+                "topLeftY": 0.2990280160091481,
+                "width": 0.008900756564307966,
+                "height": 0.016009148084619784
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "2",
+            "bounding_box": {
+                "topLeftX": 0.43569203382287497,
+                "topLeftY": 0.5328759291023442,
+                "width": 0.011125945705384957,
+                "height": 0.02115494568324757
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "w",
+            "bounding_box": {
+                "topLeftX": 0.24343569203382287,
+                "topLeftY": 0.49514008004574045,
+                "width": 0.012016021361815754,
+                "height": 0.010863350485991996
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "16",
+            "bounding_box": {
+                "topLeftX": 0.2421005785491767,
+                "topLeftY": 0.5323041738136077,
+                "width": 0.017801513128615932,
+                "height": 0.02115494568324757
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "w",
+            "bounding_box": {
+                "topLeftX": 0.24343569203382287,
+                "topLeftY": 0.49514008004574045,
+                "width": 0.012016021361815754,
+                "height": 0.010863350485991996
+            },
+            "attention_score": 1.0
+        }
+    ]
+}

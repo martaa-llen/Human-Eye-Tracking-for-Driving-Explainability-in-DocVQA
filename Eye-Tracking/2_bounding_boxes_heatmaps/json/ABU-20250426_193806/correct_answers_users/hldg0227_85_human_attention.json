@@ -1,0 +1,190 @@
+{
+    "image_number": 212,
+    "user_answer": "6",
+    "correct_answer": "6",
+    "last_fixation_attention": [],
+    "pre_typing_attention": [
+        {
+            "word": "supplemented",
+            "bounding_box": {
+                "topLeftX": 0.5720823798627003,
+                "topLeftY": 0.178359096313912,
+                "width": 0.1208237986270023,
+                "height": 0.02318668252080856
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "diets",
+            "bounding_box": {
+                "topLeftX": 0.6320366132723112,
+                "topLeftY": 0.1361474435196195,
+                "width": 0.05034324942791762,
+                "height": 0.02318668252080856
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "with",
+            "bounding_box": {
+                "topLeftX": 0.6983981693363844,
+                "topLeftY": 0.178359096313912,
+                "width": 0.043478260869565216,
+                "height": 0.022592152199762187
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "with",
+            "bounding_box": {
+                "topLeftX": 0.6897025171624714,
+                "topLeftY": 0.1361474435196195,
+                "width": 0.041189931350114416,
+                "height": 0.022592152199762187
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "different",
+            "bounding_box": {
+                "topLeftX": 0.740045766590389,
+                "topLeftY": 0.1361474435196195,
+                "width": 0.09153318077803203,
+                "height": 0.021997621878715814
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "sulfur",
+            "bounding_box": {
+                "topLeftX": 0.7510297482837529,
+                "topLeftY": 0.178359096313912,
+                "width": 0.06041189931350115,
+                "height": 0.022592152199762187
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "fourteen-day",
+            "bounding_box": {
+                "topLeftX": 0.2242562929061785,
+                "topLeftY": 0.13733650416171225,
+                "width": 0.11990846681922197,
+                "height": 0.02318668252080856
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "tryptophan",
+            "bounding_box": {
+                "topLeftX": 0.16521739130434782,
+                "topLeftY": 0.2235434007134364,
+                "width": 0.09977116704805492,
+                "height": 0.02318668252080856
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "dac-glycine",
+            "bounding_box": {
+                "topLeftX": 0.12356979405034325,
+                "topLeftY": 0.18014268727705113,
+                "width": 0.11304347826086956,
+                "height": 0.023781212841854936
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "6.",
+            "bounding_box": {
+                "topLeftX": 0.1853546910755149,
+                "topLeftY": 0.13793103448275862,
+                "width": 0.021967963386727688,
+                "height": 0.021997621878715814
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "replacement",
+            "bounding_box": {
+                "topLeftX": 0.24439359267734553,
+                "topLeftY": 0.17954815695600476,
+                "width": 0.11167048054919909,
+                "height": 0.023781212841854936
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "table",
+            "bounding_box": {
+                "topLeftX": 0.12540045766590388,
+                "topLeftY": 0.13852556480380498,
+                "width": 0.05080091533180778,
+                "height": 0.02140309155766944
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "fourteen-day",
+            "bounding_box": {
+                "topLeftX": 0.2242562929061785,
+                "topLeftY": 0.13733650416171225,
+                "width": 0.11990846681922197,
+                "height": 0.02318668252080856
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "tryptophan",
+            "bounding_box": {
+                "topLeftX": 0.16521739130434782,
+                "topLeftY": 0.2235434007134364,
+                "width": 0.09977116704805492,
+                "height": 0.02318668252080856
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "dac-glycine",
+            "bounding_box": {
+                "topLeftX": 0.12356979405034325,
+                "topLeftY": 0.18014268727705113,
+                "width": 0.11304347826086956,
+                "height": 0.023781212841854936
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "6.",
+            "bounding_box": {
+                "topLeftX": 0.1853546910755149,
+                "topLeftY": 0.13793103448275862,
+                "width": 0.021967963386727688,
+                "height": 0.021997621878715814
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "replacement",
+            "bounding_box": {
+                "topLeftX": 0.24439359267734553,
+                "topLeftY": 0.17954815695600476,
+                "width": 0.11167048054919909,
+                "height": 0.023781212841854936
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "table",
+            "bounding_box": {
+                "topLeftX": 0.12540045766590388,
+                "topLeftY": 0.13852556480380498,
+                "width": 0.05080091533180778,
+                "height": 0.02140309155766944
+            },
+            "attention_score": 1.0
+        }
+    ]
+}
