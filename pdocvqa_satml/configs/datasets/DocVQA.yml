@@ -1,10 +1,10 @@
 dataset_name: DocVQA
 #imdb_dir: /data/PFL-DocVQA/imdb/blue # TODO: CHANGE THIS!
-imdb_dir: "D:/tfg/TFG_FINAL" #"C:/Users/marta/tfg"
+imdb_dir: "Human-Eye-Tracking-for-Driving-Explainability-in-DocVQA"
 
 # either point at a directory of jpeg files:
 #images_dir: /data/PFL-DocVQA/images/blue/
-images_dir: "D:/tfg/TFG_FINAL/dataset_landscape" #"C:/Users/marta/tfg/dataset_landscape"
+images_dir: "Human-Eye-Tracking-for-Driving-Explainability-in-DocVQA/dataset_landscape"
 # or a hdf5 archive, while using cmdline flag: -h5 / --use_h5
 # images_h5_path: /data/PFL-DocVQA/images/blue_images.h5
 
