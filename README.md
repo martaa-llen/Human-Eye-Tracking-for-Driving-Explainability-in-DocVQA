@@ -1,7 +1,8 @@
 # Human-Eye-Tracking-for-Driving-Explainability-in-DocVQA
 
-This repository contains the code for the paper "Human Eye-Tracking for Driving
-Explainability in DocVQA". This project integrates two primary components: a real-time eye-tracking system and a DocVQA model, to explore how human gaze can enhance explainability in visual document analysis. 
+This repository contains the code for the paper "Human Eye-Tracking for Driving Explainability in DocVQA". 
+
+This project addresses the lack of transparency in DocVQA models by comparing AI-generated attention with human cognitive processes captured via eye-tracking. We recorded gaze data from 30 participants and performed causal occlusion experiments on a multimodal model to test its reliance on human-attended information. The findings expose a critical "explainability gap," validating the use of human cognitive data as a ground truth for developing more transparent and trustworthy AI systems.
 
 This work is based on two projects: 
 1. **Eye-Tracking**: A system for conducting eye-tracking experiments and analyzing gaze data, adapted from  [luckydeignan/Eye-Tracking](https://github.com/luckydeignan/Eye-Tracking).
