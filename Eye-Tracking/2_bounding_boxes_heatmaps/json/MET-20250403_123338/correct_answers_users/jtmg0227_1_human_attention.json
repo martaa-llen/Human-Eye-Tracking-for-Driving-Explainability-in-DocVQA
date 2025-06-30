@@ -1,0 +1,120 @@
+{
+    "image_number": 120,
+    "user_answer": "32709",
+    "correct_answer": "32709",
+    "last_fixation_attention": [
+        {
+            "word": "32709",
+            "bounding_box": {
+                "topLeftX": 0.8070469798657718,
+                "topLeftY": 0.28862478777589134,
+                "width": 0.05425055928411633,
+                "height": 0.02461799660441426
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "ibm",
+            "bounding_box": {
+                "topLeftX": 0.14541387024608501,
+                "topLeftY": 0.2266553480475382,
+                "width": 0.0296420581655481,
+                "height": 0.023769100169779286
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "3590",
+            "bounding_box": {
+                "topLeftX": 0.14429530201342283,
+                "topLeftY": 0.25806451612903225,
+                "width": 0.0436241610738255,
+                "height": 0.02461799660441426
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "city",
+            "bounding_box": {
+                "topLeftX": 0.14373601789709173,
+                "topLeftY": 0.2920203735144312,
+                "width": 0.04530201342281879,
+                "height": 0.023769100169779286
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "lindell",
+            "bounding_box": {
+                "topLeftX": 0.19910514541387025,
+                "topLeftY": 0.25806451612903225,
+                "width": 0.07885906040268456,
+                "height": 0.025466893039049237
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "corporation",
+            "bounding_box": {
+                "topLeftX": 0.18736017897091722,
+                "topLeftY": 0.2266553480475382,
+                "width": 0.12360178970917227,
+                "height": 0.02461799660441426
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "wohl",
+            "bounding_box": {
+                "topLeftX": 0.6476510067114094,
+                "topLeftY": 0.12818336162988114,
+                "width": 0.04530201342281879,
+                "height": 0.023769100169779286
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "clinic",
+            "bounding_box": {
+                "topLeftX": 0.7046979865771812,
+                "topLeftY": 0.12818336162988114,
+                "width": 0.06599552572706935,
+                "height": 0.023769100169779286
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "4950",
+            "bounding_box": {
+                "topLeftX": 0.6482102908277405,
+                "topLeftY": 0.15959252971137522,
+                "width": 0.0441834451901566,
+                "height": 0.023769100169779286
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "32709",
+            "bounding_box": {
+                "topLeftX": 0.8070469798657718,
+                "topLeftY": 0.28862478777589134,
+                "width": 0.05425055928411633,
+                "height": 0.02461799660441426
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "no.",
+            "bounding_box": {
+                "topLeftX": 0.7606263982102909,
+                "topLeftY": 0.2894736842105263,
+                "width": 0.035794183445190156,
+                "height": 0.023769100169779286
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": []
+}

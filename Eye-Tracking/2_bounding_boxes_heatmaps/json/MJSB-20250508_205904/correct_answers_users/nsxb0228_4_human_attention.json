@@ -1,0 +1,121 @@
+{
+    "image_number": 163,
+    "user_answer": "12/20/71",
+    "correct_answer": "12/20/71",
+    "last_fixation_attention": [
+        {
+            "word": "6211-4835-085-12",
+            "bounding_box": {
+                "topLeftX": 0.6523235800344234,
+                "topLeftY": 0.4994110718492344,
+                "width": 0.27969018932874357,
+                "height": 0.038869257950530034
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "duplicate",
+            "bounding_box": {
+                "topLeftX": 0.6497418244406197,
+                "topLeftY": 0.10011778563015312,
+                "width": 0.15834767641996558,
+                "height": 0.03297997644287397
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "12/20/71",
+            "bounding_box": {
+                "topLeftX": 0.7925989672977625,
+                "topLeftY": 0.2591283863368669,
+                "width": 0.13855421686746988,
+                "height": 0.03769140164899882
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "6211-4835-085-12",
+            "bounding_box": {
+                "topLeftX": 0.6523235800344234,
+                "topLeftY": 0.4994110718492344,
+                "width": 0.27969018932874357,
+                "height": 0.038869257950530034
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "a",
+            "bounding_box": {
+                "topLeftX": 0.5499139414802066,
+                "topLeftY": 0.8845700824499411,
+                "width": 0.011187607573149742,
+                "height": 0.02591283863368669
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "mx",
+            "bounding_box": {
+                "topLeftX": 0.47418244406196214,
+                "topLeftY": 0.8268551236749117,
+                "width": 0.03614457831325301,
+                "height": 0.03180212014134275
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "constitute",
+            "bounding_box": {
+                "topLeftX": 0.4457831325301205,
+                "topLeftY": 0.8845700824499411,
+                "width": 0.09896729776247848,
+                "height": 0.02591283863368669
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "deduction",
+            "bounding_box": {
+                "topLeftX": 0.5671256454388984,
+                "topLeftY": 0.8845700824499411,
+                "width": 0.09208261617900172,
+                "height": 0.02591283863368669
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "12/20/71",
+            "bounding_box": {
+                "topLeftX": 0.7925989672977625,
+                "topLeftY": 0.2591283863368669,
+                "width": 0.13855421686746988,
+                "height": 0.03769140164899882
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "memorial",
+            "bounding_box": {
+                "topLeftX": 0.5456110154905336,
+                "topLeftY": 0.336866902237927,
+                "width": 0.13941480206540446,
+                "height": 0.03769140164899882
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "your",
+            "bounding_box": {
+                "topLeftX": 0.5946643717728055,
+                "topLeftY": 0.26501766784452296,
+                "width": 0.07056798623063683,
+                "height": 0.05771495877502945
+            },
+            "attention_score": 1.0
+        }
+    ]
+}

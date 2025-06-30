@@ -1,0 +1,241 @@
+{
+    "image_number": 185,
+    "user_answer": "CREATE PERCEPTIONN OF ACTOS REDUCING RISK OF CARDIOVASCULAR COMPLICATIONS STARTING IN 2003",
+    "correct_answer": "create perception of actos reducing risk of cardiovascular complications starting in 2003",
+    "last_fixation_attention": [
+        {
+            "word": "demonstrate",
+            "bounding_box": {
+                "topLeftX": 0.11409090909090909,
+                "topLeftY": 0.3663594470046083,
+                "width": 0.09181818181818181,
+                "height": 0.020737327188940093
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": ":",
+            "bounding_box": {
+                "topLeftX": 0.3190909090909091,
+                "topLeftY": 0.20391705069124424,
+                "width": 0.008636363636363636,
+                "height": 0.03110599078341014
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "supporting",
+            "bounding_box": {
+                "topLeftX": 0.2840909090909091,
+                "topLeftY": 0.1152073732718894,
+                "width": 0.15636363636363637,
+                "height": 0.048963133640553
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "perception",
+            "bounding_box": {
+                "topLeftX": 0.40045454545454545,
+                "topLeftY": 0.20449308755760368,
+                "width": 0.10318181818181818,
+                "height": 0.03052995391705069
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "create",
+            "bounding_box": {
+                "topLeftX": 0.33181818181818185,
+                "topLeftY": 0.20449308755760368,
+                "width": 0.06454545454545454,
+                "height": 0.03052995391705069
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "starting",
+            "bounding_box": {
+                "topLeftX": 0.39,
+                "topLeftY": 0.2350230414746544,
+                "width": 0.07045454545454545,
+                "height": 0.03052995391705069
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "strategic",
+            "bounding_box": {
+                "topLeftX": 0.11545454545454545,
+                "topLeftY": 0.2932027649769585,
+                "width": 0.09409090909090909,
+                "height": 0.029953917050691243
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "improvement",
+            "bounding_box": {
+                "topLeftX": 0.11272727272727273,
+                "topLeftY": 0.38997695852534564,
+                "width": 0.09772727272727273,
+                "height": 0.019585253456221197
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "demonstrate",
+            "bounding_box": {
+                "topLeftX": 0.11409090909090909,
+                "topLeftY": 0.3663594470046083,
+                "width": 0.09181818181818181,
+                "height": 0.020737327188940093
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "objective",
+            "bounding_box": {
+                "topLeftX": 0.1159090909090909,
+                "topLeftY": 0.32661290322580644,
+                "width": 0.09636363636363636,
+                "height": 0.03052995391705069
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "sbp/dbp",
+            "bounding_box": {
+                "topLeftX": 0.115,
+                "topLeftY": 0.41244239631336405,
+                "width": 0.07181818181818182,
+                "height": 0.020737327188940093
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "demonstrate",
+            "bounding_box": {
+                "topLeftX": 0.11363636363636363,
+                "topLeftY": 0.4475806451612903,
+                "width": 0.095,
+                "height": 0.020161290322580645
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "c-",
+            "bounding_box": {
+                "topLeftX": 0.2040909090909091,
+                "topLeftY": 0.47119815668202764,
+                "width": 0.015909090909090907,
+                "height": 0.019009216589861752
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "in",
+            "bounding_box": {
+                "topLeftX": 0.18545454545454546,
+                "topLeftY": 0.47235023041474655,
+                "width": 0.015,
+                "height": 0.017857142857142856
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "reduction",
+            "bounding_box": {
+                "topLeftX": 0.11363636363636363,
+                "topLeftY": 0.47235023041474655,
+                "width": 0.06909090909090909,
+                "height": 0.018433179723502304
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "in",
+            "bounding_box": {
+                "topLeftX": 0.21363636363636362,
+                "topLeftY": 0.39055299539170507,
+                "width": 0.014545454545454545,
+                "height": 0.019009216589861752
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "perception",
+            "bounding_box": {
+                "topLeftX": 0.40045454545454545,
+                "topLeftY": 0.20449308755760368,
+                "width": 0.10318181818181818,
+                "height": 0.03052995391705069
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "create",
+            "bounding_box": {
+                "topLeftX": 0.33181818181818185,
+                "topLeftY": 0.20449308755760368,
+                "width": 0.06454545454545454,
+                "height": 0.03052995391705069
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "starting",
+            "bounding_box": {
+                "topLeftX": 0.39,
+                "topLeftY": 0.2350230414746544,
+                "width": 0.07045454545454545,
+                "height": 0.03052995391705069
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "study",
+            "bounding_box": {
+                "topLeftX": 0.37454545454545457,
+                "topLeftY": 0.29435483870967744,
+                "width": 0.06227272727272727,
+                "height": 0.032834101382488476
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "2003",
+            "bounding_box": {
+                "topLeftX": 0.48863636363636365,
+                "topLeftY": 0.23559907834101382,
+                "width": 0.046363636363636364,
+                "height": 0.02880184331797235
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "in",
+            "bounding_box": {
+                "topLeftX": 0.46545454545454545,
+                "topLeftY": 0.23559907834101382,
+                "width": 0.01681818181818182,
+                "height": 0.0293778801843318
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "of",
+            "bounding_box": {
+                "topLeftX": 0.5077272727272727,
+                "topLeftY": 0.20449308755760368,
+                "width": 0.01818181818181818,
+                "height": 0.03052995391705069
+            },
+            "attention_score": 1.0
+        }
+    ]
+}

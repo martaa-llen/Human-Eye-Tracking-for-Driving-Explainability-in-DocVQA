@@ -1,0 +1,19 @@
+{
+    "image_number": 8,
+    "user_answer": "CONSEQUENCES OF IR",
+    "correct_answer": "consequences of ir",
+    "last_fixation_attention": [],
+    "pre_typing_attention": [
+        {
+            "word": "consequences",
+            "bounding_box": {
+                "topLeftX": 0.09454545454545454,
+                "topLeftY": 0.1152073732718894,
+                "width": 0.2972727272727273,
+                "height": 0.048963133640553
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": []
+}

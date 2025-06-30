@@ -1,0 +1,39 @@
+{
+    "image_number": 16,
+    "user_answer": "FOOD INDUSTRY ASSOCIATION",
+    "correct_answer": "food industry association",
+    "last_fixation_attention": [],
+    "pre_typing_attention": [
+        {
+            "word": "north",
+            "bounding_box": {
+                "topLeftX": 0.4370240187463386,
+                "topLeftY": 0.11452513966480447,
+                "width": 0.05272407732864675,
+                "height": 0.020251396648044692
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "central",
+            "bounding_box": {
+                "topLeftX": 0.4997070884592853,
+                "topLeftY": 0.11452513966480447,
+                "width": 0.06736965436438196,
+                "height": 0.020251396648044692
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "statement",
+            "bounding_box": {
+                "topLeftX": 0.4645577035735208,
+                "topLeftY": 0.040502793296089384,
+                "width": 0.11423550087873462,
+                "height": 0.0223463687150838
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": []
+}

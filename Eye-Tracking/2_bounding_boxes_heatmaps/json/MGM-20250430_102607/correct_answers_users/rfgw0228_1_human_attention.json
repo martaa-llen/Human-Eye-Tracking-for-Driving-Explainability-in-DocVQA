@@ -1,0 +1,271 @@
+{
+    "image_number": 174,
+    "user_answer": "american health foundation inc.",
+    "correct_answer": "american health foundation inc.",
+    "last_fixation_attention": [
+        {
+            "word": "american",
+            "bounding_box": {
+                "topLeftX": 0.02367205542725173,
+                "topLeftY": 0.06351351351351352,
+                "width": 0.09815242494226328,
+                "height": 0.043243243243243246
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "vendor",
+            "bounding_box": {
+                "topLeftX": 0.46709006928406466,
+                "topLeftY": 0.0918918918918919,
+                "width": 0.04792147806004619,
+                "height": 0.02837837837837838
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "vendor",
+            "bounding_box": {
+                "topLeftX": 0.4665127020785219,
+                "topLeftY": 0.04864864864864865,
+                "width": 0.04734411085450346,
+                "height": 0.02702702702702703
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "discount",
+            "bounding_box": {
+                "topLeftX": 0.46709006928406466,
+                "topLeftY": 0.1662162162162162,
+                "width": 0.061200923787528866,
+                "height": 0.02972972972972973
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": ".",
+            "bounding_box": {
+                "topLeftX": 0.5161662817551963,
+                "topLeftY": 0.23513513513513515,
+                "width": 0.009815242494226328,
+                "height": 0.032432432432432434
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "nof",
+            "bounding_box": {
+                "topLeftX": 0.5617782909930716,
+                "topLeftY": 0.052702702702702706,
+                "width": 0.032909930715935336,
+                "height": 0.02972972972972973
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "no.:",
+            "bounding_box": {
+                "topLeftX": 0.5178983833718245,
+                "topLeftY": 0.05,
+                "width": 0.024826789838337183,
+                "height": 0.02702702702702703
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "name:",
+            "bounding_box": {
+                "topLeftX": 0.5184757505773672,
+                "topLeftY": 0.09324324324324325,
+                "width": 0.036374133949191687,
+                "height": 0.02702702702702703
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "00",
+            "bounding_box": {
+                "topLeftX": 0.5277136258660509,
+                "topLeftY": 0.23243243243243245,
+                "width": 0.021939953810623556,
+                "height": 0.03513513513513514
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "invoice",
+            "bounding_box": {
+                "topLeftX": 0.15877598152424943,
+                "topLeftY": 0.16756756756756758,
+                "width": 0.04792147806004619,
+                "height": 0.02702702702702703
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "foundation",
+            "bounding_box": {
+                "topLeftX": 0.2107390300230947,
+                "topLeftY": 0.06351351351351352,
+                "width": 0.12009237875288684,
+                "height": 0.041891891891891894
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "number",
+            "bounding_box": {
+                "topLeftX": 0.2084295612009238,
+                "topLeftY": 0.1662162162162162,
+                "width": 0.049653579676674366,
+                "height": 0.02837837837837838
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "health",
+            "bounding_box": {
+                "topLeftX": 0.12990762124711316,
+                "topLeftY": 0.06351351351351352,
+                "width": 0.07159353348729793,
+                "height": 0.041891891891891894
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "1550",
+            "bounding_box": {
+                "topLeftX": 0.1836027713625866,
+                "topLeftY": 0.23108108108108108,
+                "width": 0.040993071593533485,
+                "height": 0.032432432432432434
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "american",
+            "bounding_box": {
+                "topLeftX": 0.02367205542725173,
+                "topLeftY": 0.06351351351351352,
+                "width": 0.09815242494226328,
+                "height": 0.043243243243243246
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "invoice",
+            "bounding_box": {
+                "topLeftX": 0.04041570438799076,
+                "topLeftY": 0.16756756756756758,
+                "width": 0.04792147806004619,
+                "height": 0.02837837837837838
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "date",
+            "bounding_box": {
+                "topLeftX": 0.09006928406466513,
+                "topLeftY": 0.16756756756756758,
+                "width": 0.029445727482678985,
+                "height": 0.02837837837837838
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "number",
+            "bounding_box": {
+                "topLeftX": 0.2084295612009238,
+                "topLeftY": 0.1662162162162162,
+                "width": 0.049653579676674366,
+                "height": 0.02837837837837838
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "foundation",
+            "bounding_box": {
+                "topLeftX": 0.2107390300230947,
+                "topLeftY": 0.06351351351351352,
+                "width": 0.12009237875288684,
+                "height": 0.041891891891891894
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "invoice",
+            "bounding_box": {
+                "topLeftX": 0.15877598152424943,
+                "topLeftY": 0.16756756756756758,
+                "width": 0.04792147806004619,
+                "height": 0.02702702702702703
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "health",
+            "bounding_box": {
+                "topLeftX": 0.12990762124711316,
+                "topLeftY": 0.06351351351351352,
+                "width": 0.07159353348729793,
+                "height": 0.041891891891891894
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "cr",
+            "bounding_box": {
+                "topLeftX": 0.15877598152424943,
+                "topLeftY": 0.23108108108108108,
+                "width": 0.019630484988452657,
+                "height": 0.032432432432432434
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "1550",
+            "bounding_box": {
+                "topLeftX": 0.1836027713625866,
+                "topLeftY": 0.23108108108108108,
+                "width": 0.040993071593533485,
+                "height": 0.032432432432432434
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "invoice",
+            "bounding_box": {
+                "topLeftX": 0.302540415704388,
+                "topLeftY": 0.1662162162162162,
+                "width": 0.04849884526558892,
+                "height": 0.02837837837837838
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "amount",
+            "bounding_box": {
+                "topLeftX": 0.3533487297921478,
+                "topLeftY": 0.1635135135135135,
+                "width": 0.04792147806004619,
+                "height": 0.02972972972972973
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "inc.",
+            "bounding_box": {
+                "topLeftX": 0.3371824480369515,
+                "topLeftY": 0.06351351351351352,
+                "width": 0.04157043879907621,
+                "height": 0.041891891891891894
+            },
+            "attention_score": 0.5
+        }
+    ]
+}

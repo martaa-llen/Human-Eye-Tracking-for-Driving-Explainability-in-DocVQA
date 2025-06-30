@@ -1,0 +1,190 @@
+{
+    "image_number": 63,
+    "user_answer": "petit casch voucher",
+    "correct_answer": "petty cash voucher",
+    "last_fixation_attention": [],
+    "pre_typing_attention": [
+        {
+            "word": "r.",
+            "bounding_box": {
+                "topLeftX": 0.46068308181096107,
+                "topLeftY": 0.039149888143176735,
+                "width": 0.023034154090548053,
+                "height": 0.026845637583892617
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "u.",
+            "bounding_box": {
+                "topLeftX": 0.4868943606036537,
+                "topLeftY": 0.039149888143176735,
+                "width": 0.019857029388403495,
+                "height": 0.026845637583892617
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "petty",
+            "bounding_box": {
+                "topLeftX": 0.2756155679110405,
+                "topLeftY": 0.09843400447427293,
+                "width": 0.11119936457505956,
+                "height": 0.03803131991051454
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "cash",
+            "bounding_box": {
+                "topLeftX": 0.40428911834789516,
+                "topLeftY": 0.09731543624161074,
+                "width": 0.09054805401111994,
+                "height": 0.040268456375838924
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "voucher",
+            "bounding_box": {
+                "topLeftX": 0.5186656076250993,
+                "topLeftY": 0.09619686800894854,
+                "width": 0.1691818903891978,
+                "height": 0.04138702460850112
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "january",
+            "bounding_box": {
+                "topLeftX": 0.4813343923749007,
+                "topLeftY": 0.17225950782997762,
+                "width": 0.11199364575059571,
+                "height": 0.039149888143176735
+            },
+            "attention_score": 0.3333333333333333
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "r.",
+            "bounding_box": {
+                "topLeftX": 0.46068308181096107,
+                "topLeftY": 0.039149888143176735,
+                "width": 0.023034154090548053,
+                "height": 0.026845637583892617
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "u.",
+            "bounding_box": {
+                "topLeftX": 0.4868943606036537,
+                "topLeftY": 0.039149888143176735,
+                "width": 0.019857029388403495,
+                "height": 0.026845637583892617
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "petty",
+            "bounding_box": {
+                "topLeftX": 0.2756155679110405,
+                "topLeftY": 0.09843400447427293,
+                "width": 0.11119936457505956,
+                "height": 0.03803131991051454
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "cash",
+            "bounding_box": {
+                "topLeftX": 0.40428911834789516,
+                "topLeftY": 0.09731543624161074,
+                "width": 0.09054805401111994,
+                "height": 0.040268456375838924
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "voucher",
+            "bounding_box": {
+                "topLeftX": 0.5186656076250993,
+                "topLeftY": 0.09619686800894854,
+                "width": 0.1691818903891978,
+                "height": 0.04138702460850112
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "rolls",
+            "bounding_box": {
+                "topLeftX": 0.2335186656076251,
+                "topLeftY": 0.34451901565995524,
+                "width": 0.08022239872915012,
+                "height": 0.03355704697986577
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "itemize",
+            "bounding_box": {
+                "topLeftX": 0.2764098490865767,
+                "topLeftY": 0.2796420581655481,
+                "width": 0.10246227164416204,
+                "height": 0.021252796420581657
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "@",
+            "bounding_box": {
+                "topLeftX": 0.33359809372517873,
+                "topLeftY": 0.34451901565995524,
+                "width": 0.014297061159650517,
+                "height": 0.03355704697986577
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "@",
+            "bounding_box": {
+                "topLeftX": 0.33200953137410644,
+                "topLeftY": 0.38926174496644295,
+                "width": 0.015885623510722795,
+                "height": 0.03467561521252797
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "rolls",
+            "bounding_box": {
+                "topLeftX": 0.23272438443208895,
+                "topLeftY": 0.38926174496644295,
+                "width": 0.0818109610802224,
+                "height": 0.03467561521252797
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "8",
+            "bounding_box": {
+                "topLeftX": 0.3653693407466243,
+                "topLeftY": 0.34451901565995524,
+                "width": 0.014297061159650517,
+                "height": 0.03243847874720358
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "citizens'",
+            "bounding_box": {
+                "topLeftX": 0.1358220810166799,
+                "topLeftY": 0.23154362416107382,
+                "width": 0.14932486100079428,
+                "height": 0.03467561521252797
+            },
+            "attention_score": 0.5
+        }
+    ]
+}

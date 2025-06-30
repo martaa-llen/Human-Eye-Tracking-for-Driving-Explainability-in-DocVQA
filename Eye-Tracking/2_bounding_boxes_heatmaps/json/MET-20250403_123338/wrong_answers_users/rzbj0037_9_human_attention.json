@@ -1,0 +1,59 @@
+{
+    "image_number": 1,
+    "user_answer": "81,3",
+    "correct_answer": "100",
+    "last_fixation_attention": [],
+    "pre_typing_attention": [
+        {
+            "word": "franchise:",
+            "bounding_box": {
+                "topLeftX": 0.38135996195910604,
+                "topLeftY": 0.385286783042394,
+                "width": 0.09082263433190679,
+                "height": 0.02493765586034913
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "of",
+            "bounding_box": {
+                "topLeftX": 0.3609129814550642,
+                "topLeftY": 0.3859102244389027,
+                "width": 0.017118402282453638,
+                "height": 0.024314214463840397
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "consumer",
+            "bounding_box": {
+                "topLeftX": 0.39229671897289586,
+                "topLeftY": 0.19513715710723192,
+                "width": 0.15834522111269614,
+                "height": 0.046758104738154616
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "dynamics",
+            "bounding_box": {
+                "topLeftX": 0.5558725630052306,
+                "topLeftY": 0.19513715710723192,
+                "width": 0.15026153114598192,
+                "height": 0.046758104738154616
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "carlton",
+            "bounding_box": {
+                "topLeftX": 0.47503566333808844,
+                "topLeftY": 0.24625935162094764,
+                "width": 0.14693295292439373,
+                "height": 0.03740648379052369
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": []
+}

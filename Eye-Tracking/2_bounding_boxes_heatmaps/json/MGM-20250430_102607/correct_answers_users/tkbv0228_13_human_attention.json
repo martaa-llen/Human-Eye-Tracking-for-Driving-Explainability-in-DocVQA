@@ -1,0 +1,199 @@
+{
+    "image_number": 167,
+    "user_answer": "frequency distribution of weight deviation",
+    "correct_answer": "frequency distribution of weight deviation",
+    "last_fixation_attention": [],
+    "pre_typing_attention": [],
+    "typing_attention": [
+        {
+            "word": "weight",
+            "bounding_box": {
+                "topLeftX": 0.6067465601420329,
+                "topLeftY": 0.037142857142857144,
+                "width": 0.1118508655126498,
+                "height": 0.037142857142857144
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "distribution",
+            "bounding_box": {
+                "topLeftX": 0.340878828229028,
+                "topLeftY": 0.038285714285714284,
+                "width": 0.1935197514425211,
+                "height": 0.036
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "frequency",
+            "bounding_box": {
+                "topLeftX": 0.14957833999112294,
+                "topLeftY": 0.037714285714285714,
+                "width": 0.16866400355082112,
+                "height": 0.036
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "+2110+30",
+            "bounding_box": {
+                "topLeftX": 0.6395916555703507,
+                "topLeftY": 0.8622857142857143,
+                "width": 0.07856191744340879,
+                "height": 0.02457142857142857
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "+3110+40",
+            "bounding_box": {
+                "topLeftX": 0.7310252996005326,
+                "topLeftY": 0.8628571428571429,
+                "width": 0.07723035952063914,
+                "height": 0.02457142857142857
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "age",
+            "bounding_box": {
+                "topLeftX": 0.742121615623613,
+                "topLeftY": 0.9074285714285715,
+                "width": 0.037283621837549935,
+                "height": 0.024
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "weight-height-",
+            "bounding_box": {
+                "topLeftX": 0.5823346648912561,
+                "topLeftY": 0.9062857142857143,
+                "width": 0.15667998224589436,
+                "height": 0.025142857142857144
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "males",
+            "bounding_box": {
+                "topLeftX": 0.7332445628051487,
+                "topLeftY": 0.23485714285714285,
+                "width": 0.10031069684864626,
+                "height": 0.03257142857142857
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "total",
+            "bounding_box": {
+                "topLeftX": 0.7394584997780737,
+                "topLeftY": 0.2742857142857143,
+                "width": 0.05903240124278739,
+                "height": 0.02457142857142857
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "n",
+            "bounding_box": {
+                "topLeftX": 0.810918774966711,
+                "topLeftY": 0.2742857142857143,
+                "width": 0.011984021304926764,
+                "height": 0.025142857142857144
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "=",
+            "bounding_box": {
+                "topLeftX": 0.8273413226808699,
+                "topLeftY": 0.27485714285714286,
+                "width": 0.011984021304926764,
+                "height": 0.02457142857142857
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "544",
+            "bounding_box": {
+                "topLeftX": 0.8424323124722592,
+                "topLeftY": 0.27485714285714286,
+                "width": 0.040390590324012425,
+                "height": 0.02457142857142857
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "baldwin-wood",
+            "bounding_box": {
+                "topLeftX": 0.43009320905459386,
+                "topLeftY": 0.9057142857142857,
+                "width": 0.1384820239680426,
+                "height": 0.025142857142857144
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "10+10",
+            "bounding_box": {
+                "topLeftX": 0.4882379050155348,
+                "topLeftY": 0.8611428571428571,
+                "width": 0.04216600088770528,
+                "height": 0.025142857142857144
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "ydocuments.ucsf",
+            "bounding_box": {
+                "topLeftX": 0.47181535730137597,
+                "topLeftY": 0.9777142857142858,
+                "width": 0.11229471815357302,
+                "height": 0.016
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "of",
+            "bounding_box": {
+                "topLeftX": 0.5534842432312472,
+                "topLeftY": 0.037714285714285714,
+                "width": 0.03772747447847315,
+                "height": 0.036571428571428574
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "deviation",
+            "bounding_box": {
+                "topLeftX": 0.7394584997780737,
+                "topLeftY": 0.036571428571428574,
+                "width": 0.1478029294274301,
+                "height": 0.037142857142857144
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": ">+40",
+            "bounding_box": {
+                "topLeftX": 0.831779849090102,
+                "topLeftY": 0.864,
+                "width": 0.044829116733244564,
+                "height": 0.023428571428571427
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "standards",
+            "bounding_box": {
+                "topLeftX": 0.8029294274300932,
+                "topLeftY": 0.908,
+                "width": 0.11229471815357302,
+                "height": 0.024
+            },
+            "attention_score": 0.5
+        }
+    ]
+}

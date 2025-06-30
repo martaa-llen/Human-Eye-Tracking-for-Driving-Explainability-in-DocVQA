@@ -1,0 +1,89 @@
+{
+    "image_number": 149,
+    "user_answer": "4/2/80",
+    "correct_answer": "4/2/80",
+    "last_fixation_attention": [],
+    "pre_typing_attention": [
+        {
+            "word": "millions",
+            "bounding_box": {
+                "topLeftX": 0.41648303217276333,
+                "topLeftY": 0.12959818902093945,
+                "width": 0.06346408109299251,
+                "height": 0.017543859649122806
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "conduct",
+            "bounding_box": {
+                "topLeftX": 0.38651388276773907,
+                "topLeftY": 0.08941709111488398,
+                "width": 0.05729396209784046,
+                "height": 0.020939445387662705
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "and",
+            "bounding_box": {
+                "topLeftX": 0.43190832966064346,
+                "topLeftY": 0.11035653650254669,
+                "width": 0.0246804759806082,
+                "height": 0.01867572156196944
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "of",
+            "bounding_box": {
+                "topLeftX": 0.4468929043631556,
+                "topLeftY": 0.0899830220713073,
+                "width": 0.01851035698545615,
+                "height": 0.02037351443123939
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "basic",
+            "bounding_box": {
+                "topLeftX": 0.46848832084618774,
+                "topLeftY": 0.0899830220713073,
+                "width": 0.04275011018069634,
+                "height": 0.02037351443123939
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "agencies",
+            "bounding_box": {
+                "topLeftX": 0.4618774790656677,
+                "topLeftY": 0.11035653650254669,
+                "width": 0.06302335830762451,
+                "height": 0.019241652518392757
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "of",
+            "bounding_box": {
+                "topLeftX": 0.48523578669017187,
+                "topLeftY": 0.12959818902093945,
+                "width": 0.017188188629352136,
+                "height": 0.018109790605546124
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "research",
+            "bounding_box": {
+                "topLeftX": 0.5143234905244601,
+                "topLeftY": 0.0899830220713073,
+                "width": 0.06346408109299251,
+                "height": 0.02037351443123939
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": []
+}
