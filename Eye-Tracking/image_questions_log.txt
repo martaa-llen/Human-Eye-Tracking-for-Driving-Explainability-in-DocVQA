@@ -1,0 +1,126 @@
+Log of Questions That Appeared in Experiments (numbered by their canonical order)
+================================================================================
+
+Image: fhng0227_15
+  1. What is the issued date of the invoice?
+------------------------------
+Image: fjbw0217_15
+  1. What is the >200 mg/dl High Baseline - Mean baseline Value for treatment group A?
+------------------------------
+Image: fjvg0227_14
+  1. What is the Applicant Agency?
+------------------------------
+Image: fsmg0227_1
+  1. what is the date of ordered ?
+------------------------------
+Image: fzjf0226_5
+  1. What is the marketing objective mentioned in the document?
+------------------------------
+Image: gqjb0228_1
+  1. To Whom is this letter addressed to?
+------------------------------
+Image: gykk0226_2
+  1. What is the name of the company?
+------------------------------
+Image: hldg0227_85
+  1. What is the table number?
+------------------------------
+Image: htvn0020_4
+  1. What is the Date & Time mentioned in this document?
+------------------------------
+Image: hyhk0037_7
+  1. What is the status of the KOOL MILDS KS?
+------------------------------
+Image: jtmg0227_1
+  1. what is the order no.?
+------------------------------
+Image: kgnb0228_1
+  1. What is the Telephone?
+------------------------------
+Image: lgbl0226_1
+  1. what is the title of the document ?
+------------------------------
+Image: lgmk0079_19
+  1. What is the Date?
+------------------------------
+Image: mlwc0228_3
+  1. What is the net amount mentioned in the remittance advice?
+------------------------------
+Image: mynm0227_7
+  1. what is the date mentioned at the top of the page ?
+------------------------------
+Image: nknp0227_2
+  1. What is the title of the document?
+------------------------------
+Image: nsxb0228_4
+  1. what is the date mentioned ?
+------------------------------
+Image: pfjh0227_3
+  1. What is the name of the Salesman?
+------------------------------
+Image: phng0227_1
+  1. what is the order no.?
+------------------------------
+Image: pmdv0228_11
+  1. What is the number of Days in NYC for November 4,5,6,7?
+------------------------------
+Image: psyn0081_35
+  1. What % are Concerned about "Maintaining right weight" for 1988?
+------------------------------
+Image: pyyc0227_13
+  1. what is the number at bottom right page?
+------------------------------
+Image: rfgw0228_1
+  1. Which company's invoice is given here?
+------------------------------
+Image: rlvm0227_9
+  1. What is the date of project end?
+------------------------------
+Image: rzbj0037_9
+  1. what is the index for Retention of Franchise
+------------------------------
+Image: sgjc0228_14
+  1. When was received and deposited?
+------------------------------
+Image: skdv0228_11
+  1. what is the date mentioned in the given page ?
+------------------------------
+Image: snyc0227_58
+  1. what is the mean height (cm) in malays?
+------------------------------
+Image: tfng0227_1
+  1. What is the Room Number ?
+------------------------------
+Image: tkbv0228_13
+  1. What is the title of the graph shown?
+------------------------------
+Image: tzhg0227_1
+  1. Whose address is given?
+------------------------------
+Image: xnph0227_1
+  1. what is the name of association in statement?
+------------------------------
+Image: xrcy0227_17
+  1. What is voucher for?
+------------------------------
+Image: xrcy0227_44
+  1. what is the name of the airport
+------------------------------
+Image: xrcy0227_88
+  1. What is the name of the form?
+------------------------------
+Image: ynjf0226_6
+  1. What is the title of this document?
+------------------------------
+Image: ynkk0226_2
+  1. What is the "address" written in the form?
+------------------------------
+Image: yphd0227_2
+  1. What is the document title?
+------------------------------
+Image: zrlp0227_8
+  1. What is the total number of days worked outside N.Y.?
+------------------------------
+Image: zzhh0227_6
+  1. What is the Flight No. given in the boarding pass?
+------------------------------
