@@ -1,0 +1,47 @@
+{
+    "image_name": "lgbl0226_1",
+    "category": "wrong_answers_users",
+    "user_count": 1,
+    "consensus_threshold": 0.55,
+    "consensus_bounding_boxes": [
+        {
+            "topLeftX": 0.10922330097087378,
+            "topLeftY": 0.3242876526458616,
+            "width": 0.058859223300970875,
+            "height": 0.05970149253731343,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.3422330097087379,
+            "topLeftY": 0.30257801899592945,
+            "width": 0.060072815533980584,
+            "height": 0.029850746268656716,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.3106796116504854,
+            "topLeftY": 0.30257801899592945,
+            "width": 0.02669902912621359,
+            "height": 0.028493894165535955,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.2196601941747573,
+            "topLeftY": 0.17096336499321574,
+            "width": 0.16140776699029127,
+            "height": 0.07598371777476255,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.10922330097087378,
+            "topLeftY": 0.38670284938941657,
+            "width": 0.06067961165048544,
+            "height": 0.05834464043419267,
+            "consensus_score": 1.0
+        }
+    ],
+    "submitted_answers": [
+        "PROGRAMME FOR MEDICAL BIOPHYSICS OF MEDICAL RESEARCH COUNCIL"
+    ],
+    "correct_answer": "medical biophysics"
+}

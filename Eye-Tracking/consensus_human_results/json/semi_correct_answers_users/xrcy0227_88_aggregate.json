@@ -1,0 +1,68 @@
+{
+    "image_name": "xrcy0227_88",
+    "category": "semi_correct_answers_users",
+    "user_count": 1,
+    "consensus_threshold": 0.55,
+    "consensus_bounding_boxes": [
+        {
+            "topLeftX": 0.0867579908675799,
+            "topLeftY": 0.34813753581661894,
+            "width": 0.055446836268754074,
+            "height": 0.024355300859598854,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.11154598825831702,
+            "topLeftY": 0.3237822349570201,
+            "width": 0.011089367253750815,
+            "height": 0.024355300859598854,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.0136986301369863,
+            "topLeftY": 0.3223495702005731,
+            "width": 0.02609262883235486,
+            "height": 0.025787965616045846,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.04174820613176777,
+            "topLeftY": 0.3223495702005731,
+            "width": 0.012393998695368558,
+            "height": 0.025787965616045846,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.04044357469015003,
+            "topLeftY": 0.4326647564469914,
+            "width": 0.0776255707762557,
+            "height": 0.04011461318051576,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.056099151989562945,
+            "topLeftY": 0.3237822349570201,
+            "width": 0.05348988910632746,
+            "height": 0.024355300859598854,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.015003261578604044,
+            "topLeftY": 0.21060171919770773,
+            "width": 0.010437051532941943,
+            "height": 0.034383954154727794,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.014350945857795172,
+            "topLeftY": 0.37106017191977075,
+            "width": 0.023483365949119372,
+            "height": 0.02148997134670487,
+            "consensus_score": 1.0
+        }
+    ],
+    "submitted_answers": [
+        "UNIVERSAL CREDIT CARD"
+    ],
+    "correct_answer": "universal credit card charge form"
+}

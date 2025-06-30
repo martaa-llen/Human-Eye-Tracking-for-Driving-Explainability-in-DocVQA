@@ -1,0 +1,65 @@
+{
+    "image_name": "yphd0227_2",
+    "category": "correct_answers_users",
+    "user_count": 11,
+    "consensus_threshold": 0.55,
+    "consensus_bounding_boxes": [
+        {
+            "topLeftX": 0.18169877408056043,
+            "topLeftY": 0.11185682326621924,
+            "width": 0.05647985989492119,
+            "height": 0.020134228187919462,
+            "consensus_score": 0.9090909090909091
+        },
+        {
+            "topLeftX": 0.2530647985989492,
+            "topLeftY": 0.11129753914988814,
+            "width": 0.01838879159369527,
+            "height": 0.020134228187919462,
+            "consensus_score": 0.9090909090909091
+        },
+        {
+            "topLeftX": 0.28809106830122594,
+            "topLeftY": 0.11073825503355705,
+            "width": 0.09938704028021016,
+            "height": 0.020134228187919462,
+            "consensus_score": 0.8181818181818182
+        },
+        {
+            "topLeftX": 0.4391418563922942,
+            "topLeftY": 0.11017897091722595,
+            "width": 0.07311733800350263,
+            "height": 0.019574944071588368,
+            "consensus_score": 0.7272727272727273
+        },
+        {
+            "topLeftX": 0.24430823117338005,
+            "topLeftY": 0.22539149888143176,
+            "width": 0.010507880910683012,
+            "height": 0.018456375838926176,
+            "consensus_score": 0.6363636363636364
+        },
+        {
+            "topLeftX": 0.18432574430823118,
+            "topLeftY": 0.22539149888143176,
+            "width": 0.05253940455341506,
+            "height": 0.018456375838926176,
+            "consensus_score": 0.6363636363636364
+        },
+        {
+            "topLeftX": 0.4041155866900175,
+            "topLeftY": 0.11073825503355705,
+            "width": 0.01838879159369527,
+            "height": 0.01901565995525727,
+            "consensus_score": 0.6363636363636364
+        },
+        {
+            "topLeftX": 0.38660245183887915,
+            "topLeftY": 0.16722595078299776,
+            "width": 0.042907180385288964,
+            "height": 0.017337807606263984,
+            "consensus_score": 0.6363636363636364
+        }
+    ],
+    "correct_answer": "report of performance on national board part 3 examination"
+}

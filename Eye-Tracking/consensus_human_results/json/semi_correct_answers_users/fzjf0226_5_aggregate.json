@@ -1,0 +1,61 @@
+{
+    "image_name": "fzjf0226_5",
+    "category": "semi_correct_answers_users",
+    "user_count": 1,
+    "consensus_threshold": 0.55,
+    "consensus_bounding_boxes": [
+        {
+            "topLeftX": 0.3190909090909091,
+            "topLeftY": 0.20391705069124424,
+            "width": 0.008636363636363636,
+            "height": 0.03110599078341014,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.33181818181818185,
+            "topLeftY": 0.20449308755760368,
+            "width": 0.06454545454545454,
+            "height": 0.03052995391705069,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.21863636363636363,
+            "topLeftY": 0.2033410138248848,
+            "width": 0.09636363636363636,
+            "height": 0.03168202764976959,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.2081818181818182,
+            "topLeftY": 0.11578341013824885,
+            "width": 0.06681818181818182,
+            "height": 0.04435483870967742,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.09272727272727273,
+            "topLeftY": 0.11578341013824885,
+            "width": 0.11,
+            "height": 0.04205069124423963,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.2545454545454545,
+            "topLeftY": 0.2350230414746544,
+            "width": 0.13090909090909092,
+            "height": 0.03052995391705069,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.2840909090909091,
+            "topLeftY": 0.1152073732718894,
+            "width": 0.15636363636363637,
+            "height": 0.048963133640553,
+            "consensus_score": 1.0
+        }
+    ],
+    "submitted_answers": [
+        "CREATE PERCEPTION OF ACTOS REDUCING RISK OF CARDIOCASCU"
+    ],
+    "correct_answer": "create perception of actos reducing risk of cardiovascular complications starting in 2003"
+}

@@ -1,0 +1,58 @@
+{
+    "image_name": "nknp0227_2",
+    "category": "correct_answers_users",
+    "user_count": 11,
+    "consensus_threshold": 0.55,
+    "consensus_bounding_boxes": [
+        {
+            "topLeftX": 0.04888888888888889,
+            "topLeftY": 0.04189560439560439,
+            "width": 0.13142857142857142,
+            "height": 0.08722527472527472,
+            "consensus_score": 0.9090909090909091
+        },
+        {
+            "topLeftX": 0.11936507936507937,
+            "topLeftY": 0.16002747252747251,
+            "width": 0.018412698412698412,
+            "height": 0.015796703296703296,
+            "consensus_score": 0.8181818181818182
+        },
+        {
+            "topLeftX": 0.10285714285714286,
+            "topLeftY": 0.16002747252747251,
+            "width": 0.013968253968253968,
+            "height": 0.015796703296703296,
+            "consensus_score": 0.7272727272727273
+        },
+        {
+            "topLeftX": 0.08825396825396825,
+            "topLeftY": 0.14423076923076922,
+            "width": 0.06412698412698413,
+            "height": 0.01510989010989011,
+            "consensus_score": 0.7272727272727273
+        },
+        {
+            "topLeftX": 0.05333333333333334,
+            "topLeftY": 0.14217032967032966,
+            "width": 0.03111111111111111,
+            "height": 0.015796703296703296,
+            "consensus_score": 0.7272727272727273
+        },
+        {
+            "topLeftX": 0.1415873015873016,
+            "topLeftY": 0.15934065934065933,
+            "width": 0.04,
+            "height": 0.015796703296703296,
+            "consensus_score": 0.7272727272727273
+        },
+        {
+            "topLeftX": 0.052698412698412696,
+            "topLeftY": 0.15865384615384615,
+            "width": 0.047619047619047616,
+            "height": 0.016483516483516484,
+            "consensus_score": 0.6363636363636364
+        }
+    ],
+    "correct_answer": "mog ticket service statement"
+}

@@ -1,0 +1,16 @@
+{
+    "image_name": "ynjf0226_6",
+    "category": "correct_answers_users",
+    "user_count": 12,
+    "consensus_threshold": 0.55,
+    "consensus_bounding_boxes": [
+        {
+            "topLeftX": 0.09454545454545454,
+            "topLeftY": 0.1152073732718894,
+            "width": 0.2972727272727273,
+            "height": 0.048963133640553,
+            "consensus_score": 0.8333333333333334
+        }
+    ],
+    "correct_answer": "consequences of ir"
+}

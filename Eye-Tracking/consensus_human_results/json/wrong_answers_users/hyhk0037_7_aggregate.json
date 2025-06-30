@@ -1,0 +1,68 @@
+{
+    "image_name": "hyhk0037_7",
+    "category": "wrong_answers_users",
+    "user_count": 1,
+    "consensus_threshold": 0.55,
+    "consensus_bounding_boxes": [
+        {
+            "topLeftX": 0.2783641160949868,
+            "topLeftY": 0.8397435897435898,
+            "width": 0.04573438874230431,
+            "height": 0.027389277389277388,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.21591908531222515,
+            "topLeftY": 0.655011655011655,
+            "width": 0.09146877748460862,
+            "height": 0.029137529137529136,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.2167985927880387,
+            "topLeftY": 0.8041958041958042,
+            "width": 0.059366754617414245,
+            "height": 0.027972027972027972,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.1943711521547933,
+            "topLeftY": 0.7494172494172494,
+            "width": 0.09278803869832894,
+            "height": 0.033216783216783216,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.28891820580474936,
+            "topLeftY": 0.8053613053613053,
+            "width": 0.03562005277044855,
+            "height": 0.027972027972027972,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.316622691292876,
+            "topLeftY": 0.6555944055944056,
+            "width": 0.06464379947229551,
+            "height": 0.02972027972027972,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.2880386983289358,
+            "topLeftY": 0.6206293706293706,
+            "width": 0.055848724714160074,
+            "height": 0.030303030303030304,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.3337730870712401,
+            "topLeftY": 0.8053613053613053,
+            "width": 0.04221635883905013,
+            "height": 0.028554778554778556,
+            "consensus_score": 1.0
+        }
+    ],
+    "submitted_answers": [
+        "0.63"
+    ],
+    "correct_answer": "kool \"c\" with 0.63% menthol was implemented in april 1995"
+}

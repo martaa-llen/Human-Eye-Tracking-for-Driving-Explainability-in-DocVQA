@@ -1,0 +1,41 @@
+{
+    "image_name": "xnph0227_1",
+    "category": "wrong_answers_users",
+    "user_count": 2,
+    "consensus_threshold": 0.55,
+    "consensus_bounding_boxes": [
+        {
+            "topLeftX": 0.4645577035735208,
+            "topLeftY": 0.040502793296089384,
+            "width": 0.11423550087873462,
+            "height": 0.0223463687150838,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.4997070884592853,
+            "topLeftY": 0.11452513966480447,
+            "width": 0.06736965436438196,
+            "height": 0.020251396648044692,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.4370240187463386,
+            "topLeftY": 0.11452513966480447,
+            "width": 0.05272407732864675,
+            "height": 0.020251396648044692,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.5729349736379613,
+            "topLeftY": 0.11452513966480447,
+            "width": 0.04745166959578207,
+            "height": 0.020251396648044692,
+            "consensus_score": 1.0
+        }
+    ],
+    "submitted_answers": [
+        "the food herald",
+        "north central texas"
+    ],
+    "correct_answer": "food industry association"
+}

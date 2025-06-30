@@ -1,0 +1,264 @@
+{
+    "image_name": "fzjf0226_5",
+    "category": "wrong_answers_users",
+    "user_count": 1,
+    "consensus_threshold": 0.55,
+    "consensus_bounding_boxes": [
+        {
+            "topLeftX": 0.4636363636363636,
+            "topLeftY": 0.8675115207373272,
+            "width": 0.008636363636363636,
+            "height": 0.013248847926267281,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.345,
+            "topLeftY": 0.9775345622119815,
+            "width": 0.155,
+            "height": 0.020161290322580645,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.3190909090909091,
+            "topLeftY": 0.20391705069124424,
+            "width": 0.008636363636363636,
+            "height": 0.03110599078341014,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.39636363636363636,
+            "topLeftY": 0.8559907834101382,
+            "width": 0.03590909090909091,
+            "height": 0.013248847926267281,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.46545454545454545,
+            "topLeftY": 0.23559907834101382,
+            "width": 0.01681818181818182,
+            "height": 0.0293778801843318,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.39590909090909093,
+            "topLeftY": 0.8675115207373272,
+            "width": 0.03636363636363636,
+            "height": 0.013824884792626729,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.2545454545454545,
+            "topLeftY": 0.2350230414746544,
+            "width": 0.13090909090909092,
+            "height": 0.03052995391705069,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.11045454545454546,
+            "topLeftY": 0.23617511520737328,
+            "width": 0.14045454545454544,
+            "height": 0.02880184331797235,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.37454545454545457,
+            "topLeftY": 0.29435483870967744,
+            "width": 0.06227272727272727,
+            "height": 0.032834101382488476,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.4340909090909091,
+            "topLeftY": 0.8548387096774194,
+            "width": 0.046363636363636364,
+            "height": 0.013824884792626729,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.11545454545454545,
+            "topLeftY": 0.2932027649769585,
+            "width": 0.09409090909090909,
+            "height": 0.029953917050691243,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.11,
+            "topLeftY": 0.2021889400921659,
+            "width": 0.1040909090909091,
+            "height": 0.03225806451612903,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.48409090909090907,
+            "topLeftY": 0.3283410138248848,
+            "width": 0.10272727272727272,
+            "height": 0.029953917050691243,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.29318181818181815,
+            "topLeftY": 0.2932027649769585,
+            "width": 0.07818181818181819,
+            "height": 0.03168202764976959,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.21863636363636363,
+            "topLeftY": 0.2033410138248848,
+            "width": 0.09636363636363636,
+            "height": 0.03168202764976959,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.33181818181818185,
+            "topLeftY": 0.20449308755760368,
+            "width": 0.06454545454545454,
+            "height": 0.03052995391705069,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.40045454545454545,
+            "topLeftY": 0.20449308755760368,
+            "width": 0.10318181818181818,
+            "height": 0.03052995391705069,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.53,
+            "topLeftY": 0.20449308755760368,
+            "width": 0.0740909090909091,
+            "height": 0.03052995391705069,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.47454545454545455,
+            "topLeftY": 0.8675115207373272,
+            "width": 0.015,
+            "height": 0.013248847926267281,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.1159090909090909,
+            "topLeftY": 0.32661290322580644,
+            "width": 0.09636363636363636,
+            "height": 0.03052995391705069,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.2840909090909091,
+            "topLeftY": 0.1152073732718894,
+            "width": 0.15636363636363637,
+            "height": 0.048963133640553,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.48454545454545456,
+            "topLeftY": 0.3652073732718894,
+            "width": 0.09954545454545455,
+            "height": 0.021889400921658985,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.39,
+            "topLeftY": 0.2350230414746544,
+            "width": 0.07045454545454545,
+            "height": 0.03052995391705069,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.4340909090909091,
+            "topLeftY": 0.8675115207373272,
+            "width": 0.006818181818181818,
+            "height": 0.013248847926267281,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.6959090909090909,
+            "topLeftY": 0.20449308755760368,
+            "width": 0.03636363636363636,
+            "height": 0.029953917050691243,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.2081818181818182,
+            "topLeftY": 0.11578341013824885,
+            "width": 0.06681818181818182,
+            "height": 0.04435483870967742,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.6081818181818182,
+            "topLeftY": 0.20449308755760368,
+            "width": 0.08409090909090909,
+            "height": 0.03052995391705069,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.11409090909090909,
+            "topLeftY": 0.3663594470046083,
+            "width": 0.09181818181818181,
+            "height": 0.020737327188940093,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.11272727272727273,
+            "topLeftY": 0.38997695852534564,
+            "width": 0.09772727272727273,
+            "height": 0.019585253456221197,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.44272727272727275,
+            "topLeftY": 0.8675115207373272,
+            "width": 0.019090909090909092,
+            "height": 0.013248847926267281,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.5077272727272727,
+            "topLeftY": 0.20449308755760368,
+            "width": 0.01818181818181818,
+            "height": 0.03052995391705069,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.48863636363636365,
+            "topLeftY": 0.23559907834101382,
+            "width": 0.046363636363636364,
+            "height": 0.02880184331797235,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.09272727272727273,
+            "topLeftY": 0.11578341013824885,
+            "width": 0.11,
+            "height": 0.04205069124423963,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.44727272727272727,
+            "topLeftY": 0.11463133640552996,
+            "width": 0.14863636363636365,
+            "height": 0.05011520737327189,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.4859090909090909,
+            "topLeftY": 0.29435483870967744,
+            "width": 0.06818181818181818,
+            "height": 0.03052995391705069,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.6045454545454545,
+            "topLeftY": 0.11290322580645161,
+            "width": 0.15681818181818183,
+            "height": 0.05184331797235023,
+            "consensus_score": 1.0
+        }
+    ],
+    "submitted_answers": [
+        "create perception of ACTOS"
+    ],
+    "correct_answer": "create perception of actos reducing risk of cardiovascular complications starting in 2003"
+}

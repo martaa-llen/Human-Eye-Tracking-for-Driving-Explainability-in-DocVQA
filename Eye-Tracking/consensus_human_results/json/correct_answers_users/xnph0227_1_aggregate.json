@@ -1,0 +1,51 @@
+{
+    "image_name": "xnph0227_1",
+    "category": "correct_answers_users",
+    "user_count": 10,
+    "consensus_threshold": 0.55,
+    "consensus_bounding_boxes": [
+        {
+            "topLeftX": 0.4370240187463386,
+            "topLeftY": 0.11452513966480447,
+            "width": 0.05272407732864675,
+            "height": 0.020251396648044692,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.4997070884592853,
+            "topLeftY": 0.11452513966480447,
+            "width": 0.06736965436438196,
+            "height": 0.020251396648044692,
+            "consensus_score": 0.9
+        },
+        {
+            "topLeftX": 0.4182776801405975,
+            "topLeftY": 0.15502793296089384,
+            "width": 0.1265377855887522,
+            "height": 0.0356145251396648,
+            "consensus_score": 0.9
+        },
+        {
+            "topLeftX": 0.4645577035735208,
+            "topLeftY": 0.040502793296089384,
+            "width": 0.11423550087873462,
+            "height": 0.0223463687150838,
+            "consensus_score": 0.7
+        },
+        {
+            "topLeftX": 0.3397773872290568,
+            "topLeftY": 0.1543296089385475,
+            "width": 0.06971294669009959,
+            "height": 0.036312849162011177,
+            "consensus_score": 0.7
+        },
+        {
+            "topLeftX": 0.45635618043350906,
+            "topLeftY": 0.24441340782122906,
+            "width": 0.05038078500292911,
+            "height": 0.025837988826815643,
+            "consensus_score": 0.6
+        }
+    ],
+    "correct_answer": "food industry association"
+}

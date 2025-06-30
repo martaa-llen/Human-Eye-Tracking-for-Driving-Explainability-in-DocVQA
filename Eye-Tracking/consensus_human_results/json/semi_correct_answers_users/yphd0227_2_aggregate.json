@@ -1,0 +1,82 @@
+{
+    "image_name": "yphd0227_2",
+    "category": "semi_correct_answers_users",
+    "user_count": 1,
+    "consensus_threshold": 0.55,
+    "consensus_bounding_boxes": [
+        {
+            "topLeftX": 0.38660245183887915,
+            "topLeftY": 0.16722595078299776,
+            "width": 0.042907180385288964,
+            "height": 0.017337807606263984,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.18169877408056043,
+            "topLeftY": 0.11185682326621924,
+            "width": 0.05647985989492119,
+            "height": 0.020134228187919462,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.34413309982486867,
+            "topLeftY": 0.22427293064876958,
+            "width": 0.01882661996497373,
+            "height": 0.01901565995525727,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.3239929947460595,
+            "topLeftY": 0.22483221476510068,
+            "width": 0.010507880910683012,
+            "height": 0.01901565995525727,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.44877408056042034,
+            "topLeftY": 0.16722595078299776,
+            "width": 0.026707530647985988,
+            "height": 0.017337807606263984,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.4391418563922942,
+            "topLeftY": 0.11017897091722595,
+            "width": 0.07311733800350263,
+            "height": 0.019574944071588368,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.2530647985989492,
+            "topLeftY": 0.11129753914988814,
+            "width": 0.01838879159369527,
+            "height": 0.020134228187919462,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.3690893169877408,
+            "topLeftY": 0.2231543624161074,
+            "width": 0.0446584938704028,
+            "height": 0.020134228187919462,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.28809106830122594,
+            "topLeftY": 0.11073825503355705,
+            "width": 0.09938704028021016,
+            "height": 0.020134228187919462,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.4041155866900175,
+            "topLeftY": 0.11073825503355705,
+            "width": 0.01838879159369527,
+            "height": 0.01901565995525727,
+            "consensus_score": 1.0
+        }
+    ],
+    "submitted_answers": [
+        "deport of performance on national scard part & expeditoion"
+    ],
+    "correct_answer": "report of performance on national board part 3 examination"
+}

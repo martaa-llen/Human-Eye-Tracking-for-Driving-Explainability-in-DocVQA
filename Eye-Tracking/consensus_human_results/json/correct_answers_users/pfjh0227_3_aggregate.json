@@ -1,0 +1,51 @@
+{
+    "image_name": "pfjh0227_3",
+    "category": "correct_answers_users",
+    "user_count": 15,
+    "consensus_threshold": 0.55,
+    "consensus_bounding_boxes": [
+        {
+            "topLeftX": 0.7039473684210527,
+            "topLeftY": 0.05555555555555555,
+            "width": 0.11483253588516747,
+            "height": 0.03111111111111111,
+            "consensus_score": 0.8
+        },
+        {
+            "topLeftX": 0.7057416267942583,
+            "topLeftY": 0.11555555555555555,
+            "width": 0.02631578947368421,
+            "height": 0.017777777777777778,
+            "consensus_score": 0.8
+        },
+        {
+            "topLeftX": 0.7135167464114832,
+            "topLeftY": 0.016666666666666666,
+            "width": 0.056220095693779906,
+            "height": 0.01888888888888889,
+            "consensus_score": 0.8
+        },
+        {
+            "topLeftX": 0.7715311004784688,
+            "topLeftY": 0.015555555555555555,
+            "width": 0.028708133971291867,
+            "height": 0.01888888888888889,
+            "consensus_score": 0.6666666666666666
+        },
+        {
+            "topLeftX": 0.7619617224880383,
+            "topLeftY": 0.11666666666666667,
+            "width": 0.046052631578947366,
+            "height": 0.017777777777777778,
+            "consensus_score": 0.6666666666666666
+        },
+        {
+            "topLeftX": 0.6889952153110048,
+            "topLeftY": 0.015555555555555555,
+            "width": 0.02033492822966507,
+            "height": 0.02,
+            "consensus_score": 0.6666666666666666
+        }
+    ],
+    "correct_answer": "mcclendon"
+}

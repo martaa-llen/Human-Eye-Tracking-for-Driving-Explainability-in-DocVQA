@@ -1,0 +1,93 @@
+{
+    "image_name": "xrcy0227_88",
+    "category": "correct_answers_users",
+    "user_count": 8,
+    "consensus_threshold": 0.55,
+    "consensus_bounding_boxes": [
+        {
+            "topLeftX": 0.40834964122635353,
+            "topLeftY": 0.03724928366762178,
+            "width": 0.0776255707762557,
+            "height": 0.0329512893982808,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.3789954337899543,
+            "topLeftY": 0.08166189111747851,
+            "width": 0.11806914546640573,
+            "height": 0.03581661891117478,
+            "consensus_score": 1.0
+        },
+        {
+            "topLeftX": 0.5081539465101109,
+            "topLeftY": 0.08166189111747851,
+            "width": 0.029354207436399216,
+            "height": 0.03724928366762178,
+            "consensus_score": 0.875
+        },
+        {
+            "topLeftX": 0.4918460534898891,
+            "topLeftY": 0.03724928366762178,
+            "width": 0.04957599478147423,
+            "height": 0.034383954154727794,
+            "consensus_score": 0.875
+        },
+        {
+            "topLeftX": 0.6014350945857795,
+            "topLeftY": 0.12750716332378223,
+            "width": 0.05218525766470972,
+            "height": 0.025787965616045846,
+            "consensus_score": 0.75
+        },
+        {
+            "topLeftX": 0.5903457273320287,
+            "topLeftY": 0.08739255014326648,
+            "width": 0.07697325505544683,
+            "height": 0.024355300859598854,
+            "consensus_score": 0.75
+        },
+        {
+            "topLeftX": 0.547945205479452,
+            "topLeftY": 0.03868194842406877,
+            "width": 0.037834311806914545,
+            "height": 0.0329512893982808,
+            "consensus_score": 0.75
+        },
+        {
+            "topLeftX": 0.6562296151337247,
+            "topLeftY": 0.04011461318051576,
+            "width": 0.03718199608610567,
+            "height": 0.03151862464183381,
+            "consensus_score": 0.75
+        },
+        {
+            "topLeftX": 0.593607305936073,
+            "topLeftY": 0.03868194842406877,
+            "width": 0.05870841487279843,
+            "height": 0.0329512893982808,
+            "consensus_score": 0.75
+        },
+        {
+            "topLeftX": 0.5414220482713633,
+            "topLeftY": 0.08166189111747851,
+            "width": 0.02609262883235486,
+            "height": 0.03724928366762178,
+            "consensus_score": 0.75
+        },
+        {
+            "topLeftX": 0.6568819308545336,
+            "topLeftY": 0.12893982808022922,
+            "width": 0.04827136333985649,
+            "height": 0.024355300859598854,
+            "consensus_score": 0.625
+        },
+        {
+            "topLeftX": 0.5870841487279843,
+            "topLeftY": 0.12750716332378223,
+            "width": 0.012393998695368558,
+            "height": 0.024355300859598854,
+            "consensus_score": 0.625
+        }
+    ],
+    "correct_answer": "universal credit card charge form"
+}

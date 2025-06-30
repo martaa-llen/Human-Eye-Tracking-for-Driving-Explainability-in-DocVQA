@@ -1,0 +1,30 @@
+{
+    "image_name": "kgnb0228_1",
+    "category": "correct_answers_users",
+    "user_count": 11,
+    "consensus_threshold": 0.55,
+    "consensus_bounding_boxes": [
+        {
+            "topLeftX": 0.058823529411764705,
+            "topLeftY": 0.2179144385026738,
+            "width": 0.08823529411764706,
+            "height": 0.034759358288770054,
+            "consensus_score": 0.9090909090909091
+        },
+        {
+            "topLeftX": 0.15073529411764705,
+            "topLeftY": 0.2179144385026738,
+            "width": 0.05606617647058824,
+            "height": 0.03609625668449198,
+            "consensus_score": 0.9090909090909091
+        },
+        {
+            "topLeftX": 0.2104779411764706,
+            "topLeftY": 0.2179144385026738,
+            "width": 0.012867647058823529,
+            "height": 0.03609625668449198,
+            "consensus_score": 0.8181818181818182
+        }
+    ],
+    "correct_answer": "0223-51781"
+}

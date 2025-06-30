@@ -1,0 +1,16 @@
+{
+    "image_name": "mynm0227_7",
+    "category": "correct_answers_users",
+    "user_count": 10,
+    "consensus_threshold": 0.55,
+    "consensus_bounding_boxes": [
+        {
+            "topLeftX": 0.8902600264433671,
+            "topLeftY": 0.035653650254668934,
+            "width": 0.045394446892904367,
+            "height": 0.01867572156196944,
+            "consensus_score": 0.7
+        }
+    ],
+    "correct_answer": "4/2/80"
+}

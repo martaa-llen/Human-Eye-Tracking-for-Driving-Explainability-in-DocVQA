@@ -1,0 +1,44 @@
+{
+    "image_name": "gqjb0228_1",
+    "category": "correct_answers_users",
+    "user_count": 12,
+    "consensus_threshold": 0.55,
+    "consensus_bounding_boxes": [
+        {
+            "topLeftX": 0.4539641943734015,
+            "topLeftY": 0.47596153846153844,
+            "width": 0.07608695652173914,
+            "height": 0.036057692307692304,
+            "consensus_score": 0.8333333333333334
+        },
+        {
+            "topLeftX": 0.41048593350383633,
+            "topLeftY": 0.5204326923076923,
+            "width": 0.11061381074168798,
+            "height": 0.03485576923076923,
+            "consensus_score": 0.75
+        },
+        {
+            "topLeftX": 0.41048593350383633,
+            "topLeftY": 0.47596153846153844,
+            "width": 0.03516624040920716,
+            "height": 0.03125,
+            "consensus_score": 0.6666666666666666
+        },
+        {
+            "topLeftX": 0.13107416879795397,
+            "topLeftY": 0.109375,
+            "width": 0.1010230179028133,
+            "height": 0.02283653846153846,
+            "consensus_score": 0.6666666666666666
+        },
+        {
+            "topLeftX": 0.06905370843989769,
+            "topLeftY": 0.1502403846153846,
+            "width": 0.11061381074168798,
+            "height": 0.026442307692307692,
+            "consensus_score": 0.5833333333333334
+        }
+    ],
+    "correct_answer": "dr. william j. darby"
+}
