@@ -1,0 +1,229 @@
+{
+    "image_number": 172,
+    "user_answer": "148.10",
+    "correct_answer": "148.10",
+    "last_fixation_attention": [],
+    "pre_typing_attention": [
+        {
+            "word": "our",
+            "bounding_box": {
+                "topLeftX": 0.16203703703703703,
+                "topLeftY": 0.11337579617834395,
+                "width": 0.0205026455026455,
+                "height": 0.01910828025477707
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "net",
+            "bounding_box": {
+                "topLeftX": 0.8154761904761905,
+                "topLeftY": 0.11337579617834395,
+                "width": 0.021164021164021163,
+                "height": 0.02038216560509554
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "amount",
+            "bounding_box": {
+                "topLeftX": 0.8379629629629629,
+                "topLeftY": 0.11337579617834395,
+                "width": 0.04365079365079365,
+                "height": 0.02038216560509554
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "invoice",
+            "bounding_box": {
+                "topLeftX": 0.3082010582010582,
+                "topLeftY": 0.11464968152866242,
+                "width": 0.041666666666666664,
+                "height": 0.01910828025477707
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "no.",
+            "bounding_box": {
+                "topLeftX": 0.35119047619047616,
+                "topLeftY": 0.11337579617834395,
+                "width": 0.017857142857142856,
+                "height": 0.02038216560509554
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "remittance",
+            "bounding_box": {
+                "topLeftX": 0.29365079365079366,
+                "topLeftY": 0.03821656050955414,
+                "width": 0.10515873015873016,
+                "height": 0.02929936305732484
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "your",
+            "bounding_box": {
+                "topLeftX": 0.27976190476190477,
+                "topLeftY": 0.11337579617834395,
+                "width": 0.026455026455026454,
+                "height": 0.02038216560509554
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "number",
+            "bounding_box": {
+                "topLeftX": 0.18452380952380953,
+                "topLeftY": 0.11337579617834395,
+                "width": 0.041005291005291,
+                "height": 0.01910828025477707
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "326426",
+            "bounding_box": {
+                "topLeftX": 0.1626984126984127,
+                "topLeftY": 0.14394904458598726,
+                "width": 0.07738095238095238,
+                "height": 0.033121019108280254
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "advice",
+            "bounding_box": {
+                "topLeftX": 0.4093915343915344,
+                "topLeftY": 0.03694267515923567,
+                "width": 0.061507936507936505,
+                "height": 0.02929936305732484
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "amount",
+            "bounding_box": {
+                "topLeftX": 0.4947089947089947,
+                "topLeftY": 0.11210191082802548,
+                "width": 0.04563492063492063,
+                "height": 0.02038216560509554
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "-",
+            "bounding_box": {
+                "topLeftX": 0.4742063492063492,
+                "topLeftY": 0.03694267515923567,
+                "width": 0.00992063492063492,
+                "height": 0.02929936305732484
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "the",
+            "bounding_box": {
+                "topLeftX": 0.48677248677248675,
+                "topLeftY": 0.03694267515923567,
+                "width": 0.03042328042328042,
+                "height": 0.02929936305732484
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "gross",
+            "bounding_box": {
+                "topLeftX": 0.458994708994709,
+                "topLeftY": 0.11337579617834395,
+                "width": 0.03373015873015873,
+                "height": 0.02038216560509554
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "148.10",
+            "bounding_box": {
+                "topLeftX": 0.49537037037037035,
+                "topLeftY": 0.14522292993630573,
+                "width": 0.07539682539682539,
+                "height": 0.030573248407643312
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "894781",
+            "bounding_box": {
+                "topLeftX": 0.01984126984126984,
+                "topLeftY": 0.03821656050955414,
+                "width": 0.11243386243386243,
+                "height": 0.0751592356687898
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "company",
+            "bounding_box": {
+                "topLeftX": 0.6183862433862434,
+                "topLeftY": 0.03694267515923567,
+                "width": 0.08531746031746032,
+                "height": 0.030573248407643312
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "discount",
+            "bounding_box": {
+                "topLeftX": 0.6448412698412699,
+                "topLeftY": 0.11337579617834395,
+                "width": 0.05092592592592592,
+                "height": 0.02038216560509554
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "148.10",
+            "bounding_box": {
+                "topLeftX": 0.8531746031746031,
+                "topLeftY": 0.14522292993630573,
+                "width": 0.07473544973544974,
+                "height": 0.030573248407643312
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "10",
+            "bounding_box": {
+                "topLeftX": 0.906084656084656,
+                "topLeftY": 0.1859872611464968,
+                "width": 0.022486772486772486,
+                "height": 0.03184713375796178
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": ".",
+            "bounding_box": {
+                "topLeftX": 0.8935185185185185,
+                "topLeftY": 0.1859872611464968,
+                "width": 0.00992063492063492,
+                "height": 0.03184713375796178
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "148",
+            "bounding_box": {
+                "topLeftX": 0.8525132275132276,
+                "topLeftY": 0.1859872611464968,
+                "width": 0.037037037037037035,
+                "height": 0.03184713375796178
+            },
+            "attention_score": 0.5
+        }
+    ],
+    "typing_attention": []
+}

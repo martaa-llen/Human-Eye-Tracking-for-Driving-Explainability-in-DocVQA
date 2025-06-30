@@ -1,0 +1,90 @@
+{
+    "image_number": 182,
+    "user_answer": "10/17/67",
+    "correct_answer": "10/17/67",
+    "last_fixation_attention": [],
+    "pre_typing_attention": [
+        {
+            "word": "+",
+            "bounding_box": {
+                "topLeftX": 0.16218236173393125,
+                "topLeftY": 0.21141374837872892,
+                "width": 0.025411061285500747,
+                "height": 0.07652399481193256
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "l.a.",
+            "bounding_box": {
+                "topLeftX": 0.11659192825112108,
+                "topLeftY": 0.10765239948119326,
+                "width": 0.08370702541106129,
+                "height": 0.08041504539559015
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "lead",
+            "bounding_box": {
+                "topLeftX": 0.0515695067264574,
+                "topLeftY": 0.21660181582360571,
+                "width": 0.09715994020926756,
+                "height": 0.08949416342412451
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "10/",
+            "bounding_box": {
+                "topLeftX": 0.13228699551569506,
+                "topLeftY": 0.3035019455252918,
+                "width": 0.04708520179372197,
+                "height": 0.0609597924773022
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "+",
+            "bounding_box": {
+                "topLeftX": 0.16218236173393125,
+                "topLeftY": 0.21141374837872892,
+                "width": 0.025411061285500747,
+                "height": 0.07652399481193256
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "50",
+            "bounding_box": {
+                "topLeftX": 0.12630792227204785,
+                "topLeftY": 0.38261997405966275,
+                "width": 0.04110612855007474,
+                "height": 0.07522697795071336
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "17/",
+            "bounding_box": {
+                "topLeftX": 0.18385650224215247,
+                "topLeftY": 0.29961089494163423,
+                "width": 0.045590433482810166,
+                "height": 0.0622568093385214
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "10/",
+            "bounding_box": {
+                "topLeftX": 0.13228699551569506,
+                "topLeftY": 0.3035019455252918,
+                "width": 0.04708520179372197,
+                "height": 0.0609597924773022
+            },
+            "attention_score": 1.0
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "image_number": 105,
+    "user_answer": "64476",
+    "correct_answer": "64476",
+    "last_fixation_attention": [
+        {
+            "word": "order",
+            "bounding_box": {
+                "topLeftX": 0.6496062992125984,
+                "topLeftY": 0.25675675675675674,
+                "width": 0.05680539932508436,
+                "height": 0.02533783783783784
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "no.",
+            "bounding_box": {
+                "topLeftX": 0.7159730033745781,
+                "topLeftY": 0.25675675675675674,
+                "width": 0.03712035995500562,
+                "height": 0.02533783783783784
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "64476",
+            "bounding_box": {
+                "topLeftX": 0.7626546681664792,
+                "topLeftY": 0.25422297297297297,
+                "width": 0.05568053993250844,
+                "height": 0.02702702702702703
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "11-14-61",
+            "bounding_box": {
+                "topLeftX": 0.7632170978627671,
+                "topLeftY": 0.31841216216216217,
+                "width": 0.08830146231721035,
+                "height": 0.02533783783783784
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "audubon",
+            "bounding_box": {
+                "topLeftX": 0.671541057367829,
+                "topLeftY": 0.12837837837837837,
+                "width": 0.07874015748031496,
+                "height": 0.024493243243243243
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "panhorst",
+            "bounding_box": {
+                "topLeftX": 0.6496062992125984,
+                "topLeftY": 0.16131756756756757,
+                "width": 0.08998875140607424,
+                "height": 0.024493243243243243
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "order",
+            "bounding_box": {
+                "topLeftX": 0.6496062992125984,
+                "topLeftY": 0.25675675675675674,
+                "width": 0.05680539932508436,
+                "height": 0.02533783783783784
+            },
+            "attention_score": 0.5
+        }
+    ],
+    "typing_attention": []
+}
