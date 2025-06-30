@@ -1,0 +1,56 @@
+{
+    "predicted_answer": "frequency distribution of weight deviation",
+    "correct_answer": "frequency distribution of weight deviation",
+    "attention_map": [
+        {
+            "word": "deviation",
+            "bounding_box": [
+                0.7394585013389587,
+                0.036571428179740906,
+                0.8872614502906799,
+                0.07371428608894348
+            ],
+            "attention_score": 1.0
+        },
+        {
+            "word": "weight",
+            "bounding_box": [
+                0.6067465543746948,
+                0.037142857909202576,
+                0.718597412109375,
+                0.07428571581840515
+            ],
+            "attention_score": 0.41758543252944946
+        },
+        {
+            "word": "frequency",
+            "bounding_box": [
+                0.14957833290100098,
+                0.03771428391337395,
+                0.3182423412799835,
+                0.07371428608894348
+            ],
+            "attention_score": 0.22562488913536072
+        },
+        {
+            "word": "distribution",
+            "bounding_box": [
+                0.34087881445884705,
+                0.03828571364283562,
+                0.5343985557556152,
+                0.07428571581840515
+            ],
+            "attention_score": 0.10067156702280045
+        },
+        {
+            "word": "of",
+            "bounding_box": [
+                0.5534842610359192,
+                0.03771428391337395,
+                0.59121173620224,
+                0.07428571581840515
+            ],
+            "attention_score": 0.08274108171463013
+        }
+    ]
+}

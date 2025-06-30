@@ -1,0 +1,36 @@
+{
+    "predicted_answer": "medical biophysics programme",
+    "correct_answer": "medical biophysics",
+    "attention_map": [
+        {
+            "word": "programme",
+            "bounding_box": [
+                0.21905340254306793,
+                0.30257803201675415,
+                0.3064320385456085,
+                0.3310719132423401
+            ],
+            "attention_score": 1.0
+        },
+        {
+            "word": "biophysics",
+            "bounding_box": [
+                0.3919903039932251,
+                0.17232021689414978,
+                0.6086165308952332,
+                0.24830393493175507
+            ],
+            "attention_score": 0.22880658507347107
+        },
+        {
+            "word": "medical",
+            "bounding_box": [
+                0.2196601927280426,
+                0.1709633618593216,
+                0.3810679614543915,
+                0.24694707989692688
+            ],
+            "attention_score": 0.07651446759700775
+        }
+    ]
+}

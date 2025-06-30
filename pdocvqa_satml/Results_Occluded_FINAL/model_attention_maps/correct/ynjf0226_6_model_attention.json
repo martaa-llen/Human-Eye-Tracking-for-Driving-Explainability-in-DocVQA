@@ -1,0 +1,36 @@
+{
+    "predicted_answer": "consequences of ir",
+    "correct_answer": "consequences of ir",
+    "attention_map": [
+        {
+            "word": "ir",
+            "bounding_box": [
+                0.44999998807907104,
+                0.11463133990764618,
+                0.49000000953674316,
+                0.16129031777381897
+            ],
+            "attention_score": 1.0
+        },
+        {
+            "word": "of",
+            "bounding_box": [
+                0.40090909600257874,
+                0.11578340828418732,
+                0.4431818127632141,
+                0.16359446942806244
+            ],
+            "attention_score": 0.8595563173294067
+        },
+        {
+            "word": "consequences",
+            "bounding_box": [
+                0.09454545378684998,
+                0.11520737409591675,
+                0.39181819558143616,
+                0.164170503616333
+            ],
+            "attention_score": 0.02205771394073963
+        }
+    ]
+}

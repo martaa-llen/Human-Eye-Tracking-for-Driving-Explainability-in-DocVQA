@@ -1,0 +1,36 @@
+{
+    "predicted_answer": "american health foundation",
+    "correct_answer": "american health foundation",
+    "attention_map": [
+        {
+            "word": "foundation",
+            "bounding_box": [
+                0.21073903143405914,
+                0.06351350992918015,
+                0.3308314085006714,
+                0.10540540516376495
+            ],
+            "attention_score": 1.0
+        },
+        {
+            "word": "american",
+            "bounding_box": [
+                0.023672055453062057,
+                0.06351350992918015,
+                0.1218244805932045,
+                0.10675675421953201
+            ],
+            "attention_score": 0.10092980414628983
+        },
+        {
+            "word": "health",
+            "bounding_box": [
+                0.12990762293338776,
+                0.06351350992918015,
+                0.20150116086006165,
+                0.10540540516376495
+            ],
+            "attention_score": 0.053199540823698044
+        }
+    ]
+}
