@@ -41,8 +41,14 @@ The original TraceOverview.md and README.md are also included in the folder for 
 2. Create a Python 3.8 virtual environment. This is required for compatibility with the Tobii Pro Spark hardware.
 3. Install the required dependencies in `requirements.txt`
 4. *Setup Tobii Hardware*: Download and install the [Tobii Pro Eye Tracker Manager](https://connect.tobii.com/s/etm-downloads?language=en_US) and configure your Tobii Pro Spark device.
-5. Configure Paths: Before running, you must modify the hyperparameter variables at the top of the Python files, especially folder_path and ocr_data in main_GUI.py.
-6. Launch the Main Application:
+5. Configure Paths: Before running, you must modify the hyperparameter variables
+   - `main_GUI.py`
+     - `folder_path`
+     - `npy_filtered_landscape_path`
+   - `main_data_analysis.py`
+     - `filtered_data_npy_path`
+     - `PARTICIPANTS_EYE_DATA_DIR`
+7. Launch the Main Application:
 
 ```
 python application.py
@@ -63,6 +69,9 @@ To run main_data_analysis.py:
   - Analysis Mode (`--analysis-mode`):
     - default: Generates regular heatmaps.
     - `bbox_heatmaps`: Generates heatmaps based on bounding boxes.
+  - Save Plots for default mode (`--save-plots`)
+    - If included when running in default mode the plots will be saved
+    - The `bbox_heatmaps` saves the plots by default
   - Example Commands:
     ```
     # Run in single mode with default heatmap
@@ -70,6 +79,9 @@ To run main_data_analysis.py:
     
     # Run in full mode with bounding box heatmaps
     python main_data_analysis.py --mode full --analysis-mode bbox_heatmaps
+    
+    #Run in full single, default mode and saving plots
+    python main_data_analysis.py --mode single --save-plots
     ```
 
 ### pdocvqa_satml/
@@ -95,8 +107,11 @@ This component uses the VT5 model to generate predictions and attention maps for
   conda activate pdocvqa_satml
   ```
 3. Download the Dataset: Obtain the dataset from the ELSA Benchmarks Platform (or use the specific subset from this project).
-4. Configure Paths: Modify the paths in configs/datasets/DocVQA.yml to point to your imdb_dir and images_dir.
-5. Run Training or Evaluation:
+4. Configure Paths: Modify the paths in
+   - `configs/datasets/DocVQA.yml` to point to your imdb_dir and images_dir.
+   - `AGGREGATED_HUMAN_JSON_DIR` in `find_human_consensus_file()` function in `eval.py` file
+
+6. Run Training or Evaluation:
   - To train the model:
     ```
     python train.py --dataset PFL-DocVQA-BLUE --model VT5
