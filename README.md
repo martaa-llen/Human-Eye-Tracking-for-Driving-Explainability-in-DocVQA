@@ -23,8 +23,14 @@ The original TraceOverview.md and README.md are also included in the folder for 
 - **Fixation Point Clustering**: Identifies fixation points by clustering gaze data in time and space and displays them on a scatterplot.
 - **OCR Correlation**: Finds and returns the nearest OCR (Optical Character Recognition) text segments for each identified fixation point.
 - **My Additions**:
-  - ...
- 
+  - `application.py`: A master GUI application that serves as the central control panel for the entire experimental workflow.
+  - `consent_GUI.py`: A multilingual (Catalan, Spanish, English) digital consent form to manage participant onboarding and data collection.
+  - `open_tobii.py`: A utility script to quickly launch the Tobii Pro Eye Tracker Manager for calibration.
+  - `main_GUI.py`: The core experiment interface (adapted from the original) that displays documents and questions while recording gaze data.
+  - `main_data_analysis.py`: An analysis script (adapted from the original) for processing and visualizing raw gaze data from a single participant, now with multi-layered heatmaps separating behavioral phases (pre-typing, typing, final glance).
+  - `compare_humans_data.py`: A new analysis script that aggregates data from all participants to generate "human consensus heatmaps," identifying the most commonly attended regions for different answer-correctness groups.
+  - `compare_with_model.py`: The final analysis script that quantitatively compares the human consensus heatmaps against the AI model's attention maps using Spearman's Rank Correlation and Top-N Overlap metrics.
+
 #### Setup and Usage
 1. Navigate to the eye-tracking directory:
 ```
@@ -34,7 +40,17 @@ cd Eye-Tracking
 3. Install the required dependencies in `requirements.txt`
 4. *Setup Tobii Hardware*: Download and install the [Tobii Pro Eye Tracker Manager](https://connect.tobii.com/s/etm-downloads?language=en_US) and configure your Tobii Pro Spark device.
 5. Configure Paths: Before running, you must modify the hyperparameter variables at the top of the Python files, especially folder_path and ocr_data in main_GUI.py.
-6. Run the Experiment:
+6. Launch the Main Application:
+
+```
+python application.py
+```
+
+The GUI will provide buttons to step through the process:
+  1. *Consent greement page*: Register a new participant.
+  2. *Calibrate Tobii Pro Spark*: Open the Tobii software for calibration.
+  3. *Trial*: Run the eye-tracking experiment for the participant.
+  4. *Data Analysis*: Run the analysis script `main_data_analysis.py` for the last participant's data collected.
 
 
 
