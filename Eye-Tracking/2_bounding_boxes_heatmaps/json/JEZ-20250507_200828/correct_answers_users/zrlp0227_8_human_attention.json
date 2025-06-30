@@ -1,0 +1,180 @@
+{
+    "image_number": 199,
+    "user_answer": "16",
+    "correct_answer": "16",
+    "last_fixation_attention": [],
+    "pre_typing_attention": [
+        {
+            "word": "1",
+            "bounding_box": {
+                "topLeftX": 0.2695883134130146,
+                "topLeftY": 0.2953898690950484,
+                "width": 0.00619743249225321,
+                "height": 0.01195219123505976
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "vacation",
+            "bounding_box": {
+                "topLeftX": 0.3705179282868526,
+                "topLeftY": 0.09618668184405237,
+                "width": 0.06374501992031872,
+                "height": 0.01935116676152533
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "sunday",
+            "bounding_box": {
+                "topLeftX": 0.37760070827799913,
+                "topLeftY": 0.07342060330108138,
+                "width": 0.05090748118636565,
+                "height": 0.02105862265224815
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "saturday",
+            "bounding_box": {
+                "topLeftX": 0.3749446657813192,
+                "topLeftY": 0.050654524758110414,
+                "width": 0.0619743249225321,
+                "height": 0.021627774615822423
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "holiday",
+            "bounding_box": {
+                "topLeftX": 0.47410358565737054,
+                "topLeftY": 0.09618668184405237,
+                "width": 0.06020362992474546,
+                "height": 0.020489470688673878
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "location",
+            "bounding_box": {
+                "topLeftX": 0.5657370517928287,
+                "topLeftY": 0.09675583380762663,
+                "width": 0.0650730411686587,
+                "height": 0.018782014797951052
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "may",
+            "bounding_box": {
+                "topLeftX": 0.07215582115980522,
+                "topLeftY": 0.1377347751849744,
+                "width": 0.02611775121735281,
+                "height": 0.01821286283437678
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "date,",
+            "bounding_box": {
+                "topLeftX": 0.07171314741035857,
+                "topLeftY": 0.09447922595332954,
+                "width": 0.04780876494023904,
+                "height": 0.020489470688673878
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "1975",
+            "bounding_box": {
+                "topLeftX": 0.12217795484727756,
+                "topLeftY": 0.093340922026181,
+                "width": 0.033643204957945996,
+                "height": 0.020489470688673878
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "3,4",
+            "bounding_box": {
+                "topLeftX": 0.1049136786188579,
+                "topLeftY": 0.1371656232214001,
+                "width": 0.021691013722886232,
+                "height": 0.018782014797951052
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "outside",
+            "bounding_box": {
+                "topLeftX": 0.24081451969898185,
+                "topLeftY": 0.09391007398975526,
+                "width": 0.05887560867640549,
+                "height": 0.0199203187250996
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "n.",
+            "bounding_box": {
+                "topLeftX": 0.3045595396193006,
+                "topLeftY": 0.09391007398975526,
+                "width": 0.017264276228419653,
+                "height": 0.02105862265224815
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "y.",
+            "bounding_box": {
+                "topLeftX": 0.3244798583444002,
+                "topLeftY": 0.09447922595332954,
+                "width": 0.013722886232846392,
+                "height": 0.02105862265224815
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "worked",
+            "bounding_box": {
+                "topLeftX": 0.25852146967684814,
+                "topLeftY": 0.07285145133750712,
+                "width": 0.054891544931385566,
+                "height": 0.01935116676152533
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "days",
+            "bounding_box": {
+                "topLeftX": 0.26693227091633465,
+                "topLeftY": 0.05179282868525897,
+                "width": 0.03718459495351926,
+                "height": 0.017643710870802503
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "16",
+            "bounding_box": {
+                "topLeftX": 0.26117751217352814,
+                "topLeftY": 0.6983494593056346,
+                "width": 0.015493581230633024,
+                "height": 0.016505406943653957
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "https://www.industrydocuments.ucsf.edu/docs/zrin0227",
+            "bounding_box": {
+                "topLeftX": 0.3466135458167331,
+                "topLeftY": 0.9760956175298805,
+                "width": 0.36033643204957944,
+                "height": 0.016505406943653957
+            },
+            "attention_score": 1.0
+        }
+    ]
+}

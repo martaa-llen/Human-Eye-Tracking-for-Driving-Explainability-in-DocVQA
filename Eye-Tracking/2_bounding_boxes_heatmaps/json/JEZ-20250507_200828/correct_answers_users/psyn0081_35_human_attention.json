@@ -1,0 +1,490 @@
+{
+    "image_number": 29,
+    "user_answer": "48",
+    "correct_answer": "48",
+    "last_fixation_attention": [],
+    "pre_typing_attention": [
+        {
+            "word": "1988",
+            "bounding_box": {
+                "topLeftX": 0.5423807318202871,
+                "topLeftY": 0.35339233038348083,
+                "width": 0.030569708198239925,
+                "height": 0.018289085545722714
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "%",
+            "bounding_box": {
+                "topLeftX": 0.5581287633163502,
+                "topLeftY": 0.3787610619469027,
+                "width": 0.006021306160259379,
+                "height": 0.016519174041297935
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "48",
+            "bounding_box": {
+                "topLeftX": 0.5460861509958314,
+                "topLeftY": 0.4625368731563422,
+                "width": 0.01667438628994905,
+                "height": 0.022418879056047197
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "47",
+            "bounding_box": {
+                "topLeftX": 0.5460861509958314,
+                "topLeftY": 0.51976401179941,
+                "width": 0.019916628068550254,
+                "height": 0.02536873156342183
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "38",
+            "bounding_box": {
+                "topLeftX": 0.5465493283927745,
+                "topLeftY": 0.4920353982300885,
+                "width": 0.021306160259379342,
+                "height": 0.021238938053097345
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "physical",
+            "bounding_box": {
+                "topLeftX": 0.11533117183881426,
+                "topLeftY": 0.1415929203539823,
+                "width": 0.11625752663270032,
+                "height": 0.04247787610619469
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "yankelovich",
+            "bounding_box": {
+                "topLeftX": 0.6146364057433997,
+                "topLeftY": 0.2967551622418879,
+                "width": 0.08707735062528948,
+                "height": 0.02182890855457227
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "1989",
+            "bounding_box": {
+                "topLeftX": 0.6780917091245947,
+                "topLeftY": 0.35221238938053095,
+                "width": 0.030106530801296896,
+                "height": 0.01887905604719764
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "monitor",
+            "bounding_box": {
+                "topLeftX": 0.7044928207503474,
+                "topLeftY": 0.296165191740413,
+                "width": 0.06808707735062529,
+                "height": 0.02182890855457227
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "to",
+            "bounding_box": {
+                "topLeftX": 0.460398332561371,
+                "topLeftY": 0.2519174041297935,
+                "width": 0.01713756368689208,
+                "height": 0.02359882005899705
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "abate",
+            "bounding_box": {
+                "topLeftX": 0.48355720240852246,
+                "topLeftY": 0.25073746312684364,
+                "width": 0.04678091709124595,
+                "height": 0.024188790560471976
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "about:",
+            "bounding_box": {
+                "topLeftX": 0.15423807318202873,
+                "topLeftY": 0.4271386430678466,
+                "width": 0.0555812876331635,
+                "height": 0.02359882005899705
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "concerned",
+            "bounding_box": {
+                "topLeftX": 0.05697081982399259,
+                "topLeftY": 0.4283185840707965,
+                "width": 0.09309865678554886,
+                "height": 0.023008849557522124
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "maintaining",
+            "bounding_box": {
+                "topLeftX": 0.07271885132005558,
+                "topLeftY": 0.4666666666666667,
+                "width": 0.09031959240389069,
+                "height": 0.02536873156342183
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "right",
+            "bounding_box": {
+                "topLeftX": 0.1667438628994905,
+                "topLeftY": 0.4666666666666667,
+                "width": 0.03798054654932839,
+                "height": 0.02536873156342183
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "a",
+            "bounding_box": {
+                "topLeftX": 0.1301528485409912,
+                "topLeftY": 0.4967551622418879,
+                "width": 0.01157943492357573,
+                "height": 0.02359882005899705
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "balanced",
+            "bounding_box": {
+                "topLeftX": 0.14543770264011116,
+                "topLeftY": 0.49616519174041296,
+                "width": 0.07688744789254284,
+                "height": 0.024188790560471976
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "eating",
+            "bounding_box": {
+                "topLeftX": 0.07503473830477073,
+                "topLeftY": 0.4967551622418879,
+                "width": 0.05187586845761927,
+                "height": 0.024778761061946902
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "getting",
+            "bounding_box": {
+                "topLeftX": 0.07503473830477073,
+                "topLeftY": 0.5268436578171092,
+                "width": 0.058823529411764705,
+                "height": 0.024188790560471976
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "enough",
+            "bounding_box": {
+                "topLeftX": 0.13756368689207968,
+                "topLeftY": 0.5268436578171092,
+                "width": 0.06021306160259379,
+                "height": 0.024188790560471976
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "much",
+            "bounding_box": {
+                "topLeftX": 0.17971283001389532,
+                "topLeftY": 0.5858407079646017,
+                "width": 0.047707271885132005,
+                "height": 0.024188790560471976
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "sugar",
+            "bounding_box": {
+                "topLeftX": 0.21630384437239464,
+                "topLeftY": 0.6247787610619469,
+                "width": 0.0444650301065308,
+                "height": 0.025958702064896755
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "foods",
+            "bounding_box": {
+                "topLeftX": 0.20981936081519223,
+                "topLeftY": 0.6542772861356932,
+                "width": 0.04585456229735989,
+                "height": 0.02536873156342183
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "much",
+            "bounding_box": {
+                "topLeftX": 0.16396479851783233,
+                "topLeftY": 0.6253687315634219,
+                "width": 0.04863362667901806,
+                "height": 0.02536873156342183
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "exercise",
+            "bounding_box": {
+                "topLeftX": 0.20287169986104678,
+                "topLeftY": 0.5268436578171092,
+                "width": 0.06623436776285317,
+                "height": 0.02359882005899705
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "non-nutritious",
+            "bounding_box": {
+                "topLeftX": 0.21028253821213524,
+                "topLeftY": 0.5545722713864307,
+                "width": 0.11394163964798518,
+                "height": 0.02654867256637168
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "many",
+            "bounding_box": {
+                "topLeftX": 0.1602593793422881,
+                "topLeftY": 0.6548672566371682,
+                "width": 0.04585456229735989,
+                "height": 0.02536873156342183
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "alcohol",
+            "bounding_box": {
+                "topLeftX": 0.2269569245020843,
+                "topLeftY": 0.7421828908554572,
+                "width": 0.05743399722093562,
+                "height": 0.02654867256637168
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "coffee",
+            "bounding_box": {
+                "topLeftX": 0.22556739231125522,
+                "topLeftY": 0.7144542772861356,
+                "width": 0.05002315886984715,
+                "height": 0.024188790560471976
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "salt",
+            "bounding_box": {
+                "topLeftX": 0.206577119036591,
+                "topLeftY": 0.6843657817109144,
+                "width": 0.02825382121352478,
+                "height": 0.024188790560471976
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "diet",
+            "bounding_box": {
+                "topLeftX": 0.2894858730893932,
+                "topLeftY": 0.623598820058997,
+                "width": 0.026401111625752663,
+                "height": 0.02536873156342183
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "in",
+            "bounding_box": {
+                "topLeftX": 0.26447429365446967,
+                "topLeftY": 0.6241887905604719,
+                "width": 0.019916628068550254,
+                "height": 0.02536873156342183
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "with",
+            "bounding_box": {
+                "topLeftX": 0.25937934228809634,
+                "topLeftY": 0.6542772861356932,
+                "width": 0.035664659564613246,
+                "height": 0.02536873156342183
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "chemical",
+            "bounding_box": {
+                "topLeftX": 0.2987494210282538,
+                "topLeftY": 0.6530973451327433,
+                "width": 0.07225567392311255,
+                "height": 0.025958702064896755
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "27",
+            "bounding_box": {
+                "topLeftX": 0.5474756831866605,
+                "topLeftY": 0.8359882005899705,
+                "width": 0.019916628068550254,
+                "height": 0.02536873156342183
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "self",
+            "bounding_box": {
+                "topLeftX": 0.23668364983788792,
+                "topLeftY": 0.1415929203539823,
+                "width": 0.052802223251505326,
+                "height": 0.04247787610619469
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "exercise",
+            "bounding_box": {
+                "topLeftX": 0.2093561834182492,
+                "topLeftY": 0.2536873156342183,
+                "width": 0.07225567392311255,
+                "height": 0.023008849557522124
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "concerns",
+            "bounding_box": {
+                "topLeftX": 0.2876331635016211,
+                "topLeftY": 0.2536873156342183,
+                "width": 0.08059286706808708,
+                "height": 0.023008849557522124
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "getting",
+            "bounding_box": {
+                "topLeftX": 0.07596109309865678,
+                "topLeftY": 0.8424778761061947,
+                "width": 0.058360352014821676,
+                "height": 0.027138643067846607
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "eating",
+            "bounding_box": {
+                "topLeftX": 0.07549791570171376,
+                "topLeftY": 0.8713864306784661,
+                "width": 0.05141269106067624,
+                "height": 0.027728613569321534
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "rjr712/monitor/mg/pl",
+            "bounding_box": {
+                "topLeftX": 0.05697081982399259,
+                "topLeftY": 0.9634218289085545,
+                "width": 0.10745715609078277,
+                "height": 0.014749262536873156
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "41",
+            "bounding_box": {
+                "topLeftX": 0.8193608151922186,
+                "topLeftY": 0.46194690265486726,
+                "width": 0.015284854099119963,
+                "height": 0.021238938053097345
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "%",
+            "bounding_box": {
+                "topLeftX": 0.8290875405280222,
+                "topLeftY": 0.3769911504424779,
+                "width": 0.0041685965724872626,
+                "height": 0.01710914454277286
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "32",
+            "bounding_box": {
+                "topLeftX": 0.8188976377952756,
+                "topLeftY": 0.49144542772861355,
+                "width": 0.018990273274664196,
+                "height": 0.02064896755162242
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "43",
+            "bounding_box": {
+                "topLeftX": 0.8193608151922186,
+                "topLeftY": 0.5221238938053098,
+                "width": 0.019453450671607225,
+                "height": 0.019469026548672566
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "20",
+            "bounding_box": {
+                "topLeftX": 0.8188976377952756,
+                "topLeftY": 0.5486725663716814,
+                "width": 0.020379805465493284,
+                "height": 0.022418879056047197
+            },
+            "attention_score": 0.5
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "27",
+            "bounding_box": {
+                "topLeftX": 0.5474756831866605,
+                "topLeftY": 0.8359882005899705,
+                "width": 0.019916628068550254,
+                "height": 0.02536873156342183
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "34",
+            "bounding_box": {
+                "topLeftX": 0.5470125057897175,
+                "topLeftY": 0.8058997050147493,
+                "width": 0.02315886984715146,
+                "height": 0.02654867256637168
+            },
+            "attention_score": 1.0
+        }
+    ]
+}

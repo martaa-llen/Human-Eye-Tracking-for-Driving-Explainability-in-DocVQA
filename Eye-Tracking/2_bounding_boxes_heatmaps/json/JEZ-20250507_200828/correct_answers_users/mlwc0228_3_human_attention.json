@@ -1,0 +1,390 @@
+{
+    "image_number": 172,
+    "user_answer": "148.10",
+    "correct_answer": "148.10",
+    "last_fixation_attention": [],
+    "pre_typing_attention": [
+        {
+            "word": "-",
+            "bounding_box": {
+                "topLeftX": 0.4742063492063492,
+                "topLeftY": 0.03694267515923567,
+                "width": 0.00992063492063492,
+                "height": 0.02929936305732484
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "the",
+            "bounding_box": {
+                "topLeftX": 0.48677248677248675,
+                "topLeftY": 0.03694267515923567,
+                "width": 0.03042328042328042,
+                "height": 0.02929936305732484
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "gross",
+            "bounding_box": {
+                "topLeftX": 0.458994708994709,
+                "topLeftY": 0.11337579617834395,
+                "width": 0.03373015873015873,
+                "height": 0.02038216560509554
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "advice",
+            "bounding_box": {
+                "topLeftX": 0.4093915343915344,
+                "topLeftY": 0.03694267515923567,
+                "width": 0.061507936507936505,
+                "height": 0.02929936305732484
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "amount",
+            "bounding_box": {
+                "topLeftX": 0.8379629629629629,
+                "topLeftY": 0.11337579617834395,
+                "width": 0.04365079365079365,
+                "height": 0.02038216560509554
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "148.10",
+            "bounding_box": {
+                "topLeftX": 0.8531746031746031,
+                "topLeftY": 0.14522292993630573,
+                "width": 0.07473544973544974,
+                "height": 0.030573248407643312
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": ".",
+            "bounding_box": {
+                "topLeftX": 0.8935185185185185,
+                "topLeftY": 0.1859872611464968,
+                "width": 0.00992063492063492,
+                "height": 0.03184713375796178
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "148",
+            "bounding_box": {
+                "topLeftX": 0.8525132275132276,
+                "topLeftY": 0.1859872611464968,
+                "width": 0.037037037037037035,
+                "height": 0.03184713375796178
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "amount",
+            "bounding_box": {
+                "topLeftX": 0.4947089947089947,
+                "topLeftY": 0.11210191082802548,
+                "width": 0.04563492063492063,
+                "height": 0.02038216560509554
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "148.10",
+            "bounding_box": {
+                "topLeftX": 0.49537037037037035,
+                "topLeftY": 0.14522292993630573,
+                "width": 0.07539682539682539,
+                "height": 0.030573248407643312
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "invoice",
+            "bounding_box": {
+                "topLeftX": 0.3082010582010582,
+                "topLeftY": 0.11464968152866242,
+                "width": 0.041666666666666664,
+                "height": 0.01910828025477707
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "remittance",
+            "bounding_box": {
+                "topLeftX": 0.29365079365079366,
+                "topLeftY": 0.03821656050955414,
+                "width": 0.10515873015873016,
+                "height": 0.02929936305732484
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "your",
+            "bounding_box": {
+                "topLeftX": 0.27976190476190477,
+                "topLeftY": 0.11337579617834395,
+                "width": 0.026455026455026454,
+                "height": 0.02038216560509554
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "net",
+            "bounding_box": {
+                "topLeftX": 0.8154761904761905,
+                "topLeftY": 0.11337579617834395,
+                "width": 0.021164021164021163,
+                "height": 0.02038216560509554
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "pillsbury",
+            "bounding_box": {
+                "topLeftX": 0.5251322751322751,
+                "topLeftY": 0.03694267515923567,
+                "width": 0.08267195767195767,
+                "height": 0.02929936305732484
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "148.10",
+            "bounding_box": {
+                "topLeftX": 0.49603174603174605,
+                "topLeftY": 0.1859872611464968,
+                "width": 0.07605820105820106,
+                "height": 0.033121019108280254
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "depositing",
+            "bounding_box": {
+                "topLeftX": 0.04298941798941799,
+                "topLeftY": 0.3375796178343949,
+                "width": 0.011243386243386243,
+                "height": 0.11337579617834395
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "memorandum",
+            "bounding_box": {
+                "topLeftX": 0.02513227513227513,
+                "topLeftY": 0.37070063694267513,
+                "width": 0.011243386243386243,
+                "height": 0.14522292993630573
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "your",
+            "bounding_box": {
+                "topLeftX": 0.02513227513227513,
+                "topLeftY": 0.5261146496815287,
+                "width": 0.011243386243386243,
+                "height": 0.05605095541401274
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "before",
+            "bounding_box": {
+                "topLeftX": 0.04298941798941799,
+                "topLeftY": 0.4573248407643312,
+                "width": 0.011243386243386243,
+                "height": 0.0751592356687898
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "is",
+            "bounding_box": {
+                "topLeftX": 0.02513227513227513,
+                "topLeftY": 0.5910828025477707,
+                "width": 0.011243386243386243,
+                "height": 0.02038216560509554
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "check",
+            "bounding_box": {
+                "topLeftX": 0.04298941798941799,
+                "topLeftY": 0.5426751592356688,
+                "width": 0.011243386243386243,
+                "height": 0.06496815286624204
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "source:http",
+            "bounding_box": {
+                "topLeftX": 0.18452380952380953,
+                "topLeftY": 0.9477707006369427,
+                "width": 0.10912698412698413,
+                "height": 0.033121019108280254
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "no.",
+            "bounding_box": {
+                "topLeftX": 0.35119047619047616,
+                "topLeftY": 0.11337579617834395,
+                "width": 0.017857142857142856,
+                "height": 0.02038216560509554
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "company",
+            "bounding_box": {
+                "topLeftX": 0.6183862433862434,
+                "topLeftY": 0.03694267515923567,
+                "width": 0.08531746031746032,
+                "height": 0.030573248407643312
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "discount",
+            "bounding_box": {
+                "topLeftX": 0.6448412698412699,
+                "topLeftY": 0.11337579617834395,
+                "width": 0.05092592592592592,
+                "height": 0.02038216560509554
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": ".00",
+            "bounding_box": {
+                "topLeftX": 0.6951058201058201,
+                "topLeftY": 0.1859872611464968,
+                "width": 0.03505291005291005,
+                "height": 0.03184713375796178
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "10",
+            "bounding_box": {
+                "topLeftX": 0.906084656084656,
+                "topLeftY": 0.1859872611464968,
+                "width": 0.022486772486772486,
+                "height": 0.03184713375796178
+            },
+            "attention_score": 0.3333333333333333
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "amount",
+            "bounding_box": {
+                "topLeftX": 0.4947089947089947,
+                "topLeftY": 0.11210191082802548,
+                "width": 0.04563492063492063,
+                "height": 0.02038216560509554
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "pillsbury",
+            "bounding_box": {
+                "topLeftX": 0.5251322751322751,
+                "topLeftY": 0.03694267515923567,
+                "width": 0.08267195767195767,
+                "height": 0.02929936305732484
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "148.10",
+            "bounding_box": {
+                "topLeftX": 0.49537037037037035,
+                "topLeftY": 0.14522292993630573,
+                "width": 0.07539682539682539,
+                "height": 0.030573248407643312
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "148.10",
+            "bounding_box": {
+                "topLeftX": 0.49603174603174605,
+                "topLeftY": 0.1859872611464968,
+                "width": 0.07605820105820106,
+                "height": 0.033121019108280254
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "ucsf",
+            "bounding_box": {
+                "topLeftX": 0.5753968253968254,
+                "topLeftY": 0.9490445859872612,
+                "width": 0.04497354497354497,
+                "height": 0.030573248407643312
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "edu/",
+            "bounding_box": {
+                "topLeftX": 0.623015873015873,
+                "topLeftY": 0.9490445859872612,
+                "width": 0.041005291005291,
+                "height": 0.030573248407643312
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "uments",
+            "bounding_box": {
+                "topLeftX": 0.4973544973544973,
+                "topLeftY": 0.9490445859872612,
+                "width": 0.07341269841269842,
+                "height": 0.03184713375796178
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "-",
+            "bounding_box": {
+                "topLeftX": 0.4742063492063492,
+                "topLeftY": 0.03694267515923567,
+                "width": 0.00992063492063492,
+                "height": 0.02929936305732484
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "the",
+            "bounding_box": {
+                "topLeftX": 0.48677248677248675,
+                "topLeftY": 0.03694267515923567,
+                "width": 0.03042328042328042,
+                "height": 0.02929936305732484
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "gross",
+            "bounding_box": {
+                "topLeftX": 0.458994708994709,
+                "topLeftY": 0.11337579617834395,
+                "width": 0.03373015873015873,
+                "height": 0.02038216560509554
+            },
+            "attention_score": 0.5
+        }
+    ]
+}
