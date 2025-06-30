@@ -1,0 +1,39 @@
+{
+    "image_number": 40,
+    "user_answer": "1985",
+    "correct_answer": "december 16, 1985",
+    "last_fixation_attention": [],
+    "pre_typing_attention": [
+        {
+            "word": "key",
+            "bounding_box": {
+                "topLeftX": 0.059673659673659674,
+                "topLeftY": 0.11150442477876106,
+                "width": 0.02564102564102564,
+                "height": 0.019469026548672566
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "1985",
+            "bounding_box": {
+                "topLeftX": 0.068997668997669,
+                "topLeftY": 0.06135693215339233,
+                "width": 0.08391608391608392,
+                "height": 0.04070796460176991
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": ":",
+            "bounding_box": {
+                "topLeftX": 0.12913752913752913,
+                "topLeftY": 0.15575221238938053,
+                "width": 0.002797202797202797,
+                "height": 0.014749262536873156
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": []
+}

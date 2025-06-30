@@ -1,0 +1,241 @@
+{
+    "image_number": 163,
+    "user_answer": "12/20/71",
+    "correct_answer": "12/20/71",
+    "last_fixation_attention": [
+        {
+            "word": "mx",
+            "bounding_box": {
+                "topLeftX": 0.47418244406196214,
+                "topLeftY": 0.8268551236749117,
+                "width": 0.03614457831325301,
+                "height": 0.03180212014134275
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "living",
+            "bounding_box": {
+                "topLeftX": 0.36058519793459554,
+                "topLeftY": 0.21790341578327443,
+                "width": 0.08261617900172118,
+                "height": 0.0353356890459364
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "gratefully",
+            "bounding_box": {
+                "topLeftX": 0.27710843373493976,
+                "topLeftY": 0.26148409893992935,
+                "width": 0.13080895008605853,
+                "height": 0.05889281507656066
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "blood",
+            "bounding_box": {
+                "topLeftX": 0.4406196213425129,
+                "topLeftY": 0.3380447585394582,
+                "width": 0.08519793459552495,
+                "height": 0.03769140164899882
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "r",
+            "bounding_box": {
+                "topLeftX": 0.4044750430292599,
+                "topLeftY": 0.3380447585394582,
+                "width": 0.01549053356282272,
+                "height": 0.03769140164899882
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "acknowledges",
+            "bounding_box": {
+                "topLeftX": 0.42168674698795183,
+                "topLeftY": 0.26383981154299174,
+                "width": 0.16523235800344235,
+                "height": 0.05889281507656066
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "memorial",
+            "bounding_box": {
+                "topLeftX": 0.5456110154905336,
+                "topLeftY": 0.336866902237927,
+                "width": 0.13941480206540446,
+                "height": 0.03769140164899882
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "your",
+            "bounding_box": {
+                "topLeftX": 0.5946643717728055,
+                "topLeftY": 0.26501766784452296,
+                "width": 0.07056798623063683,
+                "height": 0.05771495877502945
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "gift",
+            "bounding_box": {
+                "topLeftX": 0.6721170395869192,
+                "topLeftY": 0.26383981154299174,
+                "width": 0.05163511187607573,
+                "height": 0.05889281507656066
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "fund",
+            "bounding_box": {
+                "topLeftX": 0.7048192771084337,
+                "topLeftY": 0.3380447585394582,
+                "width": 0.06712564543889846,
+                "height": 0.0353356890459364
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "6211-4835-085-12",
+            "bounding_box": {
+                "topLeftX": 0.6523235800344234,
+                "topLeftY": 0.4994110718492344,
+                "width": 0.27969018932874357,
+                "height": 0.038869257950530034
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "12/20/71",
+            "bounding_box": {
+                "topLeftX": 0.7925989672977625,
+                "topLeftY": 0.2591283863368669,
+                "width": 0.13855421686746988,
+                "height": 0.03769140164899882
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "xxxx>",
+            "bounding_box": {
+                "topLeftX": 0.9423407917383821,
+                "topLeftY": 0.13427561837455831,
+                "width": 0.01721170395869191,
+                "height": 0.1248527679623086
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "altavista",
+            "bounding_box": {
+                "topLeftX": 0.3709122203098107,
+                "topLeftY": 0.7856301531213192,
+                "width": 0.1549053356282272,
+                "height": 0.03297997644287397
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "a",
+            "bounding_box": {
+                "topLeftX": 0.5499139414802066,
+                "topLeftY": 0.8845700824499411,
+                "width": 0.011187607573149742,
+                "height": 0.02591283863368669
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "mx",
+            "bounding_box": {
+                "topLeftX": 0.47418244406196214,
+                "topLeftY": 0.8268551236749117,
+                "width": 0.03614457831325301,
+                "height": 0.03180212014134275
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "gameros",
+            "bounding_box": {
+                "topLeftX": 0.49311531841652323,
+                "topLeftY": 0.702002355712603,
+                "width": 0.11876075731497418,
+                "height": 0.0353356890459364
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "constitute",
+            "bounding_box": {
+                "topLeftX": 0.4457831325301205,
+                "topLeftY": 0.8845700824499411,
+                "width": 0.09896729776247848,
+                "height": 0.02591283863368669
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "a",
+            "bounding_box": {
+                "topLeftX": 0.5499139414802066,
+                "topLeftY": 0.8845700824499411,
+                "width": 0.011187607573149742,
+                "height": 0.02591283863368669
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "deduction",
+            "bounding_box": {
+                "topLeftX": 0.5671256454388984,
+                "topLeftY": 0.8845700824499411,
+                "width": 0.09208261617900172,
+                "height": 0.02591283863368669
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "your",
+            "bounding_box": {
+                "topLeftX": 0.5946643717728055,
+                "topLeftY": 0.26501766784452296,
+                "width": 0.07056798623063683,
+                "height": 0.05771495877502945
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "gift",
+            "bounding_box": {
+                "topLeftX": 0.6721170395869192,
+                "topLeftY": 0.26383981154299174,
+                "width": 0.05163511187607573,
+                "height": 0.05889281507656066
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "fund",
+            "bounding_box": {
+                "topLeftX": 0.7048192771084337,
+                "topLeftY": 0.3380447585394582,
+                "width": 0.06712564543889846,
+                "height": 0.0353356890459364
+            },
+            "attention_score": 1.0
+        }
+    ]
+}

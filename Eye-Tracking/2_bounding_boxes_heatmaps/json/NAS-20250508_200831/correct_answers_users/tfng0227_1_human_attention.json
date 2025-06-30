@@ -1,0 +1,101 @@
+{
+    "image_number": 94,
+    "user_answer": "126",
+    "correct_answer": "126",
+    "last_fixation_attention": [
+        {
+            "word": "clinic",
+            "bounding_box": {
+                "topLeftX": 0.7085201793721974,
+                "topLeftY": 0.12054329371816638,
+                "width": 0.06670403587443946,
+                "height": 0.023769100169779286
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "wohl",
+            "bounding_box": {
+                "topLeftX": 0.6507847533632287,
+                "topLeftY": 0.12054329371816638,
+                "width": 0.04652466367713005,
+                "height": 0.023769100169779286
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "clinic",
+            "bounding_box": {
+                "topLeftX": 0.7085201793721974,
+                "topLeftY": 0.12054329371816638,
+                "width": 0.06670403587443946,
+                "height": 0.023769100169779286
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "room",
+            "bounding_box": {
+                "topLeftX": 0.6860986547085202,
+                "topLeftY": 0.15195246179966043,
+                "width": 0.043721973094170405,
+                "height": 0.02461799660441426
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "126",
+            "bounding_box": {
+                "topLeftX": 0.7443946188340808,
+                "topLeftY": 0.15110356536502548,
+                "width": 0.030269058295964126,
+                "height": 0.02461799660441426
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "https://www.industrydocuments.ucsf.edu/docs/ting0227",
+            "bounding_box": {
+                "topLeftX": 0.3054932735426009,
+                "topLeftY": 0.966044142614601,
+                "width": 0.45683856502242154,
+                "height": 0.02631578947368421
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "wohl",
+            "bounding_box": {
+                "topLeftX": 0.6507847533632287,
+                "topLeftY": 0.12054329371816638,
+                "width": 0.04652466367713005,
+                "height": 0.023769100169779286
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "clinic",
+            "bounding_box": {
+                "topLeftX": 0.7085201793721974,
+                "topLeftY": 0.12054329371816638,
+                "width": 0.06670403587443946,
+                "height": 0.023769100169779286
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "room",
+            "bounding_box": {
+                "topLeftX": 0.6860986547085202,
+                "topLeftY": 0.15195246179966043,
+                "width": 0.043721973094170405,
+                "height": 0.02461799660441426
+            },
+            "attention_score": 1.0
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "image_number": 53,
+    "user_answer": "la guardia airport",
+    "correct_answer": "la guardia airport",
+    "last_fixation_attention": [
+        {
+            "word": "guardia",
+            "bounding_box": {
+                "topLeftX": 0.5213864306784661,
+                "topLeftY": 0.08089887640449438,
+                "width": 0.10693215339233038,
+                "height": 0.0651685393258427
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "parking",
+            "bounding_box": {
+                "topLeftX": 0.32448377581120946,
+                "topLeftY": 0.16853932584269662,
+                "width": 0.07669616519174041,
+                "height": 0.0449438202247191
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "rate",
+            "bounding_box": {
+                "topLeftX": 0.3775811209439528,
+                "topLeftY": 0.08314606741573034,
+                "width": 0.059734513274336286,
+                "height": 0.06292134831460675
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "airport",
+            "bounding_box": {
+                "topLeftX": 0.6438053097345132,
+                "topLeftY": 0.08089887640449438,
+                "width": 0.10103244837758112,
+                "height": 0.0651685393258427
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "la",
+            "bounding_box": {
+                "topLeftX": 0.48008849557522126,
+                "topLeftY": 0.08314606741573034,
+                "width": 0.028761061946902654,
+                "height": 0.06292134831460675
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "new",
+            "bounding_box": {
+                "topLeftX": 0.4963126843657817,
+                "topLeftY": 0.16853932584269662,
+                "width": 0.03392330383480826,
+                "height": 0.0449438202247191
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "sales",
+            "bounding_box": {
+                "topLeftX": 0.504424778761062,
+                "topLeftY": 0.2202247191011236,
+                "width": 0.05383480825958702,
+                "height": 0.04269662921348315
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "york",
+            "bounding_box": {
+                "topLeftX": 0.5420353982300885,
+                "topLeftY": 0.1662921348314607,
+                "width": 0.046460176991150445,
+                "height": 0.04719101123595506
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "guardia",
+            "bounding_box": {
+                "topLeftX": 0.5213864306784661,
+                "topLeftY": 0.08089887640449438,
+                "width": 0.10693215339233038,
+                "height": 0.0651685393258427
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "airport",
+            "bounding_box": {
+                "topLeftX": 0.6438053097345132,
+                "topLeftY": 0.08089887640449438,
+                "width": 0.10103244837758112,
+                "height": 0.0651685393258427
+            },
+            "attention_score": 1.0
+        }
+    ]
+}

@@ -1,0 +1,241 @@
+{
+    "image_number": 100,
+    "user_answer": "march 21, 1961",
+    "correct_answer": "march 21, 1961",
+    "last_fixation_attention": [
+        {
+            "word": "1st",
+            "bounding_box": {
+                "topLeftX": 0.8612359550561798,
+                "topLeftY": 0.06536388140161725,
+                "width": 0.02359550561797753,
+                "height": 0.0215633423180593
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "e",
+            "bounding_box": {
+                "topLeftX": 0.7477528089887641,
+                "topLeftY": 0.11994609164420485,
+                "width": 0.012359550561797753,
+                "height": 0.02223719676549865
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "copy",
+            "bounding_box": {
+                "topLeftX": 0.8870786516853932,
+                "topLeftY": 0.06805929919137467,
+                "width": 0.034269662921348316,
+                "height": 0.02021563342318059
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "leave",
+            "bounding_box": {
+                "topLeftX": 0.798876404494382,
+                "topLeftY": 0.15161725067385445,
+                "width": 0.05393258426966292,
+                "height": 0.018867924528301886
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "1st",
+            "bounding_box": {
+                "topLeftX": 0.8612359550561798,
+                "topLeftY": 0.06536388140161725,
+                "width": 0.02359550561797753,
+                "height": 0.0215633423180593
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "university",
+            "bounding_box": {
+                "topLeftX": 0.505056179775281,
+                "topLeftY": 0.08288409703504043,
+                "width": 0.09213483146067415,
+                "height": 0.018867924528301886
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "inter-departmental",
+            "bounding_box": {
+                "topLeftX": 0.34831460674157305,
+                "topLeftY": 0.10512129380053908,
+                "width": 0.17921348314606741,
+                "height": 0.018194070080862535
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "washington",
+            "bounding_box": {
+                "topLeftX": 0.3960674157303371,
+                "topLeftY": 0.08355795148247978,
+                "width": 0.09662921348314607,
+                "height": 0.018194070080862535
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "e",
+            "bounding_box": {
+                "topLeftX": 0.5337078651685393,
+                "topLeftY": 0.10579514824797843,
+                "width": 0.010112359550561797,
+                "height": 0.01752021563342318
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "march",
+            "bounding_box": {
+                "topLeftX": 0.47752808988764045,
+                "topLeftY": 0.16172506738544473,
+                "width": 0.056179775280898875,
+                "height": 0.020889487870619946
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "pa73wbc44",
+            "bounding_box": {
+                "topLeftX": 0.47808988764044946,
+                "topLeftY": 0.19811320754716982,
+                "width": 0.10280898876404494,
+                "height": 0.020889487870619946
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "21,",
+            "bounding_box": {
+                "topLeftX": 0.547752808988764,
+                "topLeftY": 0.1610512129380054,
+                "width": 0.03314606741573034,
+                "height": 0.0215633423180593
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "requisition",
+            "bounding_box": {
+                "topLeftX": 0.549438202247191,
+                "topLeftY": 0.10579514824797843,
+                "width": 0.09662921348314607,
+                "height": 0.018867924528301886
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "blank",
+            "bounding_box": {
+                "topLeftX": 0.8573033707865169,
+                "topLeftY": 0.1509433962264151,
+                "width": 0.052808988764044947,
+                "height": 0.02021563342318059
+            },
+            "attention_score": 0.5
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "university",
+            "bounding_box": {
+                "topLeftX": 0.505056179775281,
+                "topLeftY": 0.08288409703504043,
+                "width": 0.09213483146067415,
+                "height": 0.018867924528301886
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "e",
+            "bounding_box": {
+                "topLeftX": 0.5337078651685393,
+                "topLeftY": 0.10579514824797843,
+                "width": 0.010112359550561797,
+                "height": 0.01752021563342318
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "21,",
+            "bounding_box": {
+                "topLeftX": 0.547752808988764,
+                "topLeftY": 0.1610512129380054,
+                "width": 0.03314606741573034,
+                "height": 0.0215633423180593
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "1961",
+            "bounding_box": {
+                "topLeftX": 0.5926966292134831,
+                "topLeftY": 0.1610512129380054,
+                "width": 0.04157303370786517,
+                "height": 0.020889487870619946
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "requisition",
+            "bounding_box": {
+                "topLeftX": 0.549438202247191,
+                "topLeftY": 0.10579514824797843,
+                "width": 0.09662921348314607,
+                "height": 0.018867924528301886
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "march",
+            "bounding_box": {
+                "topLeftX": 0.47752808988764045,
+                "topLeftY": 0.16172506738544473,
+                "width": 0.056179775280898875,
+                "height": 0.020889487870619946
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "pa73wbc44",
+            "bounding_box": {
+                "topLeftX": 0.47808988764044946,
+                "topLeftY": 0.19811320754716982,
+                "width": 0.10280898876404494,
+                "height": 0.020889487870619946
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "account",
+            "bounding_box": {
+                "topLeftX": 0.6904494382022472,
+                "topLeftY": 0.18800539083557952,
+                "width": 0.056741573033707866,
+                "height": 0.02021563342318059
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "charged",
+            "bounding_box": {
+                "topLeftX": 0.6887640449438203,
+                "topLeftY": 0.2068733153638814,
+                "width": 0.052808988764044947,
+                "height": 0.02021563342318059
+            },
+            "attention_score": 0.5
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "image_number": 68,
+    "user_answer": "medical biophysics",
+    "correct_answer": "medical biophysics",
+    "last_fixation_attention": [
+        {
+            "word": "medical",
+            "bounding_box": {
+                "topLeftX": 0.2196601941747573,
+                "topLeftY": 0.17096336499321574,
+                "width": 0.16140776699029127,
+                "height": 0.07598371777476255
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "biophysics",
+            "bounding_box": {
+                "topLeftX": 0.3919902912621359,
+                "topLeftY": 0.1723202170963365,
+                "width": 0.216626213592233,
+                "height": 0.07598371777476255
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "programme",
+            "bounding_box": {
+                "topLeftX": 0.21905339805825244,
+                "topLeftY": 0.30257801899592945,
+                "width": 0.08737864077669903,
+                "height": 0.028493894165535955
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "medical",
+            "bounding_box": {
+                "topLeftX": 0.2196601941747573,
+                "topLeftY": 0.17096336499321574,
+                "width": 0.16140776699029127,
+                "height": 0.07598371777476255
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "for",
+            "bounding_box": {
+                "topLeftX": 0.3106796116504854,
+                "topLeftY": 0.30257801899592945,
+                "width": 0.02669902912621359,
+                "height": 0.028493894165535955
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "medical",
+            "bounding_box": {
+                "topLeftX": 0.3422330097087379,
+                "topLeftY": 0.30257801899592945,
+                "width": 0.060072815533980584,
+                "height": 0.029850746268656716
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "medical",
+            "bounding_box": {
+                "topLeftX": 0.2196601941747573,
+                "topLeftY": 0.17096336499321574,
+                "width": 0.16140776699029127,
+                "height": 0.07598371777476255
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "of",
+            "bounding_box": {
+                "topLeftX": 0.49029126213592233,
+                "topLeftY": 0.30257801899592945,
+                "width": 0.018810679611650484,
+                "height": 0.029850746268656716
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "biophysics",
+            "bounding_box": {
+                "topLeftX": 0.3919902912621359,
+                "topLeftY": 0.1723202170963365,
+                "width": 0.216626213592233,
+                "height": 0.07598371777476255
+            },
+            "attention_score": 1.0
+        }
+    ]
+}

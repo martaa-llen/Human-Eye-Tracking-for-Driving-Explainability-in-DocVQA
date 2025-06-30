@@ -1,0 +1,370 @@
+{
+    "image_number": 40,
+    "user_answer": "decembre 16, 1985",
+    "correct_answer": "december 16, 1985",
+    "last_fixation_attention": [
+        {
+            "word": "december",
+            "bounding_box": {
+                "topLeftX": 0.8596736596736597,
+                "topLeftY": 0.13333333333333333,
+                "width": 0.06433566433566433,
+                "height": 0.02182890855457227
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "local",
+            "bounding_box": {
+                "topLeftX": 0.2941724941724942,
+                "topLeftY": 0.13215339233038348,
+                "width": 0.043356643356643354,
+                "height": 0.020058997050147492
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "century",
+            "bounding_box": {
+                "topLeftX": 0.29557109557109557,
+                "topLeftY": 0.08908554572271386,
+                "width": 0.055944055944055944,
+                "height": 0.019469026548672566
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "family",
+            "bounding_box": {
+                "topLeftX": 0.35664335664335667,
+                "topLeftY": 0.08849557522123894,
+                "width": 0.04382284382284382,
+                "height": 0.020058997050147492
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "activity",
+            "bounding_box": {
+                "topLeftX": 0.3412587412587413,
+                "topLeftY": 0.13215339233038348,
+                "width": 0.06340326340326341,
+                "height": 0.019469026548672566
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "(22",
+            "bounding_box": {
+                "topLeftX": 0.3351981351981352,
+                "topLeftY": 0.17227138643067846,
+                "width": 0.024242424242424242,
+                "height": 0.020058997050147492
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "divs.",
+            "bounding_box": {
+                "topLeftX": 0.3641025641025641,
+                "topLeftY": 0.17227138643067846,
+                "width": 0.03496503496503497,
+                "height": 0.020058997050147492
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "17%",
+            "bounding_box": {
+                "topLeftX": 0.4111888111888112,
+                "topLeftY": 0.1728613569321534,
+                "width": 0.025174825174825177,
+                "height": 0.020058997050147492
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "/",
+            "bounding_box": {
+                "topLeftX": 0.4018648018648019,
+                "topLeftY": 0.1728613569321534,
+                "width": 0.006060606060606061,
+                "height": 0.019469026548672566
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "6",
+            "bounding_box": {
+                "topLeftX": 0.6484848484848484,
+                "topLeftY": 0.27315634218289087,
+                "width": 0.006060606060606061,
+                "height": 0.035398230088495575
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": ")",
+            "bounding_box": {
+                "topLeftX": 0.5104895104895105,
+                "topLeftY": 0.17227138643067846,
+                "width": 0.005594405594405594,
+                "height": 0.02064896755162242
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "of",
+            "bounding_box": {
+                "topLeftX": 0.5025641025641026,
+                "topLeftY": 0.21238938053097345,
+                "width": 0.020512820512820513,
+                "height": 0.01710914454277286
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "june",
+            "bounding_box": {
+                "topLeftX": 0.5906759906759906,
+                "topLeftY": 0.2424778761061947,
+                "width": 0.030303030303030304,
+                "height": 0.015339233038348082
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "may",
+            "bounding_box": {
+                "topLeftX": 0.5407925407925408,
+                "topLeftY": 0.24365781710914455,
+                "width": 0.02191142191142191,
+                "height": 0.014749262536873156
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "media",
+            "bounding_box": {
+                "topLeftX": 0.6163170163170163,
+                "topLeftY": 0.16755162241887905,
+                "width": 0.02937062937062937,
+                "height": 0.015339233038348082
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "monday-",
+            "bounding_box": {
+                "topLeftX": 0.524941724941725,
+                "topLeftY": 0.20943952802359883,
+                "width": 0.0703962703962704,
+                "height": 0.020058997050147492
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "rjreynolds",
+            "bounding_box": {
+                "topLeftX": 0.600932400932401,
+                "topLeftY": 0.14690265486725665,
+                "width": 0.04568764568764569,
+                "height": 0.015339233038348082
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "rjr",
+            "bounding_box": {
+                "topLeftX": 0.6051282051282051,
+                "topLeftY": 0.07964601769911504,
+                "width": 0.10256410256410256,
+                "height": 0.0607669616519174
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "july",
+            "bounding_box": {
+                "topLeftX": 0.6461538461538462,
+                "topLeftY": 0.2430678466076696,
+                "width": 0.028904428904428906,
+                "height": 0.01592920353982301
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "department",
+            "bounding_box": {
+                "topLeftX": 0.6484848484848484,
+                "topLeftY": 0.16932153392330385,
+                "width": 0.05687645687645688,
+                "height": 0.014749262536873156
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "tobacco",
+            "bounding_box": {
+                "topLeftX": 0.6484848484848484,
+                "topLeftY": 0.1486725663716814,
+                "width": 0.031235431235431235,
+                "height": 0.01415929203539823
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "1",
+            "bounding_box": {
+                "topLeftX": 0.6363636363636364,
+                "topLeftY": 0.27315634218289087,
+                "width": 0.009324009324009324,
+                "height": 0.0359882005899705
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "20",
+            "bounding_box": {
+                "topLeftX": 0.5496503496503496,
+                "topLeftY": 0.27256637168141595,
+                "width": 0.008391608391608392,
+                "height": 0.03716814159292035
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "27",
+            "bounding_box": {
+                "topLeftX": 0.5608391608391609,
+                "topLeftY": 0.27256637168141595,
+                "width": 0.012587412587412588,
+                "height": 0.03716814159292035
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "17",
+            "bounding_box": {
+                "topLeftX": 0.6018648018648018,
+                "topLeftY": 0.27315634218289087,
+                "width": 0.007459207459207459,
+                "height": 0.03657817109144543
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "24",
+            "bounding_box": {
+                "topLeftX": 0.6121212121212121,
+                "topLeftY": 0.27315634218289087,
+                "width": 0.013986013986013986,
+                "height": 0.03657817109144543
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "3",
+            "bounding_box": {
+                "topLeftX": 0.5822843822843823,
+                "topLeftY": 0.27315634218289087,
+                "width": 0.009324009324009324,
+                "height": 0.03657817109144543
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "0",
+            "bounding_box": {
+                "topLeftX": 0.5944055944055944,
+                "topLeftY": 0.27315634218289087,
+                "width": 0.004662004662004662,
+                "height": 0.03657817109144543
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "revised:",
+            "bounding_box": {
+                "topLeftX": 0.786013986013986,
+                "topLeftY": 0.15634218289085547,
+                "width": 0.05034965034965035,
+                "height": 0.01710914454277286
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "exhibit",
+            "bounding_box": {
+                "topLeftX": 0.7916083916083916,
+                "topLeftY": 0.1775811209439528,
+                "width": 0.04149184149184149,
+                "height": 0.01592920353982301
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "date:",
+            "bounding_box": {
+                "topLeftX": 0.806060606060606,
+                "topLeftY": 0.1392330383480826,
+                "width": 0.03076923076923077,
+                "height": 0.014749262536873156
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "4",
+            "bounding_box": {
+                "topLeftX": 0.8610722610722611,
+                "topLeftY": 0.1935103244837758,
+                "width": 0.011188811188811189,
+                "height": 0.020058997050147492
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "16.",
+            "bounding_box": {
+                "topLeftX": 0.9300699300699301,
+                "topLeftY": 0.13274336283185842,
+                "width": 0.02564102564102564,
+                "height": 0.02064896755162242
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "december",
+            "bounding_box": {
+                "topLeftX": 0.8596736596736597,
+                "topLeftY": 0.13333333333333333,
+                "width": 0.06433566433566433,
+                "height": 0.02182890855457227
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "of",
+            "bounding_box": {
+                "topLeftX": 0.875058275058275,
+                "topLeftY": 0.1929203539823009,
+                "width": 0.020046620046620046,
+                "height": 0.019469026548672566
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "8",
+            "bounding_box": {
+                "topLeftX": 0.8983682983682983,
+                "topLeftY": 0.1929203539823009,
+                "width": 0.007925407925407926,
+                "height": 0.01887905604719764
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": []
+}

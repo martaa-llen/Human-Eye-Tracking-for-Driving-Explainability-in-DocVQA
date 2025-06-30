@@ -1,0 +1,321 @@
+{
+    "image_number": 53,
+    "user_answer": "Guardia Aiport",
+    "correct_answer": "la guardia airport",
+    "last_fixation_attention": [
+        {
+            "word": "guardia",
+            "bounding_box": {
+                "topLeftX": 0.5213864306784661,
+                "topLeftY": 0.08089887640449438,
+                "width": 0.10693215339233038,
+                "height": 0.0651685393258427
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "...........",
+            "bounding_box": {
+                "topLeftX": 0.2721238938053097,
+                "topLeftY": 0.45393258426966293,
+                "width": 0.056784660766961655,
+                "height": 0.03146067415730337
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "..",
+            "bounding_box": {
+                "topLeftX": 0.32079646017699115,
+                "topLeftY": 0.3887640449438202,
+                "width": 0.008849557522123894,
+                "height": 0.038202247191011236
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "1.89",
+            "bounding_box": {
+                "topLeftX": 0.3547197640117994,
+                "topLeftY": 0.4247191011235955,
+                "width": 0.03392330383480826,
+                "height": 0.051685393258426963
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "2.83",
+            "bounding_box": {
+                "topLeftX": 0.35398230088495575,
+                "topLeftY": 0.4898876404494382,
+                "width": 0.035398230088495575,
+                "height": 0.051685393258426963
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "............",
+            "bounding_box": {
+                "topLeftX": 0.25442477876106195,
+                "topLeftY": 0.5617977528089888,
+                "width": 0.07743362831858407,
+                "height": 0.051685393258426963
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": ".............",
+            "bounding_box": {
+                "topLeftX": 0.2551622418879056,
+                "topLeftY": 0.501123595505618,
+                "width": 0.07669616519174041,
+                "height": 0.051685393258426963
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "each",
+            "bounding_box": {
+                "topLeftX": 0.31268436578171094,
+                "topLeftY": 0.6719101123595506,
+                "width": 0.03466076696165192,
+                "height": 0.056179775280898875
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "for",
+            "bounding_box": {
+                "topLeftX": 0.2831858407079646,
+                "topLeftY": 0.6741573033707865,
+                "width": 0.02654867256637168,
+                "height": 0.05393258426966292
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "6",
+            "bounding_box": {
+                "topLeftX": 0.35398230088495575,
+                "topLeftY": 0.6719101123595506,
+                "width": 0.011799410029498525,
+                "height": 0.056179775280898875
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "$4.00.",
+            "bounding_box": {
+                "topLeftX": 0.3163716814159292,
+                "topLeftY": 0.7348314606741573,
+                "width": 0.05088495575221239,
+                "height": 0.058426966292134834
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "3.77",
+            "bounding_box": {
+                "topLeftX": 0.3547197640117994,
+                "topLeftY": 0.5528089887640449,
+                "width": 0.035398230088495575,
+                "height": 0.05393258426966292
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "hrs.",
+            "bounding_box": {
+                "topLeftX": 0.3702064896755162,
+                "topLeftY": 0.6719101123595506,
+                "width": 0.032448377581120944,
+                "height": 0.056179775280898875
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "apcoa",
+            "bounding_box": {
+                "topLeftX": 0.8635693215339233,
+                "topLeftY": 0.2966292134831461,
+                "width": 0.032448377581120944,
+                "height": 0.42696629213483145
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "parking",
+            "bounding_box": {
+                "topLeftX": 0.25958702064896755,
+                "topLeftY": 0.08314606741573034,
+                "width": 0.10324483775811209,
+                "height": 0.060674157303370786
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "parking",
+            "bounding_box": {
+                "topLeftX": 0.32448377581120946,
+                "topLeftY": 0.16853932584269662,
+                "width": 0.07669616519174041,
+                "height": 0.0449438202247191
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "la",
+            "bounding_box": {
+                "topLeftX": 0.48008849557522126,
+                "topLeftY": 0.08314606741573034,
+                "width": 0.028761061946902654,
+                "height": 0.06292134831460675
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "new",
+            "bounding_box": {
+                "topLeftX": 0.4963126843657817,
+                "topLeftY": 0.16853932584269662,
+                "width": 0.03392330383480826,
+                "height": 0.0449438202247191
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "sales",
+            "bounding_box": {
+                "topLeftX": 0.504424778761062,
+                "topLeftY": 0.2202247191011236,
+                "width": 0.05383480825958702,
+                "height": 0.04269662921348315
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "york",
+            "bounding_box": {
+                "topLeftX": 0.5420353982300885,
+                "topLeftY": 0.1662921348314607,
+                "width": 0.046460176991150445,
+                "height": 0.04719101123595506
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "tax",
+            "bounding_box": {
+                "topLeftX": 0.5656342182890856,
+                "topLeftY": 0.2202247191011236,
+                "width": 0.030973451327433628,
+                "height": 0.0449438202247191
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "guardia",
+            "bounding_box": {
+                "topLeftX": 0.5213864306784661,
+                "topLeftY": 0.08089887640449438,
+                "width": 0.10693215339233038,
+                "height": 0.0651685393258427
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "guardia",
+            "bounding_box": {
+                "topLeftX": 0.5213864306784661,
+                "topLeftY": 0.08089887640449438,
+                "width": 0.10693215339233038,
+                "height": 0.0651685393258427
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "la",
+            "bounding_box": {
+                "topLeftX": 0.48008849557522126,
+                "topLeftY": 0.08314606741573034,
+                "width": 0.028761061946902654,
+                "height": 0.06292134831460675
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "6%",
+            "bounding_box": {
+                "topLeftX": 0.46976401179941,
+                "topLeftY": 0.16853932584269662,
+                "width": 0.02359882005899705,
+                "height": 0.04719101123595506
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "new",
+            "bounding_box": {
+                "topLeftX": 0.4963126843657817,
+                "topLeftY": 0.16853932584269662,
+                "width": 0.03392330383480826,
+                "height": 0.0449438202247191
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "sales",
+            "bounding_box": {
+                "topLeftX": 0.504424778761062,
+                "topLeftY": 0.2202247191011236,
+                "width": 0.05383480825958702,
+                "height": 0.04269662921348315
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "$",
+            "bounding_box": {
+                "topLeftX": 0.5435103244837758,
+                "topLeftY": 0.298876404494382,
+                "width": 0.011799410029498525,
+                "height": 0.051685393258426963
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "york",
+            "bounding_box": {
+                "topLeftX": 0.5420353982300885,
+                "topLeftY": 0.1662921348314607,
+                "width": 0.046460176991150445,
+                "height": 0.04719101123595506
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "tax",
+            "bounding_box": {
+                "topLeftX": 0.5656342182890856,
+                "topLeftY": 0.2202247191011236,
+                "width": 0.030973451327433628,
+                "height": 0.0449438202247191
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "city",
+            "bounding_box": {
+                "topLeftX": 0.5973451327433629,
+                "topLeftY": 0.1662921348314607,
+                "width": 0.03982300884955752,
+                "height": 0.04719101123595506
+            },
+            "attention_score": 0.5
+        }
+    ]
+}

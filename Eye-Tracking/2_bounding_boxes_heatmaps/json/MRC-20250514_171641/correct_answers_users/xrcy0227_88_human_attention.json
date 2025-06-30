@@ -1,0 +1,381 @@
+{
+    "image_number": 61,
+    "user_answer": "universal credit card charge",
+    "correct_answer": "universal credit card charge form",
+    "last_fixation_attention": [
+        {
+            "word": "charge",
+            "bounding_box": {
+                "topLeftX": 0.593607305936073,
+                "topLeftY": 0.03868194842406877,
+                "width": 0.05870841487279843,
+                "height": 0.0329512893982808
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "card",
+            "bounding_box": {
+                "topLeftX": 0.547945205479452,
+                "topLeftY": 0.03868194842406877,
+                "width": 0.037834311806914545,
+                "height": 0.0329512893982808
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "charge",
+            "bounding_box": {
+                "topLeftX": 0.593607305936073,
+                "topLeftY": 0.03868194842406877,
+                "width": 0.05870841487279843,
+                "height": 0.0329512893982808
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "if",
+            "bounding_box": {
+                "topLeftX": 0.5870841487279843,
+                "topLeftY": 0.12750716332378223,
+                "width": 0.012393998695368558,
+                "height": 0.024355300859598854
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "eastern",
+            "bounding_box": {
+                "topLeftX": 0.3789954337899543,
+                "topLeftY": 0.08166189111747851,
+                "width": 0.11806914546640573,
+                "height": 0.03581661891117478
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "universal",
+            "bounding_box": {
+                "topLeftX": 0.40834964122635353,
+                "topLeftY": 0.03724928366762178,
+                "width": 0.0776255707762557,
+                "height": 0.0329512893982808
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "credit",
+            "bounding_box": {
+                "topLeftX": 0.4918460534898891,
+                "topLeftY": 0.03724928366762178,
+                "width": 0.04957599478147423,
+                "height": 0.034383954154727794
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "007",
+            "bounding_box": {
+                "topLeftX": 0.5414220482713633,
+                "topLeftY": 0.08166189111747851,
+                "width": 0.02609262883235486,
+                "height": 0.03724928366762178
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "ones",
+            "bounding_box": {
+                "topLeftX": 0.5081539465101109,
+                "topLeftY": 0.08166189111747851,
+                "width": 0.029354207436399216,
+                "height": 0.03724928366762178
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "extended",
+            "bounding_box": {
+                "topLeftX": 0.6014350945857795,
+                "topLeftY": 0.12750716332378223,
+                "width": 0.05218525766470972,
+                "height": 0.025787965616045846
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "contractor",
+            "bounding_box": {
+                "topLeftX": 0.5903457273320287,
+                "topLeftY": 0.08739255014326648,
+                "width": 0.07697325505544683,
+                "height": 0.024355300859598854
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "form",
+            "bounding_box": {
+                "topLeftX": 0.6562296151337247,
+                "topLeftY": 0.04011461318051576,
+                "width": 0.03718199608610567,
+                "height": 0.03151862464183381
+            },
+            "attention_score": 0.5
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "credit",
+            "bounding_box": {
+                "topLeftX": 0.4918460534898891,
+                "topLeftY": 0.03724928366762178,
+                "width": 0.04957599478147423,
+                "height": 0.034383954154727794
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "007",
+            "bounding_box": {
+                "topLeftX": 0.5414220482713633,
+                "topLeftY": 0.08166189111747851,
+                "width": 0.02609262883235486,
+                "height": 0.03724928366762178
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "if",
+            "bounding_box": {
+                "topLeftX": 0.5870841487279843,
+                "topLeftY": 0.12750716332378223,
+                "width": 0.012393998695368558,
+                "height": 0.024355300859598854
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "circle",
+            "bounding_box": {
+                "topLeftX": 0.5877364644487932,
+                "topLeftY": 0.15472779369627507,
+                "width": 0.04827136333985649,
+                "height": 0.02148997134670487
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "eastern",
+            "bounding_box": {
+                "topLeftX": 0.3789954337899543,
+                "topLeftY": 0.08166189111747851,
+                "width": 0.11806914546640573,
+                "height": 0.03581661891117478
+            },
+            "attention_score": 0.75
+        },
+        {
+            "word": "30",
+            "bounding_box": {
+                "topLeftX": 0.45662100456621,
+                "topLeftY": 0.167621776504298,
+                "width": 0.025440313111545987,
+                "height": 0.04727793696275072
+            },
+            "attention_score": 0.75
+        },
+        {
+            "word": "jan",
+            "bounding_box": {
+                "topLeftX": 0.4938030006523157,
+                "topLeftY": 0.16905444126074498,
+                "width": 0.03718199608610567,
+                "height": 0.045845272206303724
+            },
+            "attention_score": 0.75
+        },
+        {
+            "word": "universal",
+            "bounding_box": {
+                "topLeftX": 0.40834964122635353,
+                "topLeftY": 0.03724928366762178,
+                "width": 0.0776255707762557,
+                "height": 0.0329512893982808
+            },
+            "attention_score": 0.75
+        },
+        {
+            "word": "ones",
+            "bounding_box": {
+                "topLeftX": 0.5081539465101109,
+                "topLeftY": 0.08166189111747851,
+                "width": 0.029354207436399216,
+                "height": 0.03724928366762178
+            },
+            "attention_score": 0.75
+        },
+        {
+            "word": "74",
+            "bounding_box": {
+                "topLeftX": 0.5466405740378343,
+                "topLeftY": 0.166189111747851,
+                "width": 0.024135681669928244,
+                "height": 0.04871060171919771
+            },
+            "attention_score": 0.75
+        },
+        {
+            "word": "card",
+            "bounding_box": {
+                "topLeftX": 0.547945205479452,
+                "topLeftY": 0.03868194842406877,
+                "width": 0.037834311806914545,
+                "height": 0.0329512893982808
+            },
+            "attention_score": 0.75
+        },
+        {
+            "word": "extended",
+            "bounding_box": {
+                "topLeftX": 0.6014350945857795,
+                "topLeftY": 0.12750716332378223,
+                "width": 0.05218525766470972,
+                "height": 0.025787965616045846
+            },
+            "attention_score": 0.75
+        },
+        {
+            "word": "charge",
+            "bounding_box": {
+                "topLeftX": 0.593607305936073,
+                "topLeftY": 0.03868194842406877,
+                "width": 0.05870841487279843,
+                "height": 0.0329512893982808
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "contractor",
+            "bounding_box": {
+                "topLeftX": 0.5903457273320287,
+                "topLeftY": 0.08739255014326648,
+                "width": 0.07697325505544683,
+                "height": 0.024355300859598854
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "7",
+            "bounding_box": {
+                "topLeftX": 0.3594259621656882,
+                "topLeftY": 0.04297994269340974,
+                "width": 0.0032615786040443573,
+                "height": 0.015759312320916905
+            },
+            "attention_score": 0.25
+        },
+        {
+            "word": "issue",
+            "bounding_box": {
+                "topLeftX": 0.39204174820613175,
+                "topLeftY": 0.22492836676217765,
+                "width": 0.033920417482061316,
+                "height": 0.027220630372492838
+            },
+            "attention_score": 0.25
+        },
+        {
+            "word": "of",
+            "bounding_box": {
+                "topLeftX": 0.6757990867579908,
+                "topLeftY": 0.15329512893982808,
+                "width": 0.014350945857795172,
+                "height": 0.027220630372492838
+            },
+            "attention_score": 0.25
+        },
+        {
+            "word": "no.",
+            "bounding_box": {
+                "topLeftX": 0.6457925636007827,
+                "topLeftY": 0.15472779369627507,
+                "width": 0.0228310502283105,
+                "height": 0.024355300859598854
+            },
+            "attention_score": 0.25
+        },
+        {
+            "word": "form",
+            "bounding_box": {
+                "topLeftX": 0.6562296151337247,
+                "topLeftY": 0.04011461318051576,
+                "width": 0.03718199608610567,
+                "height": 0.03151862464183381
+            },
+            "attention_score": 0.25
+        },
+        {
+            "word": "payment",
+            "bounding_box": {
+                "topLeftX": 0.6568819308545336,
+                "topLeftY": 0.12893982808022922,
+                "width": 0.04827136333985649,
+                "height": 0.024355300859598854
+            },
+            "attention_score": 0.25
+        },
+        {
+            "word": "invoice",
+            "bounding_box": {
+                "topLeftX": 0.6705805609915199,
+                "topLeftY": 0.08739255014326648,
+                "width": 0.046966731898238745,
+                "height": 0.024355300859598854
+            },
+            "attention_score": 0.25
+        },
+        {
+            "word": "3",
+            "bounding_box": {
+                "topLeftX": 0.5857795172863666,
+                "topLeftY": 0.2034383954154728,
+                "width": 0.005218525766470972,
+                "height": 0.034383954154727794
+            },
+            "attention_score": 0.25
+        },
+        {
+            "word": "6",
+            "bounding_box": {
+                "topLeftX": 0.6210045662100456,
+                "topLeftY": 0.21060171919770773,
+                "width": 0.008480104370515329,
+                "height": 0.025787965616045846
+            },
+            "attention_score": 0.25
+        },
+        {
+            "word": "with",
+            "bounding_box": {
+                "topLeftX": 0.5316373124592303,
+                "topLeftY": 0.3223495702005731,
+                "width": 0.0228310502283105,
+                "height": 0.024355300859598854
+            },
+            "attention_score": 0.25
+        },
+        {
+            "word": "subscriber",
+            "bounding_box": {
+                "topLeftX": 0.5577299412915852,
+                "topLeftY": 0.3223495702005731,
+                "width": 0.0547945205479452,
+                "height": 0.024355300859598854
+            },
+            "attention_score": 0.25
+        }
+    ]
+}
