@@ -1,0 +1,310 @@
+{
+    "image_number": 16,
+    "user_answer": "Food Industry",
+    "correct_answer": "food industry association",
+    "last_fixation_attention": [],
+    "pre_typing_attention": [
+        {
+            "word": "food",
+            "bounding_box": {
+                "topLeftX": 0.3397773872290568,
+                "topLeftY": 0.1543296089385475,
+                "width": 0.06971294669009959,
+                "height": 0.036312849162011177
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "oct.",
+            "bounding_box": {
+                "topLeftX": 0.45635618043350906,
+                "topLeftY": 0.24441340782122906,
+                "width": 0.05038078500292911,
+                "height": 0.025837988826815643
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "box",
+            "bounding_box": {
+                "topLeftX": 0.45518453427065025,
+                "topLeftY": 0.35893854748603354,
+                "width": 0.03749267721148213,
+                "height": 0.023743016759776536
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "great",
+            "bounding_box": {
+                "topLeftX": 0.45518453427065025,
+                "topLeftY": 0.3372905027932961,
+                "width": 0.05975395430579965,
+                "height": 0.023044692737430168
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "5308",
+            "bounding_box": {
+                "topLeftX": 0.50497949619215,
+                "topLeftY": 0.35893854748603354,
+                "width": 0.04745166959578207,
+                "height": 0.023743016759776536
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "denver,",
+            "bounding_box": {
+                "topLeftX": 0.45577035735207966,
+                "topLeftY": 0.38337988826815644,
+                "width": 0.08553016988869361,
+                "height": 0.023743016759776536
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "north",
+            "bounding_box": {
+                "topLeftX": 0.4370240187463386,
+                "topLeftY": 0.11452513966480447,
+                "width": 0.05272407732864675,
+                "height": 0.020251396648044692
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "industry",
+            "bounding_box": {
+                "topLeftX": 0.4182776801405975,
+                "topLeftY": 0.15502793296089384,
+                "width": 0.1265377855887522,
+                "height": 0.0356145251396648
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "ft.",
+            "bounding_box": {
+                "topLeftX": 0.1347393087287639,
+                "topLeftY": 0.210195530726257,
+                "width": 0.022847100175746926,
+                "height": 0.018854748603351956
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "phone",
+            "bounding_box": {
+                "topLeftX": 0.08670181605155243,
+                "topLeftY": 0.210195530726257,
+                "width": 0.042765084944346804,
+                "height": 0.019553072625698324
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "p.o.",
+            "bounding_box": {
+                "topLeftX": 0.8131224370240188,
+                "topLeftY": 0.20949720670391062,
+                "width": 0.0351493848857645,
+                "height": 0.018156424581005588
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "box",
+            "bounding_box": {
+                "topLeftX": 0.8512009373169303,
+                "topLeftY": 0.210195530726257,
+                "width": 0.031048623315758642,
+                "height": 0.017458100558659217
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "10434",
+            "bounding_box": {
+                "topLeftX": 0.8910369068541301,
+                "topLeftY": 0.20949720670391062,
+                "width": 0.040421792618629174,
+                "height": 0.018854748603351956
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "dallas,",
+            "bounding_box": {
+                "topLeftX": 0.8142940831868776,
+                "topLeftY": 0.24231843575418993,
+                "width": 0.062097246631517285,
+                "height": 0.020251396648044692
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "texas",
+            "bounding_box": {
+                "topLeftX": 0.8793204452255419,
+                "topLeftY": 0.2430167597765363,
+                "width": 0.04510837727006444,
+                "height": 0.019553072625698324
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "attn:",
+            "bounding_box": {
+                "topLeftX": 0.45284124194493264,
+                "topLeftY": 0.5202513966480447,
+                "width": 0.06444053895723492,
+                "height": 0.024441340782122904
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "engraving",
+            "bounding_box": {
+                "topLeftX": 0.11423550087873462,
+                "topLeftY": 0.6424581005586593,
+                "width": 0.10837727006444053,
+                "height": 0.024441340782122904
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "(newest",
+            "bounding_box": {
+                "topLeftX": 0.11540714704159344,
+                "topLeftY": 0.6641061452513967,
+                "width": 0.0849443468072642,
+                "height": 0.02723463687150838
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "western",
+            "bounding_box": {
+                "topLeftX": 0.5260691271236086,
+                "topLeftY": 0.33798882681564246,
+                "width": 0.08142940831868775,
+                "height": 0.023743016759776536
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "10,",
+            "bounding_box": {
+                "topLeftX": 0.5161101347393088,
+                "topLeftY": 0.24441340782122906,
+                "width": 0.038078500292911543,
+                "height": 0.025837988826815643
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "colo.",
+            "bounding_box": {
+                "topLeftX": 0.5483304042179262,
+                "topLeftY": 0.38268156424581007,
+                "width": 0.062097246631517285,
+                "height": 0.025139664804469275
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "6-2217",
+            "bounding_box": {
+                "topLeftX": 0.23784417106033978,
+                "topLeftY": 0.20879888268156424,
+                "width": 0.04862331575864089,
+                "height": 0.019553072625698324
+            },
+            "attention_score": 0.5
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "north",
+            "bounding_box": {
+                "topLeftX": 0.4370240187463386,
+                "topLeftY": 0.11452513966480447,
+                "width": 0.05272407732864675,
+                "height": 0.020251396648044692
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "industry",
+            "bounding_box": {
+                "topLeftX": 0.4182776801405975,
+                "topLeftY": 0.15502793296089384,
+                "width": 0.1265377855887522,
+                "height": 0.0356145251396648
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "oct.",
+            "bounding_box": {
+                "topLeftX": 0.45635618043350906,
+                "topLeftY": 0.24441340782122906,
+                "width": 0.05038078500292911,
+                "height": 0.025837988826815643
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "food",
+            "bounding_box": {
+                "topLeftX": 0.3397773872290568,
+                "topLeftY": 0.1543296089385475,
+                "width": 0.06971294669009959,
+                "height": 0.036312849162011177
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "central",
+            "bounding_box": {
+                "topLeftX": 0.4997070884592853,
+                "topLeftY": 0.11452513966480447,
+                "width": 0.06736965436438196,
+                "height": 0.020251396648044692
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "10,",
+            "bounding_box": {
+                "topLeftX": 0.5161101347393088,
+                "topLeftY": 0.24441340782122906,
+                "width": 0.038078500292911543,
+                "height": 0.025837988826815643
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "1968",
+            "bounding_box": {
+                "topLeftX": 0.5629759812536614,
+                "topLeftY": 0.24441340782122906,
+                "width": 0.046280023432923256,
+                "height": 0.025837988826815643
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "texas",
+            "bounding_box": {
+                "topLeftX": 0.5729349736379613,
+                "topLeftY": 0.11452513966480447,
+                "width": 0.04745166959578207,
+                "height": 0.020251396648044692
+            },
+            "attention_score": 0.5
+        }
+    ]
+}

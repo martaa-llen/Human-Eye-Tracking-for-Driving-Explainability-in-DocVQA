@@ -1,0 +1,430 @@
+{
+    "image_number": 85,
+    "user_answer": "165.5",
+    "correct_answer": "165.5",
+    "last_fixation_attention": [],
+    "pre_typing_attention": [
+        {
+            "word": "height",
+            "bounding_box": {
+                "topLeftX": 0.15871559633027524,
+                "topLeftY": 0.36282660332541566,
+                "width": 0.0463302752293578,
+                "height": 0.01840855106888361
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "(cm)",
+            "bounding_box": {
+                "topLeftX": 0.21238532110091743,
+                "topLeftY": 0.36282660332541566,
+                "width": 0.025688073394495414,
+                "height": 0.01840855106888361
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "(kg)",
+            "bounding_box": {
+                "topLeftX": 0.21238532110091743,
+                "topLeftY": 0.3818289786223278,
+                "width": 0.022018348623853212,
+                "height": 0.017814726840855107
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "weight",
+            "bounding_box": {
+                "topLeftX": 0.1591743119266055,
+                "topLeftY": 0.3818289786223278,
+                "width": 0.045871559633027525,
+                "height": 0.0172209026128266
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "age",
+            "bounding_box": {
+                "topLeftX": 0.16055045871559634,
+                "topLeftY": 0.4014251781472684,
+                "width": 0.021559633027522937,
+                "height": 0.016033254156769598
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "(years)",
+            "bounding_box": {
+                "topLeftX": 0.1908256880733945,
+                "topLeftY": 0.4014251781472684,
+                "width": 0.044954128440366975,
+                "height": 0.0166270783847981
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "165.5",
+            "bounding_box": {
+                "topLeftX": 0.2536697247706422,
+                "topLeftY": 0.36045130641330164,
+                "width": 0.036238532110091745,
+                "height": 0.019002375296912115
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "vi-1.",
+            "bounding_box": {
+                "topLeftX": 0.2467889908256881,
+                "topLeftY": 0.25,
+                "width": 0.0389908256880734,
+                "height": 0.01840855106888361
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "malays",
+            "bounding_box": {
+                "topLeftX": 0.25229357798165136,
+                "topLeftY": 0.34501187648456055,
+                "width": 0.0463302752293578,
+                "height": 0.0166270783847981
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "162.6",
+            "bounding_box": {
+                "topLeftX": 0.3192660550458716,
+                "topLeftY": 0.36223277909738716,
+                "width": 0.03577981651376147,
+                "height": 0.0166270783847981
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "chinese",
+            "bounding_box": {
+                "topLeftX": 0.3110091743119266,
+                "topLeftY": 0.34441805225653205,
+                "width": 0.05321100917431193,
+                "height": 0.017814726840855107
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "25.9",
+            "bounding_box": {
+                "topLeftX": 0.26146788990825687,
+                "topLeftY": 0.3978622327790974,
+                "width": 0.02889908256880734,
+                "height": 0.0166270783847981
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "57.9",
+            "bounding_box": {
+                "topLeftX": 0.26055045871559634,
+                "topLeftY": 0.38004750593824227,
+                "width": 0.030275229357798167,
+                "height": 0.017814726840855107
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "mean",
+            "bounding_box": {
+                "topLeftX": 0.12155963302752294,
+                "topLeftY": 0.36342042755344417,
+                "width": 0.03165137614678899,
+                "height": 0.0172209026128266
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "mean",
+            "bounding_box": {
+                "topLeftX": 0.12201834862385322,
+                "topLeftY": 0.3818289786223278,
+                "width": 0.031192660550458717,
+                "height": 0.01840855106888361
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "mean",
+            "bounding_box": {
+                "topLeftX": 0.12155963302752294,
+                "topLeftY": 0.4008313539192399,
+                "width": 0.030733944954128442,
+                "height": 0.016033254156769598
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "figures",
+            "bounding_box": {
+                "topLeftX": 0.14495412844036698,
+                "topLeftY": 0.4483372921615202,
+                "width": 0.052752293577981654,
+                "height": 0.017814726840855107
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "1/",
+            "bounding_box": {
+                "topLeftX": 0.12385321100917432,
+                "topLeftY": 0.4483372921615202,
+                "width": 0.016972477064220184,
+                "height": 0.017814726840855107
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "height,",
+            "bounding_box": {
+                "topLeftX": 0.2963302752293578,
+                "topLeftY": 0.25,
+                "width": 0.054587155963302755,
+                "height": 0.017814726840855107
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "malaya",
+            "bounding_box": {
+                "topLeftX": 0.3536697247706422,
+                "topLeftY": 0.30700712589073637,
+                "width": 0.04357798165137615,
+                "height": 0.0172209026128266
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "weight",
+            "bounding_box": {
+                "topLeftX": 0.355045871559633,
+                "topLeftY": 0.25,
+                "width": 0.0463302752293578,
+                "height": 0.017814726840855107
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "indians",
+            "bounding_box": {
+                "topLeftX": 0.3775229357798165,
+                "topLeftY": 0.34501187648456055,
+                "width": 0.04908256880733945,
+                "height": 0.0166270783847981
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "166.8",
+            "bounding_box": {
+                "topLeftX": 0.3848623853211009,
+                "topLeftY": 0.36342042755344417,
+                "width": 0.034403669724770644,
+                "height": 0.015439429928741092
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "56.9",
+            "bounding_box": {
+                "topLeftX": 0.3256880733944954,
+                "topLeftY": 0.38004750593824227,
+                "width": 0.027522935779816515,
+                "height": 0.0172209026128266
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "23.6",
+            "bounding_box": {
+                "topLeftX": 0.326605504587156,
+                "topLeftY": 0.3990498812351544,
+                "width": 0.02889908256880734,
+                "height": 0.015439429928741092
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "59.4",
+            "bounding_box": {
+                "topLeftX": 0.39174311926605504,
+                "topLeftY": 0.3812351543942993,
+                "width": 0.028440366972477066,
+                "height": 0.016033254156769598
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "23.0",
+            "bounding_box": {
+                "topLeftX": 0.39174311926605504,
+                "topLeftY": 0.3978622327790974,
+                "width": 0.028440366972477066,
+                "height": 0.016033254156769598
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "are",
+            "bounding_box": {
+                "topLeftX": 0.3119266055045872,
+                "topLeftY": 0.4495249406175772,
+                "width": 0.023394495412844038,
+                "height": 0.015439429928741092
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "table",
+            "bounding_box": {
+                "topLeftX": 0.2036697247706422,
+                "topLeftY": 0.25,
+                "width": 0.03761467889908257,
+                "height": 0.01840855106888361
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "parentheses",
+            "bounding_box": {
+                "topLeftX": 0.22431192660550459,
+                "topLeftY": 0.4489311163895487,
+                "width": 0.08211009174311927,
+                "height": 0.0166270783847981
+            },
+            "attention_score": 0.5
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "165.5",
+            "bounding_box": {
+                "topLeftX": 0.2536697247706422,
+                "topLeftY": 0.36045130641330164,
+                "width": 0.036238532110091745,
+                "height": 0.019002375296912115
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "vi-1.",
+            "bounding_box": {
+                "topLeftX": 0.2467889908256881,
+                "topLeftY": 0.25,
+                "width": 0.0389908256880734,
+                "height": 0.01840855106888361
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "table",
+            "bounding_box": {
+                "topLeftX": 0.2036697247706422,
+                "topLeftY": 0.25,
+                "width": 0.03761467889908257,
+                "height": 0.01840855106888361
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "(cm)",
+            "bounding_box": {
+                "topLeftX": 0.21238532110091743,
+                "topLeftY": 0.36282660332541566,
+                "width": 0.025688073394495414,
+                "height": 0.01840855106888361
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "malays",
+            "bounding_box": {
+                "topLeftX": 0.25229357798165136,
+                "topLeftY": 0.34501187648456055,
+                "width": 0.0463302752293578,
+                "height": 0.0166270783847981
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "height,",
+            "bounding_box": {
+                "topLeftX": 0.2963302752293578,
+                "topLeftY": 0.25,
+                "width": 0.054587155963302755,
+                "height": 0.017814726840855107
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "162.6",
+            "bounding_box": {
+                "topLeftX": 0.3192660550458716,
+                "topLeftY": 0.36223277909738716,
+                "width": 0.03577981651376147,
+                "height": 0.0166270783847981
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "chinese",
+            "bounding_box": {
+                "topLeftX": 0.3110091743119266,
+                "topLeftY": 0.34441805225653205,
+                "width": 0.05321100917431193,
+                "height": 0.017814726840855107
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "(kg)",
+            "bounding_box": {
+                "topLeftX": 0.21238532110091743,
+                "topLeftY": 0.3818289786223278,
+                "width": 0.022018348623853212,
+                "height": 0.017814726840855107
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "25.9",
+            "bounding_box": {
+                "topLeftX": 0.26146788990825687,
+                "topLeftY": 0.3978622327790974,
+                "width": 0.02889908256880734,
+                "height": 0.0166270783847981
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "57.9",
+            "bounding_box": {
+                "topLeftX": 0.26055045871559634,
+                "topLeftY": 0.38004750593824227,
+                "width": 0.030275229357798167,
+                "height": 0.017814726840855107
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "56.9",
+            "bounding_box": {
+                "topLeftX": 0.3256880733944954,
+                "topLeftY": 0.38004750593824227,
+                "width": 0.027522935779816515,
+                "height": 0.0172209026128266
+            },
+            "attention_score": 1.0
+        }
+    ]
+}

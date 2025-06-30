@@ -1,0 +1,481 @@
+{
+    "image_number": 100,
+    "user_answer": "march 21, 1961",
+    "correct_answer": "march 21, 1961",
+    "last_fixation_attention": [
+        {
+            "word": "account",
+            "bounding_box": {
+                "topLeftX": 0.3657303370786517,
+                "topLeftY": 0.18867924528301888,
+                "width": 0.05730337078651685,
+                "height": 0.018194070080862535
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "to",
+            "bounding_box": {
+                "topLeftX": 0.42528089887640447,
+                "topLeftY": 0.18935309973045822,
+                "width": 0.014044943820224719,
+                "height": 0.018194070080862535
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "available",
+            "bounding_box": {
+                "topLeftX": 0.41123595505617977,
+                "topLeftY": 0.2526954177897574,
+                "width": 0.0651685393258427,
+                "height": 0.018867924528301886
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "march",
+            "bounding_box": {
+                "topLeftX": 0.47752808988764045,
+                "topLeftY": 0.16172506738544473,
+                "width": 0.056179775280898875,
+                "height": 0.020889487870619946
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "pa73wbc44",
+            "bounding_box": {
+                "topLeftX": 0.47808988764044946,
+                "topLeftY": 0.19811320754716982,
+                "width": 0.10280898876404494,
+                "height": 0.020889487870619946
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "34pbe",
+            "bounding_box": {
+                "topLeftX": 0.33370786516853934,
+                "topLeftY": 0.20148247978436656,
+                "width": 0.04887640449438202,
+                "height": 0.02358490566037736
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "charged",
+            "bounding_box": {
+                "topLeftX": 0.3853932584269663,
+                "topLeftY": 0.204177897574124,
+                "width": 0.056179775280898875,
+                "height": 0.025606469002695417
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "funds",
+            "bounding_box": {
+                "topLeftX": 0.3646067415730337,
+                "topLeftY": 0.25134770889487873,
+                "width": 0.043820224719101124,
+                "height": 0.02021563342318059
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "ordered",
+            "bounding_box": {
+                "topLeftX": 0.39775280898876403,
+                "topLeftY": 0.16778975741239893,
+                "width": 0.056179775280898875,
+                "height": 0.02021563342318059
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "date",
+            "bounding_box": {
+                "topLeftX": 0.3612359550561798,
+                "topLeftY": 0.16711590296495957,
+                "width": 0.033707865168539325,
+                "height": 0.02021563342318059
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "account",
+            "bounding_box": {
+                "topLeftX": 0.3657303370786517,
+                "topLeftY": 0.18867924528301888,
+                "width": 0.05730337078651685,
+                "height": 0.018194070080862535
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "department",
+            "bounding_box": {
+                "topLeftX": 0.36404494382022473,
+                "topLeftY": 0.2742587601078167,
+                "width": 0.07808988764044944,
+                "height": 0.020889487870619946
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "delivering",
+            "bounding_box": {
+                "topLeftX": 0.36404494382022473,
+                "topLeftY": 0.2971698113207547,
+                "width": 0.0696629213483146,
+                "height": 0.022911051212938006
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "account",
+            "bounding_box": {
+                "topLeftX": 0.6904494382022472,
+                "topLeftY": 0.18800539083557952,
+                "width": 0.056741573033707866,
+                "height": 0.02021563342318059
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "charged",
+            "bounding_box": {
+                "topLeftX": 0.6887640449438203,
+                "topLeftY": 0.2068733153638814,
+                "width": 0.052808988764044947,
+                "height": 0.02021563342318059
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "approved",
+            "bounding_box": {
+                "topLeftX": 0.6887640449438203,
+                "topLeftY": 0.2526954177897574,
+                "width": 0.0651685393258427,
+                "height": 0.01954177897574124
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "no.",
+            "bounding_box": {
+                "topLeftX": 0.7157303370786516,
+                "topLeftY": 0.11994609164420485,
+                "width": 0.028651685393258425,
+                "height": 0.02223719676549865
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "e",
+            "bounding_box": {
+                "topLeftX": 0.7477528089887641,
+                "topLeftY": 0.11994609164420485,
+                "width": 0.012359550561797753,
+                "height": 0.02223719676549865
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "journal",
+            "bounding_box": {
+                "topLeftX": 0.6898876404494382,
+                "topLeftY": 0.29784366576819404,
+                "width": 0.05056179775280899,
+                "height": 0.020889487870619946
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "no.",
+            "bounding_box": {
+                "topLeftX": 0.7438202247191011,
+                "topLeftY": 0.2991913746630728,
+                "width": 0.024719101123595506,
+                "height": 0.01954177897574124
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "journal",
+            "bounding_box": {
+                "topLeftX": 0.6898876404494382,
+                "topLeftY": 0.34838274932614555,
+                "width": 0.05056179775280899,
+                "height": 0.01954177897574124
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "quad",
+            "bounding_box": {
+                "topLeftX": 0.4887640449438202,
+                "topLeftY": 0.2863881401617251,
+                "width": 0.04550561797752809,
+                "height": 0.02021563342318059
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "e",
+            "bounding_box": {
+                "topLeftX": 0.5337078651685393,
+                "topLeftY": 0.10579514824797843,
+                "width": 0.010112359550561797,
+                "height": 0.01752021563342318
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "21,",
+            "bounding_box": {
+                "topLeftX": 0.547752808988764,
+                "topLeftY": 0.1610512129380054,
+                "width": 0.03314606741573034,
+                "height": 0.0215633423180593
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "1961",
+            "bounding_box": {
+                "topLeftX": 0.5926966292134831,
+                "topLeftY": 0.1610512129380054,
+                "width": 0.04157303370786517,
+                "height": 0.020889487870619946
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "shop",
+            "bounding_box": {
+                "topLeftX": 0.5466292134831461,
+                "topLeftY": 0.28706199460916443,
+                "width": 0.04325842696629213,
+                "height": 0.02021563342318059
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "inter-departmental",
+            "bounding_box": {
+                "topLeftX": 0.34831460674157305,
+                "topLeftY": 0.10512129380053908,
+                "width": 0.17921348314606741,
+                "height": 0.018194070080862535
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "account",
+            "bounding_box": {
+                "topLeftX": 0.3651685393258427,
+                "topLeftY": 0.32412398921832886,
+                "width": 0.056741573033707866,
+                "height": 0.02021563342318059
+            },
+            "attention_score": 0.3333333333333333
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "quad",
+            "bounding_box": {
+                "topLeftX": 0.4887640449438202,
+                "topLeftY": 0.2863881401617251,
+                "width": 0.04550561797752809,
+                "height": 0.02021563342318059
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "march",
+            "bounding_box": {
+                "topLeftX": 0.47752808988764045,
+                "topLeftY": 0.16172506738544473,
+                "width": 0.056179775280898875,
+                "height": 0.020889487870619946
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "pa73wbc44",
+            "bounding_box": {
+                "topLeftX": 0.47808988764044946,
+                "topLeftY": 0.19811320754716982,
+                "width": 0.10280898876404494,
+                "height": 0.020889487870619946
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "21,",
+            "bounding_box": {
+                "topLeftX": 0.547752808988764,
+                "topLeftY": 0.1610512129380054,
+                "width": 0.03314606741573034,
+                "height": 0.0215633423180593
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "shop",
+            "bounding_box": {
+                "topLeftX": 0.5466292134831461,
+                "topLeftY": 0.28706199460916443,
+                "width": 0.04325842696629213,
+                "height": 0.02021563342318059
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "to",
+            "bounding_box": {
+                "topLeftX": 0.42528089887640447,
+                "topLeftY": 0.18935309973045822,
+                "width": 0.014044943820224719,
+                "height": 0.018194070080862535
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "https://www.industrydocuments.ucsf.edu/docs/fsmg0227",
+            "bounding_box": {
+                "topLeftX": 0.3,
+                "topLeftY": 0.9730458221024259,
+                "width": 0.4646067415730337,
+                "height": 0.0215633423180593
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "e",
+            "bounding_box": {
+                "topLeftX": 0.5337078651685393,
+                "topLeftY": 0.10579514824797843,
+                "width": 0.010112359550561797,
+                "height": 0.01752021563342318
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "1961",
+            "bounding_box": {
+                "topLeftX": 0.5926966292134831,
+                "topLeftY": 0.1610512129380054,
+                "width": 0.04157303370786517,
+                "height": 0.020889487870619946
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "requisition",
+            "bounding_box": {
+                "topLeftX": 0.549438202247191,
+                "topLeftY": 0.10579514824797843,
+                "width": 0.09662921348314607,
+                "height": 0.018867924528301886
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "available",
+            "bounding_box": {
+                "topLeftX": 0.41123595505617977,
+                "topLeftY": 0.2526954177897574,
+                "width": 0.0651685393258427,
+                "height": 0.018867924528301886
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "34pbe",
+            "bounding_box": {
+                "topLeftX": 0.33370786516853934,
+                "topLeftY": 0.20148247978436656,
+                "width": 0.04887640449438202,
+                "height": 0.02358490566037736
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "charged",
+            "bounding_box": {
+                "topLeftX": 0.3853932584269663,
+                "topLeftY": 0.204177897574124,
+                "width": 0.056179775280898875,
+                "height": 0.025606469002695417
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "funds",
+            "bounding_box": {
+                "topLeftX": 0.3646067415730337,
+                "topLeftY": 0.25134770889487873,
+                "width": 0.043820224719101124,
+                "height": 0.02021563342318059
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "ordered",
+            "bounding_box": {
+                "topLeftX": 0.39775280898876403,
+                "topLeftY": 0.16778975741239893,
+                "width": 0.056179775280898875,
+                "height": 0.02021563342318059
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "date",
+            "bounding_box": {
+                "topLeftX": 0.3612359550561798,
+                "topLeftY": 0.16711590296495957,
+                "width": 0.033707865168539325,
+                "height": 0.02021563342318059
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "account",
+            "bounding_box": {
+                "topLeftX": 0.3657303370786517,
+                "topLeftY": 0.18867924528301888,
+                "width": 0.05730337078651685,
+                "height": 0.018194070080862535
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "inter-departmental",
+            "bounding_box": {
+                "topLeftX": 0.34831460674157305,
+                "topLeftY": 0.10512129380053908,
+                "width": 0.17921348314606741,
+                "height": 0.018194070080862535
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "washington",
+            "bounding_box": {
+                "topLeftX": 0.3960674157303371,
+                "topLeftY": 0.08355795148247978,
+                "width": 0.09662921348314607,
+                "height": 0.018194070080862535
+            },
+            "attention_score": 0.5
+        }
+    ]
+}

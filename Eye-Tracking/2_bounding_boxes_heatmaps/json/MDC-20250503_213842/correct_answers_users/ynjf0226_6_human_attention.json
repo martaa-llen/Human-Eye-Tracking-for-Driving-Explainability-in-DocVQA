@@ -1,0 +1,79 @@
+{
+    "image_number": 8,
+    "user_answer": "consequences of ir",
+    "correct_answer": "consequences of ir",
+    "last_fixation_attention": [],
+    "pre_typing_attention": [
+        {
+            "word": "of",
+            "bounding_box": {
+                "topLeftX": 0.4009090909090909,
+                "topLeftY": 0.11578341013824885,
+                "width": 0.042272727272727274,
+                "height": 0.0478110599078341
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "to",
+            "bounding_box": {
+                "topLeftX": 0.25181818181818183,
+                "topLeftY": 0.2402073732718894,
+                "width": 0.017727272727272727,
+                "height": 0.02304147465437788
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "consequences",
+            "bounding_box": {
+                "topLeftX": 0.09454545454545454,
+                "topLeftY": 0.1152073732718894,
+                "width": 0.2972727272727273,
+                "height": 0.048963133640553
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "damage",
+            "bounding_box": {
+                "topLeftX": 0.175,
+                "topLeftY": 0.23963133640552994,
+                "width": 0.07272727272727272,
+                "height": 0.02304147465437788
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "to",
+            "bounding_box": {
+                "topLeftX": 0.23681818181818182,
+                "topLeftY": 0.27534562211981567,
+                "width": 0.019545454545454546,
+                "height": 0.02304147465437788
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "damage",
+            "bounding_box": {
+                "topLeftX": 0.16090909090909092,
+                "topLeftY": 0.2759216589861751,
+                "width": 0.07363636363636364,
+                "height": 0.021889400921658985
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "ir",
+            "bounding_box": {
+                "topLeftX": 0.45,
+                "topLeftY": 0.11463133640552996,
+                "width": 0.04,
+                "height": 0.04665898617511521
+            },
+            "attention_score": 0.5
+        }
+    ],
+    "typing_attention": []
+}

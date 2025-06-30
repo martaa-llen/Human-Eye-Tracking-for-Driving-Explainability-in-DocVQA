@@ -1,0 +1,401 @@
+{
+    "image_number": 4,
+    "user_answer": "Kool cith 0.63 menthl",
+    "correct_answer": "kool \"c\" with 0.63% menthol was implemented in april 1995",
+    "last_fixation_attention": [
+        {
+            "word": "kool",
+            "bounding_box": {
+                "topLeftX": 0.2167985927880387,
+                "topLeftY": 0.8041958041958042,
+                "width": 0.059366754617414245,
+                "height": 0.027972027972027972
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "april",
+            "bounding_box": {
+                "topLeftX": 0.21591908531222515,
+                "topLeftY": 0.8385780885780886,
+                "width": 0.052770448548812667,
+                "height": 0.029137529137529136
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "status.",
+            "bounding_box": {
+                "topLeftX": 0.1943711521547933,
+                "topLeftY": 0.7494172494172494,
+                "width": 0.09278803869832894,
+                "height": 0.033216783216783216
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": ".",
+            "bounding_box": {
+                "topLeftX": 0.1917326297273527,
+                "topLeftY": 0.8041958041958042,
+                "width": 0.013192612137203167,
+                "height": 0.026806526806526808
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "kool",
+            "bounding_box": {
+                "topLeftX": 0.2167985927880387,
+                "topLeftY": 0.8041958041958042,
+                "width": 0.059366754617414245,
+                "height": 0.027972027972027972
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": ".",
+            "bounding_box": {
+                "topLeftX": 0.19261213720316622,
+                "topLeftY": 0.5332167832167832,
+                "width": 0.014511873350923483,
+                "height": 0.028554778554778556
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": ".",
+            "bounding_box": {
+                "topLeftX": 0.19261213720316622,
+                "topLeftY": 0.3344988344988345,
+                "width": 0.016710642040457344,
+                "height": 0.03205128205128205
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "1995",
+            "bounding_box": {
+                "topLeftX": 0.2783641160949868,
+                "topLeftY": 0.8397435897435898,
+                "width": 0.04573438874230431,
+                "height": 0.027389277389277388
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "\"c\"",
+            "bounding_box": {
+                "topLeftX": 0.28891820580474936,
+                "topLeftY": 0.8053613053613053,
+                "width": 0.03562005277044855,
+                "height": 0.027972027972027972
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "product",
+            "bounding_box": {
+                "topLeftX": 0.2167985927880387,
+                "topLeftY": 0.36946386946386944,
+                "width": 0.0839929639401935,
+                "height": 0.02972027972027972
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "milds",
+            "bounding_box": {
+                "topLeftX": 0.21635883905013192,
+                "topLeftY": 0.40326340326340326,
+                "width": 0.055848724714160074,
+                "height": 0.028554778554778556
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "cpt",
+            "bounding_box": {
+                "topLeftX": 0.19393139841688653,
+                "topLeftY": 0.4801864801864802,
+                "width": 0.05716798592788039,
+                "height": 0.03263403263403263
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "objective",
+            "bounding_box": {
+                "topLeftX": 0.19393139841688653,
+                "topLeftY": 0.28088578088578087,
+                "width": 0.1284080914687775,
+                "height": 0.03787878787878788
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "using",
+            "bounding_box": {
+                "topLeftX": 0.21767810026385223,
+                "topLeftY": 0.3350815850815851,
+                "width": 0.058927000879507474,
+                "height": 0.03205128205128205
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "0.63%",
+            "bounding_box": {
+                "topLeftX": 0.391820580474934,
+                "topLeftY": 0.8059440559440559,
+                "width": 0.06464379947229551,
+                "height": 0.028554778554778556
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "menthol",
+            "bounding_box": {
+                "topLeftX": 0.46437994722955145,
+                "topLeftY": 0.8065268065268065,
+                "width": 0.0853122251539138,
+                "height": 0.028554778554778556
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "was",
+            "bounding_box": {
+                "topLeftX": 0.5576077396657871,
+                "topLeftY": 0.8071095571095571,
+                "width": 0.040897097625329816,
+                "height": 0.028554778554778556
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "implemented",
+            "bounding_box": {
+                "topLeftX": 0.6103781882145998,
+                "topLeftY": 0.8071095571095571,
+                "width": 0.12884784520668427,
+                "height": 0.028554778554778556
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "kool",
+            "bounding_box": {
+                "topLeftX": 0.21635883905013192,
+                "topLeftY": 0.5332167832167832,
+                "width": 0.06068601583113457,
+                "height": 0.02972027972027972
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "\"c\"",
+            "bounding_box": {
+                "topLeftX": 0.28935795954265614,
+                "topLeftY": 0.5343822843822844,
+                "width": 0.03562005277044855,
+                "height": 0.029137529137529136
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "among",
+            "bounding_box": {
+                "topLeftX": 0.21767810026385223,
+                "topLeftY": 0.5693473193473193,
+                "width": 0.06772207563764292,
+                "height": 0.029137529137529136
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": ".",
+            "bounding_box": {
+                "topLeftX": 0.19261213720316622,
+                "topLeftY": 0.6206293706293706,
+                "width": 0.013632365875109938,
+                "height": 0.027389277389277388
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "kool",
+            "bounding_box": {
+                "topLeftX": 0.2167985927880387,
+                "topLeftY": 0.6206293706293706,
+                "width": 0.059366754617414245,
+                "height": 0.029137529137529136
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "menthol,",
+            "bounding_box": {
+                "topLeftX": 0.21591908531222515,
+                "topLeftY": 0.655011655011655,
+                "width": 0.09146877748460862,
+                "height": 0.029137529137529136
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "milds",
+            "bounding_box": {
+                "topLeftX": 0.2880386983289358,
+                "topLeftY": 0.6206293706293706,
+                "width": 0.055848724714160074,
+                "height": 0.030303030303030304
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "kool",
+            "bounding_box": {
+                "topLeftX": 0.2990325417766051,
+                "topLeftY": 0.5687645687645687,
+                "width": 0.05980650835532102,
+                "height": 0.02972027972027972
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "with",
+            "bounding_box": {
+                "topLeftX": 0.3337730870712401,
+                "topLeftY": 0.8053613053613053,
+                "width": 0.04221635883905013,
+                "height": 0.028554778554778556
+            },
+            "attention_score": 0.3333333333333333
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "0.63%",
+            "bounding_box": {
+                "topLeftX": 0.391820580474934,
+                "topLeftY": 0.8059440559440559,
+                "width": 0.06464379947229551,
+                "height": 0.028554778554778556
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "1995",
+            "bounding_box": {
+                "topLeftX": 0.2783641160949868,
+                "topLeftY": 0.8397435897435898,
+                "width": 0.04573438874230431,
+                "height": 0.027389277389277388
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "\"c\"",
+            "bounding_box": {
+                "topLeftX": 0.28891820580474936,
+                "topLeftY": 0.8053613053613053,
+                "width": 0.03562005277044855,
+                "height": 0.027972027972027972
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "with",
+            "bounding_box": {
+                "topLeftX": 0.3337730870712401,
+                "topLeftY": 0.8053613053613053,
+                "width": 0.04221635883905013,
+                "height": 0.028554778554778556
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "april",
+            "bounding_box": {
+                "topLeftX": 0.21591908531222515,
+                "topLeftY": 0.8385780885780886,
+                "width": 0.052770448548812667,
+                "height": 0.029137529137529136
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "status.",
+            "bounding_box": {
+                "topLeftX": 0.1943711521547933,
+                "topLeftY": 0.7494172494172494,
+                "width": 0.09278803869832894,
+                "height": 0.033216783216783216
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": ".",
+            "bounding_box": {
+                "topLeftX": 0.1917326297273527,
+                "topLeftY": 0.8041958041958042,
+                "width": 0.013192612137203167,
+                "height": 0.026806526806526808
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "kool",
+            "bounding_box": {
+                "topLeftX": 0.2167985927880387,
+                "topLeftY": 0.8041958041958042,
+                "width": 0.059366754617414245,
+                "height": 0.027972027972027972
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "menthol",
+            "bounding_box": {
+                "topLeftX": 0.46437994722955145,
+                "topLeftY": 0.8065268065268065,
+                "width": 0.0853122251539138,
+                "height": 0.028554778554778556
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "was",
+            "bounding_box": {
+                "topLeftX": 0.5576077396657871,
+                "topLeftY": 0.8071095571095571,
+                "width": 0.040897097625329816,
+                "height": 0.028554778554778556
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "implemented",
+            "bounding_box": {
+                "topLeftX": 0.6103781882145998,
+                "topLeftY": 0.8071095571095571,
+                "width": 0.12884784520668427,
+                "height": 0.028554778554778556
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "in",
+            "bounding_box": {
+                "topLeftX": 0.7537379067722075,
+                "topLeftY": 0.8076923076923077,
+                "width": 0.018469656992084433,
+                "height": 0.027389277389277388
+            },
+            "attention_score": 0.3333333333333333
+        }
+    ]
+}

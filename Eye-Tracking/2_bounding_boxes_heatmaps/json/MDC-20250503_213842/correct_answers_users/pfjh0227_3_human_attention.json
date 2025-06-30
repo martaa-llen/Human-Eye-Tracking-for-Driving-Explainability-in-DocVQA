@@ -1,0 +1,181 @@
+{
+    "image_number": 190,
+    "user_answer": "mcclendon",
+    "correct_answer": "mcclendon",
+    "last_fixation_attention": [
+        {
+            "word": "unit",
+            "bounding_box": {
+                "topLeftX": 0.7057416267942583,
+                "topLeftY": 0.11555555555555555,
+                "width": 0.02631578947368421,
+                "height": 0.017777777777777778
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "11-12-68",
+            "bounding_box": {
+                "topLeftX": 0.2583732057416268,
+                "topLeftY": 0.04777777777777778,
+                "width": 0.09330143540669857,
+                "height": 0.03222222222222222
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "order",
+            "bounding_box": {
+                "topLeftX": 0.26854066985645936,
+                "topLeftY": 0.015555555555555555,
+                "width": 0.028708133971291867,
+                "height": 0.02
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "rec'd",
+            "bounding_box": {
+                "topLeftX": 0.29904306220095694,
+                "topLeftY": 0.014444444444444444,
+                "width": 0.02751196172248804,
+                "height": 0.021111111111111112
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "shipped",
+            "bounding_box": {
+                "topLeftX": 0.5131578947368421,
+                "topLeftY": 0.015555555555555555,
+                "width": 0.04007177033492823,
+                "height": 0.01888888888888889
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "si's",
+            "bounding_box": {
+                "topLeftX": 0.6070574162679426,
+                "topLeftY": 0.015555555555555555,
+                "width": 0.019736842105263157,
+                "height": 0.01888888888888889
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "cd.",
+            "bounding_box": {
+                "topLeftX": 0.6285885167464115,
+                "topLeftY": 0.014444444444444444,
+                "width": 0.01854066985645933,
+                "height": 0.02
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "salesman's",
+            "bounding_box": {
+                "topLeftX": 0.7135167464114832,
+                "topLeftY": 0.016666666666666666,
+                "width": 0.056220095693779906,
+                "height": 0.01888888888888889
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "unit",
+            "bounding_box": {
+                "topLeftX": 0.7057416267942583,
+                "topLeftY": 0.11555555555555555,
+                "width": 0.02631578947368421,
+                "height": 0.017777777777777778
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "imcclendon",
+            "bounding_box": {
+                "topLeftX": 0.7039473684210527,
+                "topLeftY": 0.05555555555555555,
+                "width": 0.11483253588516747,
+                "height": 0.03111111111111111
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "selling",
+            "bounding_box": {
+                "topLeftX": 0.7619617224880383,
+                "topLeftY": 0.11666666666666667,
+                "width": 0.046052631578947366,
+                "height": 0.017777777777777778
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "imcclendon",
+            "bounding_box": {
+                "topLeftX": 0.7039473684210527,
+                "topLeftY": 0.05555555555555555,
+                "width": 0.11483253588516747,
+                "height": 0.03111111111111111
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "selling",
+            "bounding_box": {
+                "topLeftX": 0.7619617224880383,
+                "topLeftY": 0.11666666666666667,
+                "width": 0.046052631578947366,
+                "height": 0.017777777777777778
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "prices",
+            "bounding_box": {
+                "topLeftX": 0.80622009569378,
+                "topLeftY": 0.08222222222222222,
+                "width": 0.06339712918660287,
+                "height": 0.02
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "tx",
+            "bounding_box": {
+                "topLeftX": 0.8361244019138756,
+                "topLeftY": 0.11555555555555555,
+                "width": 0.013157894736842105,
+                "height": 0.01888888888888889
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "salesman's",
+            "bounding_box": {
+                "topLeftX": 0.7135167464114832,
+                "topLeftY": 0.016666666666666666,
+                "width": 0.056220095693779906,
+                "height": 0.01888888888888889
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "unit",
+            "bounding_box": {
+                "topLeftX": 0.7057416267942583,
+                "topLeftY": 0.11555555555555555,
+                "width": 0.02631578947368421,
+                "height": 0.017777777777777778
+            },
+            "attention_score": 0.5
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "image_number": 120,
+    "user_answer": "32709",
+    "correct_answer": "32709",
+    "last_fixation_attention": [
+        {
+            "word": "no.",
+            "bounding_box": {
+                "topLeftX": 0.7606263982102909,
+                "topLeftY": 0.2894736842105263,
+                "width": 0.035794183445190156,
+                "height": 0.023769100169779286
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "32709",
+            "bounding_box": {
+                "topLeftX": 0.8070469798657718,
+                "topLeftY": 0.28862478777589134,
+                "width": 0.05425055928411633,
+                "height": 0.02461799660441426
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "no.",
+            "bounding_box": {
+                "topLeftX": 0.7606263982102909,
+                "topLeftY": 0.2894736842105263,
+                "width": 0.035794183445190156,
+                "height": 0.023769100169779286
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "order",
+            "bounding_box": {
+                "topLeftX": 0.6940715883668904,
+                "topLeftY": 0.2894736842105263,
+                "width": 0.05425055928411633,
+                "height": 0.023769100169779286
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "12/28/60",
+            "bounding_box": {
+                "topLeftX": 0.7058165548098434,
+                "topLeftY": 0.3837011884550085,
+                "width": 0.09004474272930649,
+                "height": 0.028862478777589132
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "32709",
+            "bounding_box": {
+                "topLeftX": 0.8070469798657718,
+                "topLeftY": 0.28862478777589134,
+                "width": 0.05425055928411633,
+                "height": 0.02461799660441426
+            },
+            "attention_score": 1.0
+        }
+    ]
+}

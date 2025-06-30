@@ -1,0 +1,200 @@
+{
+    "image_number": 105,
+    "user_answer": "64476",
+    "correct_answer": "64476",
+    "last_fixation_attention": [],
+    "pre_typing_attention": [
+        {
+            "word": "order",
+            "bounding_box": {
+                "topLeftX": 0.6496062992125984,
+                "topLeftY": 0.25675675675675674,
+                "width": 0.05680539932508436,
+                "height": 0.02533783783783784
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "no.",
+            "bounding_box": {
+                "topLeftX": 0.7159730033745781,
+                "topLeftY": 0.25675675675675674,
+                "width": 0.03712035995500562,
+                "height": 0.02533783783783784
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "64476",
+            "bounding_box": {
+                "topLeftX": 0.7626546681664792,
+                "topLeftY": 0.25422297297297297,
+                "width": 0.05568053993250844,
+                "height": 0.02702702702702703
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "11-14-61",
+            "bounding_box": {
+                "topLeftX": 0.7632170978627671,
+                "topLeftY": 0.31841216216216217,
+                "width": 0.08830146231721035,
+                "height": 0.02533783783783784
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "to",
+            "bounding_box": {
+                "topLeftX": 0.5393700787401575,
+                "topLeftY": 0.8741554054054054,
+                "width": 0.031496062992125984,
+                "height": 0.04983108108108108
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "bur.",
+            "bounding_box": {
+                "topLeftX": 0.4628796400449944,
+                "topLeftY": 0.875,
+                "width": 0.07086614173228346,
+                "height": 0.05405405405405406
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "6",
+            "bounding_box": {
+                "topLeftX": 0.5871766029246345,
+                "topLeftY": 0.9214527027027027,
+                "width": 0.014623172103487065,
+                "height": 0.04054054054054054
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "hill",
+            "bounding_box": {
+                "topLeftX": 0.47862767154105734,
+                "topLeftY": 0.9239864864864865,
+                "width": 0.07311586051743532,
+                "height": 0.04054054054054054
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "https://www.industrydocuments.ucsf.edu/docs/phng0227",
+            "bounding_box": {
+                "topLeftX": 0.2997750281214848,
+                "topLeftY": 0.9653716216216216,
+                "width": 0.4645669291338583,
+                "height": 0.02702702702702703
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "/",
+            "bounding_box": {
+                "topLeftX": 0.6062992125984252,
+                "topLeftY": 0.9206081081081081,
+                "width": 0.010123734533183352,
+                "height": 0.04054054054054054
+            },
+            "attention_score": 0.5
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "to",
+            "bounding_box": {
+                "topLeftX": 0.5393700787401575,
+                "topLeftY": 0.8741554054054054,
+                "width": 0.031496062992125984,
+                "height": 0.04983108108108108
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "bur.",
+            "bounding_box": {
+                "topLeftX": 0.4628796400449944,
+                "topLeftY": 0.875,
+                "width": 0.07086614173228346,
+                "height": 0.05405405405405406
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "6",
+            "bounding_box": {
+                "topLeftX": 0.5871766029246345,
+                "topLeftY": 0.9214527027027027,
+                "width": 0.014623172103487065,
+                "height": 0.04054054054054054
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "hill",
+            "bounding_box": {
+                "topLeftX": 0.47862767154105734,
+                "topLeftY": 0.9239864864864865,
+                "width": 0.07311586051743532,
+                "height": 0.04054054054054054
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "https://www.industrydocuments.ucsf.edu/docs/phng0227",
+            "bounding_box": {
+                "topLeftX": 0.2997750281214848,
+                "topLeftY": 0.9653716216216216,
+                "width": 0.4645669291338583,
+                "height": 0.02702702702702703
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "/",
+            "bounding_box": {
+                "topLeftX": 0.6062992125984252,
+                "topLeftY": 0.9206081081081081,
+                "width": 0.010123734533183352,
+                "height": 0.04054054054054054
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "64476",
+            "bounding_box": {
+                "topLeftX": 0.7626546681664792,
+                "topLeftY": 0.25422297297297297,
+                "width": 0.05568053993250844,
+                "height": 0.02702702702702703
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "no.",
+            "bounding_box": {
+                "topLeftX": 0.7159730033745781,
+                "topLeftY": 0.25675675675675674,
+                "width": 0.03712035995500562,
+                "height": 0.02533783783783784
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "11-14-61",
+            "bounding_box": {
+                "topLeftX": 0.7632170978627671,
+                "topLeftY": 0.31841216216216217,
+                "width": 0.08830146231721035,
+                "height": 0.02533783783783784
+            },
+            "attention_score": 1.0
+        }
+    ]
+}

@@ -1,0 +1,220 @@
+{
+    "image_number": 160,
+    "user_answer": "0223-51781",
+    "correct_answer": "0223-51781",
+    "last_fixation_attention": [],
+    "pre_typing_attention": [
+        {
+            "word": "cb2",
+            "bounding_box": {
+                "topLeftX": 0.7435661764705882,
+                "topLeftY": 0.2967914438502674,
+                "width": 0.04411764705882353,
+                "height": 0.02807486631016043
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "tennis",
+            "bounding_box": {
+                "topLeftX": 0.6819852941176471,
+                "topLeftY": 0.22192513368983957,
+                "width": 0.08547794117647059,
+                "height": 0.026737967914438502
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "2",
+            "bounding_box": {
+                "topLeftX": 0.7169117647058824,
+                "topLeftY": 0.393048128342246,
+                "width": 0.017463235294117647,
+                "height": 0.03877005347593583
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "july",
+            "bounding_box": {
+                "topLeftX": 0.7490808823529411,
+                "topLeftY": 0.393048128342246,
+                "width": 0.06158088235294118,
+                "height": 0.040106951871657755
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "cambridge",
+            "bounding_box": {
+                "topLeftX": 0.7297794117647058,
+                "topLeftY": 0.25935828877005346,
+                "width": 0.14338235294117646,
+                "height": 0.026737967914438502
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "iqw",
+            "bounding_box": {
+                "topLeftX": 0.8023897058823529,
+                "topLeftY": 0.29812834224598933,
+                "width": 0.04411764705882353,
+                "height": 0.026737967914438502
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "acknowledge",
+            "bounding_box": {
+                "topLeftX": 0.27481617647058826,
+                "topLeftY": 0.4852941176470588,
+                "width": 0.171875,
+                "height": 0.04679144385026738
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "that",
+            "bounding_box": {
+                "topLeftX": 0.4522058823529412,
+                "topLeftY": 0.4852941176470588,
+                "width": 0.05606617647058824,
+                "height": 0.04679144385026738
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "is",
+            "bounding_box": {
+                "topLeftX": 0.21323529411764705,
+                "topLeftY": 0.4852941176470588,
+                "width": 0.02297794117647059,
+                "height": 0.0427807486631016
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "this",
+            "bounding_box": {
+                "topLeftX": 0.15257352941176472,
+                "topLeftY": 0.4852941176470588,
+                "width": 0.05514705882352941,
+                "height": 0.04144385026737968
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "during",
+            "bounding_box": {
+                "topLeftX": 0.15716911764705882,
+                "topLeftY": 0.643048128342246,
+                "width": 0.0900735294117647,
+                "height": 0.03877005347593583
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "28",
+            "bounding_box": {
+                "topLeftX": 0.15349264705882354,
+                "topLeftY": 0.5721925133689839,
+                "width": 0.03308823529411765,
+                "height": 0.0374331550802139
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "june",
+            "bounding_box": {
+                "topLeftX": 0.20220588235294118,
+                "topLeftY": 0.5735294117647058,
+                "width": 0.0625,
+                "height": 0.03877005347593583
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "-",
+            "bounding_box": {
+                "topLeftX": 0.2104779411764706,
+                "topLeftY": 0.2179144385026738,
+                "width": 0.012867647058823529,
+                "height": 0.03609625668449198
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "0223",
+            "bounding_box": {
+                "topLeftX": 0.15073529411764705,
+                "topLeftY": 0.2179144385026738,
+                "width": 0.05606617647058824,
+                "height": 0.03609625668449198
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "telephone:",
+            "bounding_box": {
+                "topLeftX": 0.058823529411764705,
+                "topLeftY": 0.2179144385026738,
+                "width": 0.08823529411764706,
+                "height": 0.034759358288770054
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "-",
+            "bounding_box": {
+                "topLeftX": 0.2104779411764706,
+                "topLeftY": 0.2179144385026738,
+                "width": 0.012867647058823529,
+                "height": 0.03609625668449198
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "0223",
+            "bounding_box": {
+                "topLeftX": 0.15073529411764705,
+                "topLeftY": 0.2179144385026738,
+                "width": 0.05606617647058824,
+                "height": 0.03609625668449198
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "telephone:",
+            "bounding_box": {
+                "topLeftX": 0.058823529411764705,
+                "topLeftY": 0.2179144385026738,
+                "width": 0.08823529411764706,
+                "height": 0.034759358288770054
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "51781",
+            "bounding_box": {
+                "topLeftX": 0.2270220588235294,
+                "topLeftY": 0.21524064171122995,
+                "width": 0.06066176470588235,
+                "height": 0.040106951871657755
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "https://www.industrydocuments.ucsf.edu/docs/kanb0228",
+            "bounding_box": {
+                "topLeftX": 0.17371323529411764,
+                "topLeftY": 0.9425133689839572,
+                "width": 0.765625,
+                "height": 0.0427807486631016
+            },
+            "attention_score": 0.3333333333333333
+        }
+    ]
+}

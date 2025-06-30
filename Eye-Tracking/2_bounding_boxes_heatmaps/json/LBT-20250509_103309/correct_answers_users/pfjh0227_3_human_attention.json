@@ -1,0 +1,201 @@
+{
+    "image_number": 190,
+    "user_answer": "McClendon",
+    "correct_answer": "mcclendon",
+    "last_fixation_attention": [
+        {
+            "word": "unit",
+            "bounding_box": {
+                "topLeftX": 0.7057416267942583,
+                "topLeftY": 0.11555555555555555,
+                "width": 0.02631578947368421,
+                "height": 0.017777777777777778
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "no.",
+            "bounding_box": {
+                "topLeftX": 0.6889952153110048,
+                "topLeftY": 0.015555555555555555,
+                "width": 0.02033492822966507,
+                "height": 0.02
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "salesman's",
+            "bounding_box": {
+                "topLeftX": 0.7135167464114832,
+                "topLeftY": 0.016666666666666666,
+                "width": 0.056220095693779906,
+                "height": 0.01888888888888889
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "unit",
+            "bounding_box": {
+                "topLeftX": 0.7057416267942583,
+                "topLeftY": 0.11555555555555555,
+                "width": 0.02631578947368421,
+                "height": 0.017777777777777778
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "imcclendon",
+            "bounding_box": {
+                "topLeftX": 0.7039473684210527,
+                "topLeftY": 0.05555555555555555,
+                "width": 0.11483253588516747,
+                "height": 0.03111111111111111
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "selling",
+            "bounding_box": {
+                "topLeftX": 0.7619617224880383,
+                "topLeftY": 0.11666666666666667,
+                "width": 0.046052631578947366,
+                "height": 0.017777777777777778
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "description",
+            "bounding_box": {
+                "topLeftX": 0.35107655502392343,
+                "topLeftY": 0.10222222222222223,
+                "width": 0.12021531100478469,
+                "height": 0.021111111111111112
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "no.",
+            "bounding_box": {
+                "topLeftX": 0.06160287081339713,
+                "topLeftY": 0.015555555555555555,
+                "width": 0.01674641148325359,
+                "height": 0.021111111111111112
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "ck",
+            "bounding_box": {
+                "topLeftX": 0.04665071770334928,
+                "topLeftY": 0.014444444444444444,
+                "width": 0.012559808612440191,
+                "height": 0.022222222222222223
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "|",
+            "bounding_box": {
+                "topLeftX": 0.08014354066985646,
+                "topLeftY": 0.015555555555555555,
+                "width": 0.005980861244019139,
+                "height": 0.021111111111111112
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "job",
+            "bounding_box": {
+                "topLeftX": 0.026913875598086126,
+                "topLeftY": 0.014444444444444444,
+                "width": 0.017344497607655503,
+                "height": 0.022222222222222223
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "no.",
+            "bounding_box": {
+                "topLeftX": 0.13815789473684212,
+                "topLeftY": 0.016666666666666666,
+                "width": 0.01555023923444976,
+                "height": 0.02
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "customer",
+            "bounding_box": {
+                "topLeftX": 0.08851674641148326,
+                "topLeftY": 0.016666666666666666,
+                "width": 0.04724880382775119,
+                "height": 0.02
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "8211",
+            "bounding_box": {
+                "topLeftX": 0.01854066985645933,
+                "topLeftY": 0.04555555555555556,
+                "width": 0.0430622009569378,
+                "height": 0.03
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "quantity",
+            "bounding_box": {
+                "topLeftX": 0.039473684210526314,
+                "topLeftY": 0.10333333333333333,
+                "width": 0.06578947368421052,
+                "height": 0.021111111111111112
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "name",
+            "bounding_box": {
+                "topLeftX": 0.7715311004784688,
+                "topLeftY": 0.015555555555555555,
+                "width": 0.028708133971291867,
+                "height": 0.01888888888888889
+            },
+            "attention_score": 0.5
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "unit",
+            "bounding_box": {
+                "topLeftX": 0.7057416267942583,
+                "topLeftY": 0.11555555555555555,
+                "width": 0.02631578947368421,
+                "height": 0.017777777777777778
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "imcclendon",
+            "bounding_box": {
+                "topLeftX": 0.7039473684210527,
+                "topLeftY": 0.05555555555555555,
+                "width": 0.11483253588516747,
+                "height": 0.03111111111111111
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "selling",
+            "bounding_box": {
+                "topLeftX": 0.7619617224880383,
+                "topLeftY": 0.11666666666666667,
+                "width": 0.046052631578947366,
+                "height": 0.017777777777777778
+            },
+            "attention_score": 1.0
+        }
+    ]
+}

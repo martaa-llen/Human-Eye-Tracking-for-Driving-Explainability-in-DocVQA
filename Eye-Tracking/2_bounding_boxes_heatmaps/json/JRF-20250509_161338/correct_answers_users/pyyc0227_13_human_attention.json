@@ -1,0 +1,139 @@
+{
+    "image_number": 98,
+    "user_answer": "21",
+    "correct_answer": "21",
+    "last_fixation_attention": [],
+    "pre_typing_attention": [
+        {
+            "word": "children",
+            "bounding_box": {
+                "topLeftX": 0.7425618540557469,
+                "topLeftY": 0.7619047619047619,
+                "width": 0.04008769182586909,
+                "height": 0.014005602240896359
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "ill",
+            "bounding_box": {
+                "topLeftX": 0.7240839336047604,
+                "topLeftY": 0.7623716153127917,
+                "width": 0.015659254619480114,
+                "height": 0.014005602240896359
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "health",
+            "bounding_box": {
+                "topLeftX": 0.7184466019417476,
+                "topLeftY": 0.7773109243697479,
+                "width": 0.030378953961791418,
+                "height": 0.01353874883286648
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "centers.",
+            "bounding_box": {
+                "topLeftX": 0.7528969621046038,
+                "topLeftY": 0.7773109243697479,
+                "width": 0.040400876918258694,
+                "height": 0.014005602240896359
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "those",
+            "bounding_box": {
+                "topLeftX": 0.7629188850610711,
+                "topLeftY": 0.8057889822595705,
+                "width": 0.02474162229877858,
+                "height": 0.014005602240896359
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "were",
+            "bounding_box": {
+                "topLeftX": 0.7381772627622926,
+                "topLeftY": 0.8062558356676004,
+                "width": 0.020357031005324145,
+                "height": 0.014005602240896359
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "21",
+            "bounding_box": {
+                "topLeftX": 0.7488255559035389,
+                "topLeftY": 0.9159663865546218,
+                "width": 0.007829627309740057,
+                "height": 0.012605042016806723
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "districts",
+            "bounding_box": {
+                "topLeftX": 0.6908863138114626,
+                "topLeftY": 0.8062558356676004,
+                "width": 0.043532727842154714,
+                "height": 0.014005602240896359
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "listed",
+            "bounding_box": {
+                "topLeftX": 0.7917319135609145,
+                "topLeftY": 0.8048552754435108,
+                "width": 0.029752583777012214,
+                "height": 0.014939309056956116
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "20",
+            "bounding_box": {
+                "topLeftX": 0.24585029752583776,
+                "topLeftY": 0.9150326797385621,
+                "width": 0.00845599749451926,
+                "height": 0.008870214752567693
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "x",
+            "bounding_box": {
+                "topLeftX": 0.2812402129658628,
+                "topLeftY": 0.8622782446311859,
+                "width": 0.005637331663012841,
+                "height": 0.013071895424836602
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "hebron",
+            "bounding_box": {
+                "topLeftX": 0.2928280613842781,
+                "topLeftY": 0.8907563025210085,
+                "width": 0.030065768869401818,
+                "height": 0.012605042016806723
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "nablus",
+            "bounding_box": {
+                "topLeftX": 0.2928280613842781,
+                "topLeftY": 0.8622782446311859,
+                "width": 0.03069213905418102,
+                "height": 0.012605042016806723
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": []
+}
