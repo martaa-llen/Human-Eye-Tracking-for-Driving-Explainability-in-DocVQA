@@ -1,4 +1,4 @@
-save_dir: "D:/tfg/TFG_FINAL/landscape_data_results" #"C:/Users/marta/tfg/landscape_data_results" #/data/PFL-DocVQA/models/
+save_dir: "Human-Eye-Tracking-for-Driving-Explainability-in-DocVQA/landascape_results" 
 model_name: VT5
 model_weights: rubentito/vt5-base-spdocvqa
 max_input_tokens: 512
