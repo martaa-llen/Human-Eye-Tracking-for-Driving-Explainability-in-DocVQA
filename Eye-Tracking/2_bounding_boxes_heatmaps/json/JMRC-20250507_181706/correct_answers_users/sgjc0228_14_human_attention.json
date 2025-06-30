@@ -1,0 +1,111 @@
+{
+    "image_number": 182,
+    "user_answer": "10/17/67",
+    "correct_answer": "10/17/67",
+    "last_fixation_attention": [
+        {
+            "word": "17/",
+            "bounding_box": {
+                "topLeftX": 0.18385650224215247,
+                "topLeftY": 0.29961089494163423,
+                "width": 0.045590433482810166,
+                "height": 0.0622568093385214
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "+",
+            "bounding_box": {
+                "topLeftX": 0.16218236173393125,
+                "topLeftY": 0.21141374837872892,
+                "width": 0.025411061285500747,
+                "height": 0.07652399481193256
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "10/",
+            "bounding_box": {
+                "topLeftX": 0.13228699551569506,
+                "topLeftY": 0.3035019455252918,
+                "width": 0.04708520179372197,
+                "height": 0.0609597924773022
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "lead",
+            "bounding_box": {
+                "topLeftX": 0.0515695067264574,
+                "topLeftY": 0.21660181582360571,
+                "width": 0.09715994020926756,
+                "height": 0.08949416342412451
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "67",
+            "bounding_box": {
+                "topLeftX": 0.23467862481315396,
+                "topLeftY": 0.29571984435797666,
+                "width": 0.04783258594917788,
+                "height": 0.0622568093385214
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "17/",
+            "bounding_box": {
+                "topLeftX": 0.18385650224215247,
+                "topLeftY": 0.29961089494163423,
+                "width": 0.045590433482810166,
+                "height": 0.0622568093385214
+            },
+            "attention_score": 0.5
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "+",
+            "bounding_box": {
+                "topLeftX": 0.16218236173393125,
+                "topLeftY": 0.21141374837872892,
+                "width": 0.025411061285500747,
+                "height": 0.07652399481193256
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "67",
+            "bounding_box": {
+                "topLeftX": 0.23467862481315396,
+                "topLeftY": 0.29571984435797666,
+                "width": 0.04783258594917788,
+                "height": 0.0622568093385214
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "17/",
+            "bounding_box": {
+                "topLeftX": 0.18385650224215247,
+                "topLeftY": 0.29961089494163423,
+                "width": 0.045590433482810166,
+                "height": 0.0622568093385214
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "10/",
+            "bounding_box": {
+                "topLeftX": 0.13228699551569506,
+                "topLeftY": 0.3035019455252918,
+                "width": 0.04708520179372197,
+                "height": 0.0609597924773022
+            },
+            "attention_score": 1.0
+        }
+    ]
+}
