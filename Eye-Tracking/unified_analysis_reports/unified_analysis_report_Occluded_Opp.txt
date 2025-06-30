@@ -1,0 +1,55 @@
+--- UNIFIED ANALYSIS REPORT ---
+
+--- 1. Overall Correlation by Model Answer Category ---
+    Average Correlation for model 'CORRECT' cases: -0.1871 (from 31 samples)
+    Average Correlation for model 'SEMI_CORRECT' cases: -0.2498 (from 14 samples)
+    Average Correlation for model 'WRONG' cases: -0.3929 (from 26 samples)
+
+--- 2. Attention Correlation by Question Type (Aggregated across all comparisons) ---
+    Average Correlation for 'ENTITY' questions: -0.2891 (from 18 samples)
+    Average Correlation for 'NUMERIC' questions: -0.1312 (from 21 samples)
+    Average Correlation for 'OTHER' questions: -0.3611 (from 32 samples)
+
+--- 3. Graduated Word Attention Overlap ---
+
+    --- Top-3 Overlap Analysis ---
+        Baseline: Human Correct
+            vs. Model 'CORRECT' cases: 15.79% overlap (from 19 samples)
+            vs. Model 'SEMI_CORRECT' cases: 4.76% overlap (from 7 samples)
+            vs. Model 'WRONG' cases: 0.00% overlap (from 14 samples)
+        Baseline: Human Semi Correct
+            vs. Model 'CORRECT' cases: 4.17% overlap (from 8 samples)
+            vs. Model 'SEMI_CORRECT' cases: 5.56% overlap (from 6 samples)
+            vs. Model 'WRONG' cases: 4.76% overlap (from 7 samples)
+        Baseline: Human Wrong
+            vs. Model 'CORRECT' cases: 16.67% overlap (from 4 samples)
+            vs. Model 'SEMI_CORRECT' cases: 0.00% overlap (from 1 samples)
+            vs. Model 'WRONG' cases: 6.67% overlap (from 5 samples)
+
+    --- Top-5 Overlap Analysis ---
+        Baseline: Human Correct
+            vs. Model 'CORRECT' cases: 14.74% overlap (from 19 samples)
+            vs. Model 'SEMI_CORRECT' cases: 11.43% overlap (from 7 samples)
+            vs. Model 'WRONG' cases: 0.00% overlap (from 14 samples)
+        Baseline: Human Semi Correct
+            vs. Model 'CORRECT' cases: 7.50% overlap (from 8 samples)
+            vs. Model 'SEMI_CORRECT' cases: 10.00% overlap (from 6 samples)
+            vs. Model 'WRONG' cases: 8.57% overlap (from 7 samples)
+        Baseline: Human Wrong
+            vs. Model 'CORRECT' cases: 15.00% overlap (from 4 samples)
+            vs. Model 'SEMI_CORRECT' cases: 20.00% overlap (from 1 samples)
+            vs. Model 'WRONG' cases: 4.00% overlap (from 5 samples)
+
+    --- Top-10 Overlap Analysis ---
+        Baseline: Human Correct
+            vs. Model 'CORRECT' cases: 13.68% overlap (from 19 samples)
+            vs. Model 'SEMI_CORRECT' cases: 15.71% overlap (from 7 samples)
+            vs. Model 'WRONG' cases: 3.57% overlap (from 14 samples)
+        Baseline: Human Semi Correct
+            vs. Model 'CORRECT' cases: 10.00% overlap (from 8 samples)
+            vs. Model 'SEMI_CORRECT' cases: 30.00% overlap (from 6 samples)
+            vs. Model 'WRONG' cases: 14.29% overlap (from 7 samples)
+        Baseline: Human Wrong
+            vs. Model 'CORRECT' cases: 15.00% overlap (from 4 samples)
+            vs. Model 'SEMI_CORRECT' cases: 10.00% overlap (from 1 samples)
+            vs. Model 'WRONG' cases: 6.00% overlap (from 5 samples)
