@@ -1,0 +1,81 @@
+{
+    "image_number": 149,
+    "user_answer": "4/2/80",
+    "correct_answer": "4/2/80",
+    "last_fixation_attention": [
+        {
+            "word": "4/2/80",
+            "bounding_box": {
+                "topLeftX": 0.8902600264433671,
+                "topLeftY": 0.035653650254668934,
+                "width": 0.045394446892904367,
+                "height": 0.01867572156196944
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "4/2/80",
+            "bounding_box": {
+                "topLeftX": 0.8902600264433671,
+                "topLeftY": 0.035653650254668934,
+                "width": 0.045394446892904367,
+                "height": 0.01867572156196944
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "4/2/80",
+            "bounding_box": {
+                "topLeftX": 0.8902600264433671,
+                "topLeftY": 0.035653650254668934,
+                "width": 0.045394446892904367,
+                "height": 0.01867572156196944
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "-",
+            "bounding_box": {
+                "topLeftX": 0.5883649184662847,
+                "topLeftY": 0.855121675155631,
+                "width": 0.004847950639048039,
+                "height": 0.01584606677985286
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "6",
+            "bounding_box": {
+                "topLeftX": 0.5945350374614368,
+                "topLeftY": 0.8556876061120543,
+                "width": 0.00749228735125606,
+                "height": 0.01584606677985286
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "ucsf.edu/docs/mynm0227",
+            "bounding_box": {
+                "topLeftX": 0.5473776994270604,
+                "topLeftY": 0.976796830786644,
+                "width": 0.16659321286910533,
+                "height": 0.01584606677985286
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "178",
+            "bounding_box": {
+                "topLeftX": 0.49757602468047596,
+                "topLeftY": 0.8602150537634409,
+                "width": 0.022036139268400177,
+                "height": 0.01584606677985286
+            },
+            "attention_score": 1.0
+        }
+    ]
+}

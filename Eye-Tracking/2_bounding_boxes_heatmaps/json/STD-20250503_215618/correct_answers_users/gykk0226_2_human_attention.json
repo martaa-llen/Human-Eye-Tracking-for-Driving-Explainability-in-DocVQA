@@ -1,0 +1,320 @@
+{
+    "image_number": 13,
+    "user_answer": "gw",
+    "correct_answer": "gw",
+    "last_fixation_attention": [
+        {
+            "word": "gw",
+            "bounding_box": {
+                "topLeftX": 0.13399503722084366,
+                "topLeftY": 0.045351473922902494,
+                "width": 0.05707196029776675,
+                "height": 0.049886621315192746
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "p.",
+            "bounding_box": {
+                "topLeftX": 0.09015715467328371,
+                "topLeftY": 0.1621315192743764,
+                "width": 0.022332506203473945,
+                "height": 0.032879818594104306
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "gw",
+            "bounding_box": {
+                "topLeftX": 0.13399503722084366,
+                "topLeftY": 0.045351473922902494,
+                "width": 0.05707196029776675,
+                "height": 0.049886621315192746
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "sugar",
+            "bounding_box": {
+                "topLeftX": 0.12241521918941274,
+                "topLeftY": 0.10770975056689343,
+                "width": 0.07526881720430108,
+                "height": 0.05215419501133787
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "o.",
+            "bounding_box": {
+                "topLeftX": 0.11662531017369727,
+                "topLeftY": 0.1621315192743764,
+                "width": 0.02729528535980149,
+                "height": 0.031746031746031744
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "box",
+            "bounding_box": {
+                "topLeftX": 0.1480562448304384,
+                "topLeftY": 0.1621315192743764,
+                "width": 0.043837882547559964,
+                "height": 0.031746031746031744
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "mis.",
+            "bounding_box": {
+                "topLeftX": 0.36889991728701405,
+                "topLeftY": 0.3526077097505669,
+                "width": 0.12241521918941274,
+                "height": 0.07369614512471655
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "mrs",
+            "bounding_box": {
+                "topLeftX": 0.4267990074441687,
+                "topLeftY": 0.4410430839002268,
+                "width": 0.05128205128205128,
+                "height": 0.035147392290249435
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "1827",
+            "bounding_box": {
+                "topLeftX": 0.4284532671629446,
+                "topLeftY": 0.47505668934240364,
+                "width": 0.06865177832919768,
+                "height": 0.036281179138321996
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "p",
+            "bounding_box": {
+                "topLeftX": 0.5252274607113316,
+                "topLeftY": 0.4421768707482993,
+                "width": 0.015715467328370553,
+                "height": 0.035147392290249435
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "c",
+            "bounding_box": {
+                "topLeftX": 0.49296939619520264,
+                "topLeftY": 0.4421768707482993,
+                "width": 0.015715467328370553,
+                "height": 0.035147392290249435
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "e",
+            "bounding_box": {
+                "topLeftX": 0.5095119933829612,
+                "topLeftY": 0.47732426303854875,
+                "width": 0.017369727047146403,
+                "height": 0.035147392290249435
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "cleveland",
+            "bounding_box": {
+                "topLeftX": 0.42431761786600497,
+                "topLeftY": 0.5170068027210885,
+                "width": 0.14971050454921422,
+                "height": 0.035147392290249435
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "lowa",
+            "bounding_box": {
+                "topLeftX": 0.14557485525227462,
+                "topLeftY": 0.20068027210884354,
+                "width": 0.055417700578990904,
+                "height": 0.030612244897959183
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "1441",
+            "bounding_box": {
+                "topLeftX": 0.1968569065343259,
+                "topLeftY": 0.16099773242630386,
+                "width": 0.04880066170388751,
+                "height": 0.034013605442176874
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "offers",
+            "bounding_box": {
+                "topLeftX": 0.20430107526881722,
+                "topLeftY": 0.10657596371882086,
+                "width": 0.07857733664185278,
+                "height": 0.05328798185941043
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "free",
+            "bounding_box": {
+                "topLeftX": 0.052109181141439205,
+                "topLeftY": 0.10770975056689343,
+                "width": 0.06286186931348221,
+                "height": 0.05102040816326531
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "clinton,",
+            "bounding_box": {
+                "topLeftX": 0.062034739454094295,
+                "topLeftY": 0.20068027210884354,
+                "width": 0.08023159636062861,
+                "height": 0.030612244897959183
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "u.",
+            "bounding_box": {
+                "topLeftX": 0.8130686517783292,
+                "topLeftY": 0.1473922902494331,
+                "width": 0.021505376344086023,
+                "height": 0.023809523809523808
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "s.",
+            "bounding_box": {
+                "topLeftX": 0.837055417700579,
+                "topLeftY": 0.1473922902494331,
+                "width": 0.0206782464846981,
+                "height": 0.023809523809523808
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "clinton,",
+            "bounding_box": {
+                "topLeftX": 0.8130686517783292,
+                "topLeftY": 0.2108843537414966,
+                "width": 0.06865177832919768,
+                "height": 0.023809523809523808
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "bulk",
+            "bounding_box": {
+                "topLeftX": 0.8296112489660876,
+                "topLeftY": 0.11791383219954649,
+                "width": 0.0380479735318445,
+                "height": 0.024943310657596373
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "no.",
+            "bounding_box": {
+                "topLeftX": 0.8660049627791563,
+                "topLeftY": 0.23809523809523808,
+                "width": 0.03391232423490488,
+                "height": 0.026077097505668934
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "lowa",
+            "bounding_box": {
+                "topLeftX": 0.8850289495450786,
+                "topLeftY": 0.2108843537414966,
+                "width": 0.043837882547559964,
+                "height": 0.023809523809523808
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "paid",
+            "bounding_box": {
+                "topLeftX": 0.8453267162944582,
+                "topLeftY": 0.18027210884353742,
+                "width": 0.04797353184449959,
+                "height": 0.024943310657596373
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "postage",
+            "bounding_box": {
+                "topLeftX": 0.8610421836228288,
+                "topLeftY": 0.1473922902494331,
+                "width": 0.06865177832919768,
+                "height": 0.027210884353741496
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "rate",
+            "bounding_box": {
+                "topLeftX": 0.8734491315136477,
+                "topLeftY": 0.11904761904761904,
+                "width": 0.03970223325062035,
+                "height": 0.023809523809523808
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "free",
+            "bounding_box": {
+                "topLeftX": 0.05293631100082713,
+                "topLeftY": 0.7380952380952381,
+                "width": 0.09511993382961124,
+                "height": 0.05215419501133787
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "you",
+            "bounding_box": {
+                "topLeftX": 0.08436724565756824,
+                "topLeftY": 0.8843537414965986,
+                "width": 0.0413564929693962,
+                "height": 0.026077097505668934
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "here's",
+            "bounding_box": {
+                "topLeftX": 0.10669975186104218,
+                "topLeftY": 0.6904761904761905,
+                "width": 0.07444168734491315,
+                "height": 0.027210884353741496
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "coupon",
+            "bounding_box": {
+                "topLeftX": 0.09181141439205956,
+                "topLeftY": 0.8163265306122449,
+                "width": 0.15467328370554176,
+                "height": 0.05215419501133787
+            },
+            "attention_score": 0.5
+        }
+    ],
+    "typing_attention": []
+}
