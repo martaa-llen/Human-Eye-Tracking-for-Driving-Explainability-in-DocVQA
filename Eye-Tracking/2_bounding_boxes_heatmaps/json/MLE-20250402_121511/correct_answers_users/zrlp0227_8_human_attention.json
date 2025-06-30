@@ -1,0 +1,90 @@
+{
+    "image_number": 199,
+    "user_answer": "16",
+    "correct_answer": "16",
+    "last_fixation_attention": [
+        {
+            "word": "n",
+            "bounding_box": {
+                "topLeftX": 0.266489597166888,
+                "topLeftY": 0.49117814456459874,
+                "width": 0.009738822487826471,
+                "height": 0.00910643141718839
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "outside",
+            "bounding_box": {
+                "topLeftX": 0.24081451969898185,
+                "topLeftY": 0.09391007398975526,
+                "width": 0.05887560867640549,
+                "height": 0.0199203187250996
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "n.",
+            "bounding_box": {
+                "topLeftX": 0.3045595396193006,
+                "topLeftY": 0.09391007398975526,
+                "width": 0.017264276228419653,
+                "height": 0.02105862265224815
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "y.",
+            "bounding_box": {
+                "topLeftX": 0.3244798583444002,
+                "topLeftY": 0.09447922595332954,
+                "width": 0.013722886232846392,
+                "height": 0.02105862265224815
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "worked",
+            "bounding_box": {
+                "topLeftX": 0.25852146967684814,
+                "topLeftY": 0.07285145133750712,
+                "width": 0.054891544931385566,
+                "height": 0.01935116676152533
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "days",
+            "bounding_box": {
+                "topLeftX": 0.26693227091633465,
+                "topLeftY": 0.05179282868525897,
+                "width": 0.03718459495351926,
+                "height": 0.017643710870802503
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "n",
+            "bounding_box": {
+                "topLeftX": 0.266489597166888,
+                "topLeftY": 0.49117814456459874,
+                "width": 0.009738822487826471,
+                "height": 0.00910643141718839
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "16",
+            "bounding_box": {
+                "topLeftX": 0.26117751217352814,
+                "topLeftY": 0.6983494593056346,
+                "width": 0.015493581230633024,
+                "height": 0.016505406943653957
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": []
+}

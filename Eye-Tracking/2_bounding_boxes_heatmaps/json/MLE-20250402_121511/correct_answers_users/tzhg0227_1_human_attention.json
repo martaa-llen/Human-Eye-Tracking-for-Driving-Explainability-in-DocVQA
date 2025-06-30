@@ -1,0 +1,80 @@
+{
+    "image_number": 209,
+    "user_answer": "dr. robert b. watson",
+    "correct_answer": "dr. robert b. watson",
+    "last_fixation_attention": [
+        {
+            "word": "fundacay",
+            "bounding_box": {
+                "topLeftX": 0.5701107011070111,
+                "topLeftY": 0.19852941176470587,
+                "width": 0.20571955719557194,
+                "height": 0.058823529411764705
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "robert",
+            "bounding_box": {
+                "topLeftX": 0.20018450184501846,
+                "topLeftY": 0.13529411764705881,
+                "width": 0.09870848708487084,
+                "height": 0.04411764705882353
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "bi",
+            "bounding_box": {
+                "topLeftX": 0.3081180811808118,
+                "topLeftY": 0.13676470588235295,
+                "width": 0.035977859778597784,
+                "height": 0.04411764705882353
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "watson",
+            "bounding_box": {
+                "topLeftX": 0.3514760147601476,
+                "topLeftY": 0.13676470588235295,
+                "width": 0.09686346863468635,
+                "height": 0.04411764705882353
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "dr.",
+            "bounding_box": {
+                "topLeftX": 0.13837638376383765,
+                "topLeftY": 0.13529411764705881,
+                "width": 0.052583025830258305,
+                "height": 0.04264705882352941
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "the",
+            "bounding_box": {
+                "topLeftX": 0.1392988929889299,
+                "topLeftY": 0.20588235294117646,
+                "width": 0.046125461254612546,
+                "height": 0.039705882352941174
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "fundacay",
+            "bounding_box": {
+                "topLeftX": 0.5701107011070111,
+                "topLeftY": 0.19852941176470587,
+                "width": 0.20571955719557194,
+                "height": 0.058823529411764705
+            },
+            "attention_score": 0.5
+        }
+    ],
+    "typing_attention": []
+}

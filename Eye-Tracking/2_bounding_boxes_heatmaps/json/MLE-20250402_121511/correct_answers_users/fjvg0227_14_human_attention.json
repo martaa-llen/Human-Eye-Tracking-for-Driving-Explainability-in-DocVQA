@@ -1,0 +1,370 @@
+{
+    "image_number": 76,
+    "user_answer": "State of Mossouri Office of Economic Opportunity",
+    "correct_answer": "state of missouri office of economic opportunity",
+    "last_fixation_attention": [],
+    "pre_typing_attention": [
+        {
+            "word": "agency",
+            "bounding_box": {
+                "topLeftX": 0.13612565445026178,
+                "topLeftY": 0.12212885154061624,
+                "width": 0.03926701570680628,
+                "height": 0.014565826330532213
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "missouri",
+            "bounding_box": {
+                "topLeftX": 0.13350785340314136,
+                "topLeftY": 0.13669467787114845,
+                "width": 0.06762652705061083,
+                "height": 0.017927170868347338
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "economic",
+            "bounding_box": {
+                "topLeftX": 0.2469458987783595,
+                "topLeftY": 0.08515406162464986,
+                "width": 0.05017452006980803,
+                "height": 0.014565826330532213
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "office",
+            "bounding_box": {
+                "topLeftX": 0.19022687609075042,
+                "topLeftY": 0.08459383753501401,
+                "width": 0.037521815008726006,
+                "height": 0.014565826330532213
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "program",
+            "bounding_box": {
+                "topLeftX": 0.1806282722513089,
+                "topLeftY": 0.10084033613445378,
+                "width": 0.06108202443280977,
+                "height": 0.01568627450980392
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "of",
+            "bounding_box": {
+                "topLeftX": 0.25392670157068065,
+                "topLeftY": 0.1361344537815126,
+                "width": 0.015706806282722512,
+                "height": 0.0196078431372549
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "of",
+            "bounding_box": {
+                "topLeftX": 0.2299301919720768,
+                "topLeftY": 0.08515406162464986,
+                "width": 0.014397905759162303,
+                "height": 0.014005602240896359
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "name",
+            "bounding_box": {
+                "topLeftX": 0.18106457242582896,
+                "topLeftY": 0.17871148459383754,
+                "width": 0.029232111692844676,
+                "height": 0.01568627450980392
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "office",
+            "bounding_box": {
+                "topLeftX": 0.20418848167539266,
+                "topLeftY": 0.1361344537815126,
+                "width": 0.04406631762652705,
+                "height": 0.01904761904761905
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "account",
+            "bounding_box": {
+                "topLeftX": 0.2513089005235602,
+                "topLeftY": 0.10028011204481793,
+                "width": 0.06195462478184991,
+                "height": 0.01680672268907563
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "-",
+            "bounding_box": {
+                "topLeftX": 0.3093368237347295,
+                "topLeftY": 0.1938375350140056,
+                "width": 0.010034904013961605,
+                "height": 0.020168067226890758
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "economic",
+            "bounding_box": {
+                "topLeftX": 0.2744328097731239,
+                "topLeftY": 0.13669467787114845,
+                "width": 0.0693717277486911,
+                "height": 0.020168067226890758
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "budget",
+            "bounding_box": {
+                "topLeftX": 0.31980802792321117,
+                "topLeftY": 0.10028011204481793,
+                "width": 0.05410122164048865,
+                "height": 0.017366946778711485
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "opportunity",
+            "bounding_box": {
+                "topLeftX": 0.29930191972076786,
+                "topLeftY": 0.08571428571428572,
+                "width": 0.06980802792321117,
+                "height": 0.014565826330532213
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "missouri",
+            "bounding_box": {
+                "topLeftX": 0.13350785340314136,
+                "topLeftY": 0.13669467787114845,
+                "width": 0.06762652705061083,
+                "height": 0.017927170868347338
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "economic",
+            "bounding_box": {
+                "topLeftX": 0.2469458987783595,
+                "topLeftY": 0.08515406162464986,
+                "width": 0.05017452006980803,
+                "height": 0.014565826330532213
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "general",
+            "bounding_box": {
+                "topLeftX": 0.17670157068062828,
+                "topLeftY": 0.19327731092436976,
+                "width": 0.061518324607329845,
+                "height": 0.020168067226890758
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "office",
+            "bounding_box": {
+                "topLeftX": 0.19022687609075042,
+                "topLeftY": 0.08459383753501401,
+                "width": 0.037521815008726006,
+                "height": 0.014565826330532213
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "program",
+            "bounding_box": {
+                "topLeftX": 0.1806282722513089,
+                "topLeftY": 0.10084033613445378,
+                "width": 0.06108202443280977,
+                "height": 0.01568627450980392
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "of",
+            "bounding_box": {
+                "topLeftX": 0.25392670157068065,
+                "topLeftY": 0.1361344537815126,
+                "width": 0.015706806282722512,
+                "height": 0.0196078431372549
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "of",
+            "bounding_box": {
+                "topLeftX": 0.2299301919720768,
+                "topLeftY": 0.08515406162464986,
+                "width": 0.014397905759162303,
+                "height": 0.014005602240896359
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "name",
+            "bounding_box": {
+                "topLeftX": 0.18106457242582896,
+                "topLeftY": 0.17871148459383754,
+                "width": 0.029232111692844676,
+                "height": 0.01568627450980392
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "office",
+            "bounding_box": {
+                "topLeftX": 0.20418848167539266,
+                "topLeftY": 0.1361344537815126,
+                "width": 0.04406631762652705,
+                "height": 0.01904761904761905
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "services",
+            "bounding_box": {
+                "topLeftX": 0.24040139616055847,
+                "topLeftY": 0.19327731092436976,
+                "width": 0.0650087260034904,
+                "height": 0.02072829131652661
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "account",
+            "bounding_box": {
+                "topLeftX": 0.2513089005235602,
+                "topLeftY": 0.10028011204481793,
+                "width": 0.06195462478184991,
+                "height": 0.01680672268907563
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "of",
+            "bounding_box": {
+                "topLeftX": 0.35820244328097733,
+                "topLeftY": 0.261624649859944,
+                "width": 0.013961605584642234,
+                "height": 0.014005602240896359
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "food",
+            "bounding_box": {
+                "topLeftX": 0.3228621291448517,
+                "topLeftY": 0.1938375350140056,
+                "width": 0.037085514834205933,
+                "height": 0.020168067226890758
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "-",
+            "bounding_box": {
+                "topLeftX": 0.3712914485165794,
+                "topLeftY": 0.08627450980392157,
+                "width": 0.005671902268760907,
+                "height": 0.014005602240896359
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "distribution",
+            "bounding_box": {
+                "topLeftX": 0.3634380453752182,
+                "topLeftY": 0.1938375350140056,
+                "width": 0.08726003490401396,
+                "height": 0.020168067226890758
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "program",
+            "bounding_box": {
+                "topLeftX": 0.4262652705061082,
+                "topLeftY": 0.1619047619047619,
+                "width": 0.0549738219895288,
+                "height": 0.014565826330532213
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "opportunity",
+            "bounding_box": {
+                "topLeftX": 0.349912739965096,
+                "topLeftY": 0.13725490196078433,
+                "width": 0.08376963350785341,
+                "height": 0.020168067226890758
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "support",
+            "bounding_box": {
+                "topLeftX": 0.38089005235602097,
+                "topLeftY": 0.10084033613445378,
+                "width": 0.060209424083769635,
+                "height": 0.017927170868347338
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "application",
+            "bounding_box": {
+                "topLeftX": 0.37914485165794065,
+                "topLeftY": 0.08627450980392157,
+                "width": 0.06588132635253054,
+                "height": 0.014005602240896359
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "budget",
+            "bounding_box": {
+                "topLeftX": 0.41404886561954624,
+                "topLeftY": 0.21792717086834734,
+                "width": 0.047556719022687606,
+                "height": 0.014005602240896359
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "item",
+            "bounding_box": {
+                "topLeftX": 0.3743455497382199,
+                "topLeftY": 0.26218487394957984,
+                "width": 0.02356020942408377,
+                "height": 0.013445378151260505
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "and",
+            "bounding_box": {
+                "topLeftX": 0.40095986038394416,
+                "topLeftY": 0.26218487394957984,
+                "width": 0.02050610820244328,
+                "height": 0.013445378151260505
+            },
+            "attention_score": 0.5
+        }
+    ]
+}

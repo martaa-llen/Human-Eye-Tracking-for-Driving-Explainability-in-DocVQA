@@ -1,0 +1,110 @@
+{
+    "image_number": 149,
+    "user_answer": "4/2/80",
+    "correct_answer": "4/2/80",
+    "last_fixation_attention": [],
+    "pre_typing_attention": [
+        {
+            "word": "table",
+            "bounding_box": {
+                "topLeftX": 0.3124724548259145,
+                "topLeftY": 0.08828522920203735,
+                "width": 0.04098721903922433,
+                "height": 0.021505376344086023
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "4.",
+            "bounding_box": {
+                "topLeftX": 0.35742617893345086,
+                "topLeftY": 0.08885116015846067,
+                "width": 0.01983252534156016,
+                "height": 0.021505376344086023
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "conduct",
+            "bounding_box": {
+                "topLeftX": 0.38651388276773907,
+                "topLeftY": 0.08941709111488398,
+                "width": 0.05729396209784046,
+                "height": 0.020939445387662705
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "and",
+            "bounding_box": {
+                "topLeftX": 0.43190832966064346,
+                "topLeftY": 0.11035653650254669,
+                "width": 0.0246804759806082,
+                "height": 0.01867572156196944
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "(in",
+            "bounding_box": {
+                "topLeftX": 0.3873953283384751,
+                "topLeftY": 0.12959818902093945,
+                "width": 0.022917584839136182,
+                "height": 0.017543859649122806
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "departments",
+            "bounding_box": {
+                "topLeftX": 0.3420008814455707,
+                "topLeftY": 0.11035653650254669,
+                "width": 0.08461877479065667,
+                "height": 0.01867572156196944
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "of",
+            "bounding_box": {
+                "topLeftX": 0.4468929043631556,
+                "topLeftY": 0.0899830220713073,
+                "width": 0.01851035698545615,
+                "height": 0.02037351443123939
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "4,",
+            "bounding_box": {
+                "topLeftX": 0.48171000440722783,
+                "topLeftY": 0.8596491228070176,
+                "width": 0.013662406346408109,
+                "height": 0.016411997736276173
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "www.industrydocuments",
+            "bounding_box": {
+                "topLeftX": 0.3834288232701631,
+                "topLeftY": 0.9773627617430674,
+                "width": 0.15954164830321726,
+                "height": 0.015280135823429542
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "178",
+            "bounding_box": {
+                "topLeftX": 0.49757602468047596,
+                "topLeftY": 0.8602150537634409,
+                "width": 0.022036139268400177,
+                "height": 0.01584606677985286
+            },
+            "attention_score": 1.0
+        }
+    ]
+}

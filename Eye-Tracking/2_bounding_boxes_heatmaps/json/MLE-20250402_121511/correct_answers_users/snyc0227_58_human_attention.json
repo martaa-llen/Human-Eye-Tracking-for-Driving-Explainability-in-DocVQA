@@ -1,0 +1,180 @@
+{
+    "image_number": 85,
+    "user_answer": "165.5",
+    "correct_answer": "165.5",
+    "last_fixation_attention": [
+        {
+            "word": "vi-1.",
+            "bounding_box": {
+                "topLeftX": 0.2467889908256881,
+                "topLeftY": 0.25,
+                "width": 0.0389908256880734,
+                "height": 0.01840855106888361
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "other",
+            "bounding_box": {
+                "topLeftX": 0.5,
+                "topLeftY": 0.2695961995249406,
+                "width": 0.036238532110091745,
+                "height": 0.016033254156769598
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "federation",
+            "bounding_box": {
+                "topLeftX": 0.4853211009174312,
+                "topLeftY": 0.2505938242280285,
+                "width": 0.07431192660550459,
+                "height": 0.0166270783847981
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "thailand",
+            "bounding_box": {
+                "topLeftX": 0.521559633027523,
+                "topLeftY": 0.30641330166270786,
+                "width": 0.05917431192660551,
+                "height": 0.016033254156769598
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "(2",
+            "bounding_box": {
+                "topLeftX": 0.6100917431192661,
+                "topLeftY": 0.34323040380047504,
+                "width": 0.01055045871559633,
+                "height": 0.0166270783847981
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "malaya",
+            "bounding_box": {
+                "topLeftX": 0.5857798165137614,
+                "topLeftY": 0.2505938242280285,
+                "width": 0.046788990825688076,
+                "height": 0.016033254156769598
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "(1)1/",
+            "bounding_box": {
+                "topLeftX": 0.5380733944954128,
+                "topLeftY": 0.33788598574821854,
+                "width": 0.03211009174311927,
+                "height": 0.021377672209026127
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "of",
+            "bounding_box": {
+                "topLeftX": 0.5642201834862385,
+                "topLeftY": 0.2505938242280285,
+                "width": 0.016972477064220184,
+                "height": 0.016033254156769598
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "vietnam",
+            "bounding_box": {
+                "topLeftX": 0.5935779816513761,
+                "topLeftY": 0.30760095011876487,
+                "width": 0.05045871559633028,
+                "height": 0.015439429928741092
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "countries",
+            "bounding_box": {
+                "topLeftX": 0.5435779816513762,
+                "topLeftY": 0.2695961995249406,
+                "width": 0.06559633027522936,
+                "height": 0.015439429928741092
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "armed",
+            "bounding_box": {
+                "topLeftX": 0.6371559633027523,
+                "topLeftY": 0.2505938242280285,
+                "width": 0.038073394495412846,
+                "height": 0.016033254156769598
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "165.5",
+            "bounding_box": {
+                "topLeftX": 0.2536697247706422,
+                "topLeftY": 0.36045130641330164,
+                "width": 0.036238532110091745,
+                "height": 0.019002375296912115
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "vi-1.",
+            "bounding_box": {
+                "topLeftX": 0.2467889908256881,
+                "topLeftY": 0.25,
+                "width": 0.0389908256880734,
+                "height": 0.01840855106888361
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "table",
+            "bounding_box": {
+                "topLeftX": 0.2036697247706422,
+                "topLeftY": 0.25,
+                "width": 0.03761467889908257,
+                "height": 0.01840855106888361
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "(cm)",
+            "bounding_box": {
+                "topLeftX": 0.21238532110091743,
+                "topLeftY": 0.36282660332541566,
+                "width": 0.025688073394495414,
+                "height": 0.01840855106888361
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "malays",
+            "bounding_box": {
+                "topLeftX": 0.25229357798165136,
+                "topLeftY": 0.34501187648456055,
+                "width": 0.0463302752293578,
+                "height": 0.0166270783847981
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "height,",
+            "bounding_box": {
+                "topLeftX": 0.2963302752293578,
+                "topLeftY": 0.25,
+                "width": 0.054587155963302755,
+                "height": 0.017814726840855107
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": []
+}

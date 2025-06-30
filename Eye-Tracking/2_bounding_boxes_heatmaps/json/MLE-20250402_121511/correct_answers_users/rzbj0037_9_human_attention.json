@@ -1,0 +1,70 @@
+{
+    "image_number": 1,
+    "user_answer": "100",
+    "correct_answer": "100",
+    "last_fixation_attention": [
+        {
+            "word": "index",
+            "bounding_box": {
+                "topLeftX": 0.7089871611982882,
+                "topLeftY": 0.33915211970074816,
+                "width": 0.048026628625772706,
+                "height": 0.023067331670822942
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "index",
+            "bounding_box": {
+                "topLeftX": 0.7089871611982882,
+                "topLeftY": 0.33915211970074816,
+                "width": 0.048026628625772706,
+                "height": 0.023067331670822942
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "franchise:",
+            "bounding_box": {
+                "topLeftX": 0.38135996195910604,
+                "topLeftY": 0.385286783042394,
+                "width": 0.09082263433190679,
+                "height": 0.02493765586034913
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "of",
+            "bounding_box": {
+                "topLeftX": 0.3609129814550642,
+                "topLeftY": 0.3859102244389027,
+                "width": 0.017118402282453638,
+                "height": 0.024314214463840397
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "dynamics",
+            "bounding_box": {
+                "topLeftX": 0.5558725630052306,
+                "topLeftY": 0.19513715710723192,
+                "width": 0.15026153114598192,
+                "height": 0.046758104738154616
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "(100)",
+            "bounding_box": {
+                "topLeftX": 0.7142177841179268,
+                "topLeftY": 0.3859102244389027,
+                "width": 0.04089396100808369,
+                "height": 0.02493765586034913
+            },
+            "attention_score": 0.5
+        }
+    ],
+    "typing_attention": []
+}

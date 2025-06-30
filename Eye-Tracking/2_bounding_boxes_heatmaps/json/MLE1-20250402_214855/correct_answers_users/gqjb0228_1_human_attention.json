@@ -1,0 +1,101 @@
+{
+    "image_number": 158,
+    "user_answer": "dr william j. darby",
+    "correct_answer": "dr. william j. darby",
+    "last_fixation_attention": [
+        {
+            "word": "source:",
+            "bounding_box": {
+                "topLeftX": 0.19884910485933505,
+                "topLeftY": 0.9495192307692307,
+                "width": 0.07352941176470588,
+                "height": 0.036057692307692304
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "it",
+            "bounding_box": {
+                "topLeftX": 0.42710997442455245,
+                "topLeftY": 0.3173076923076923,
+                "width": 0.010869565217391304,
+                "height": 0.025240384615384616
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "dr.",
+            "bounding_box": {
+                "topLeftX": 0.41048593350383633,
+                "topLeftY": 0.47596153846153844,
+                "width": 0.03516624040920716,
+                "height": 0.03125
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "vanderbilt",
+            "bounding_box": {
+                "topLeftX": 0.41048593350383633,
+                "topLeftY": 0.5204326923076923,
+                "width": 0.11061381074168798,
+                "height": 0.03485576923076923
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "source:",
+            "bounding_box": {
+                "topLeftX": 0.19884910485933505,
+                "topLeftY": 0.9495192307692307,
+                "width": 0.07352941176470588,
+                "height": 0.036057692307692304
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "dr.",
+            "bounding_box": {
+                "topLeftX": 0.41048593350383633,
+                "topLeftY": 0.47596153846153844,
+                "width": 0.03516624040920716,
+                "height": 0.03125
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "william",
+            "bounding_box": {
+                "topLeftX": 0.4539641943734015,
+                "topLeftY": 0.47596153846153844,
+                "width": 0.07608695652173914,
+                "height": 0.036057692307692304
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "division",
+            "bounding_box": {
+                "topLeftX": 0.409846547314578,
+                "topLeftY": 0.5588942307692307,
+                "width": 0.08823529411764706,
+                "height": 0.036057692307692304
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "vanderbilt",
+            "bounding_box": {
+                "topLeftX": 0.41048593350383633,
+                "topLeftY": 0.5204326923076923,
+                "width": 0.11061381074168798,
+                "height": 0.03485576923076923
+            },
+            "attention_score": 1.0
+        }
+    ]
+}

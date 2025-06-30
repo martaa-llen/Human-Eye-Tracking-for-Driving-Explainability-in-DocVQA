@@ -1,0 +1,19 @@
+{
+    "image_number": 167,
+    "user_answer": "frequency distribution of weight deviation ",
+    "correct_answer": "frequency distribution of weight deviation",
+    "last_fixation_attention": [],
+    "pre_typing_attention": [
+        {
+            "word": "frequency",
+            "bounding_box": {
+                "topLeftX": 0.14957833999112294,
+                "topLeftY": 0.037714285714285714,
+                "width": 0.16866400355082112,
+                "height": 0.036
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": []
+}

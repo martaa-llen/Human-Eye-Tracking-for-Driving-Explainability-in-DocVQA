@@ -1,0 +1,160 @@
+{
+    "image_number": 83,
+    "user_answer": "261F",
+    "correct_answer": "261f",
+    "last_fixation_attention": [
+        {
+            "word": "intermediate",
+            "bounding_box": {
+                "topLeftX": 0.5146310432569975,
+                "topLeftY": 0.37982565379825656,
+                "width": 0.1405852417302799,
+                "height": 0.024906600249066
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "you",
+            "bounding_box": {
+                "topLeftX": 0.5178117048346056,
+                "topLeftY": 0.35367372353673726,
+                "width": 0.04198473282442748,
+                "height": 0.024906600249066
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "please",
+            "bounding_box": {
+                "topLeftX": 0.5159033078880407,
+                "topLeftY": 0.32503113325031135,
+                "width": 0.0737913486005089,
+                "height": 0.024906600249066
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "boarding",
+            "bounding_box": {
+                "topLeftX": 0.5146310432569975,
+                "topLeftY": 0.2752179327521793,
+                "width": 0.13676844783715011,
+                "height": 0.034869240348692404
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "carry",
+            "bounding_box": {
+                "topLeftX": 0.594147582697201,
+                "topLeftY": 0.32378580323785805,
+                "width": 0.058524173027989825,
+                "height": 0.024283935242839352
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "when",
+            "bounding_box": {
+                "topLeftX": 0.5642493638676844,
+                "topLeftY": 0.35367372353673726,
+                "width": 0.05979643765903308,
+                "height": 0.024906600249066
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "no.",
+            "bounding_box": {
+                "topLeftX": 0.5954198473282443,
+                "topLeftY": 0.4290161892901619,
+                "width": 0.027989821882951654,
+                "height": 0.0186799501867995
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "intermediate",
+            "bounding_box": {
+                "topLeftX": 0.5146310432569975,
+                "topLeftY": 0.37982565379825656,
+                "width": 0.1405852417302799,
+                "height": 0.024906600249066
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "flight",
+            "bounding_box": {
+                "topLeftX": 0.5356234096692112,
+                "topLeftY": 0.4290161892901619,
+                "width": 0.056615776081424936,
+                "height": 0.0186799501867995
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "261",
+            "bounding_box": {
+                "topLeftX": 0.5381679389312977,
+                "topLeftY": 0.4688667496886675,
+                "width": 0.07824427480916031,
+                "height": 0.05666251556662515
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "a",
+            "bounding_box": {
+                "topLeftX": 0.6259541984732825,
+                "topLeftY": 0.46948941469489414,
+                "width": 0.035623409669211195,
+                "height": 0.05790784557907846
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "it",
+            "bounding_box": {
+                "topLeftX": 0.6577608142493638,
+                "topLeftY": 0.3231631382316314,
+                "width": 0.019720101781170483,
+                "height": 0.024283935242839352
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "with",
+            "bounding_box": {
+                "topLeftX": 0.6819338422391857,
+                "topLeftY": 0.3219178082191781,
+                "width": 0.047073791348600506,
+                "height": 0.025529265255292654
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "deplaning",
+            "bounding_box": {
+                "topLeftX": 0.6323155216284987,
+                "topLeftY": 0.35242839352428396,
+                "width": 0.10305343511450382,
+                "height": 0.025529265255292654
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "points!",
+            "bounding_box": {
+                "topLeftX": 0.6596692111959288,
+                "topLeftY": 0.3804483188044832,
+                "width": 0.08015267175572519,
+                "height": 0.024906600249066
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": []
+}

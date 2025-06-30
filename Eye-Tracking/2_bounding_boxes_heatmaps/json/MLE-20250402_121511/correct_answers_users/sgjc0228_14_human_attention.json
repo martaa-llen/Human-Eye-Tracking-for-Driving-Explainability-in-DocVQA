@@ -1,0 +1,221 @@
+{
+    "image_number": 182,
+    "user_answer": "10/17/67",
+    "correct_answer": "10/17/67",
+    "last_fixation_attention": [
+        {
+            "word": "deposited",
+            "bounding_box": {
+                "topLeftX": 0.19282511210762332,
+                "topLeftY": 0.19844357976653695,
+                "width": 0.16591928251121077,
+                "height": 0.08560311284046693
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "+",
+            "bounding_box": {
+                "topLeftX": 0.16218236173393125,
+                "topLeftY": 0.21141374837872892,
+                "width": 0.025411061285500747,
+                "height": 0.07652399481193256
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "17/",
+            "bounding_box": {
+                "topLeftX": 0.18385650224215247,
+                "topLeftY": 0.29961089494163423,
+                "width": 0.045590433482810166,
+                "height": 0.0622568093385214
+            },
+            "attention_score": 0.75
+        },
+        {
+            "word": "l.a.",
+            "bounding_box": {
+                "topLeftX": 0.11659192825112108,
+                "topLeftY": 0.10765239948119326,
+                "width": 0.08370702541106129,
+                "height": 0.08041504539559015
+            },
+            "attention_score": 0.75
+        },
+        {
+            "word": "deposited",
+            "bounding_box": {
+                "topLeftX": 0.19282511210762332,
+                "topLeftY": 0.19844357976653695,
+                "width": 0.16591928251121077,
+                "height": 0.08560311284046693
+            },
+            "attention_score": 0.75
+        },
+        {
+            "word": "67",
+            "bounding_box": {
+                "topLeftX": 0.23467862481315396,
+                "topLeftY": 0.29571984435797666,
+                "width": 0.04783258594917788,
+                "height": 0.0622568093385214
+            },
+            "attention_score": 0.75
+        },
+        {
+            "word": "maynard",
+            "bounding_box": {
+                "topLeftX": 0.2085201793721973,
+                "topLeftY": 0.10765239948119326,
+                "width": 0.17787742899850523,
+                "height": 0.07652399481193256
+            },
+            "attention_score": 0.75
+        },
+        {
+            "word": "lead",
+            "bounding_box": {
+                "topLeftX": 0.0515695067264574,
+                "topLeftY": 0.21660181582360571,
+                "width": 0.09715994020926756,
+                "height": 0.08949416342412451
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "10/",
+            "bounding_box": {
+                "topLeftX": 0.13228699551569506,
+                "topLeftY": 0.3035019455252918,
+                "width": 0.04708520179372197,
+                "height": 0.0609597924773022
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "d.",
+            "bounding_box": {
+                "topLeftX": 0.053064275037369206,
+                "topLeftY": 0.10765239948119326,
+                "width": 0.05530642750373692,
+                "height": 0.08430609597924774
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "oct",
+            "bounding_box": {
+                "topLeftX": 0.5,
+                "topLeftY": 0.17509727626459143,
+                "width": 0.0343796711509716,
+                "height": 0.0324254215304799
+            },
+            "attention_score": 0.25
+        },
+        {
+            "word": "thaca",
+            "bounding_box": {
+                "topLeftX": 0.476831091180867,
+                "topLeftY": 0.10376134889753567,
+                "width": 0.06950672645739911,
+                "height": 0.08949416342412451
+            },
+            "attention_score": 0.25
+        },
+        {
+            "word": "15",
+            "bounding_box": {
+                "topLeftX": 0.5366218236173393,
+                "topLeftY": 0.17380025940337224,
+                "width": 0.01868460388639761,
+                "height": 0.029831387808041506
+            },
+            "attention_score": 0.25
+        },
+        {
+            "word": "#8.",
+            "bounding_box": {
+                "topLeftX": 0.061285500747384154,
+                "topLeftY": 0.3852140077821012,
+                "width": 0.05754857997010463,
+                "height": 0.07522697795071336
+            },
+            "attention_score": 0.25
+        },
+        {
+            "word": "50",
+            "bounding_box": {
+                "topLeftX": 0.12630792227204785,
+                "topLeftY": 0.38261997405966275,
+                "width": 0.04110612855007474,
+                "height": 0.07522697795071336
+            },
+            "attention_score": 0.25
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "source:",
+            "bounding_box": {
+                "topLeftX": 0.14947683109118087,
+                "topLeftY": 0.9442282749675746,
+                "width": 0.08594917787742899,
+                "height": 0.03761348897535668
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "https://www.industrydocuments.ucsf.edu/docs/sgic0228",
+            "bounding_box": {
+                "topLeftX": 0.23916292974588937,
+                "topLeftY": 0.9416342412451362,
+                "width": 0.6143497757847534,
+                "height": 0.040207522697795074
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "+",
+            "bounding_box": {
+                "topLeftX": 0.16218236173393125,
+                "topLeftY": 0.21141374837872892,
+                "width": 0.025411061285500747,
+                "height": 0.07652399481193256
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "l.a.",
+            "bounding_box": {
+                "topLeftX": 0.11659192825112108,
+                "topLeftY": 0.10765239948119326,
+                "width": 0.08370702541106129,
+                "height": 0.08041504539559015
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "lead",
+            "bounding_box": {
+                "topLeftX": 0.0515695067264574,
+                "topLeftY": 0.21660181582360571,
+                "width": 0.09715994020926756,
+                "height": 0.08949416342412451
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "10/",
+            "bounding_box": {
+                "topLeftX": 0.13228699551569506,
+                "topLeftY": 0.3035019455252918,
+                "width": 0.04708520179372197,
+                "height": 0.0609597924773022
+            },
+            "attention_score": 1.0
+        }
+    ]
+}

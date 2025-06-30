@@ -1,0 +1,150 @@
+{
+    "image_number": 160,
+    "user_answer": "0223-51781",
+    "correct_answer": "0223-51781",
+    "last_fixation_attention": [],
+    "pre_typing_attention": [
+        {
+            "word": "is",
+            "bounding_box": {
+                "topLeftX": 0.21323529411764705,
+                "topLeftY": 0.4852941176470588,
+                "width": 0.02297794117647059,
+                "height": 0.0427807486631016
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "this",
+            "bounding_box": {
+                "topLeftX": 0.15257352941176472,
+                "topLeftY": 0.4852941176470588,
+                "width": 0.05514705882352941,
+                "height": 0.04144385026737968
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "to",
+            "bounding_box": {
+                "topLeftX": 0.2417279411764706,
+                "topLeftY": 0.4852941176470588,
+                "width": 0.027573529411764705,
+                "height": 0.04411764705882353
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "june",
+            "bounding_box": {
+                "topLeftX": 0.20220588235294118,
+                "topLeftY": 0.5735294117647058,
+                "width": 0.0625,
+                "height": 0.03877005347593583
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "cb2",
+            "bounding_box": {
+                "topLeftX": 0.7435661764705882,
+                "topLeftY": 0.2967914438502674,
+                "width": 0.04411764705882353,
+                "height": 0.02807486631016043
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "tennis",
+            "bounding_box": {
+                "topLeftX": 0.6819852941176471,
+                "topLeftY": 0.22192513368983957,
+                "width": 0.08547794117647059,
+                "height": 0.026737967914438502
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "cambridge",
+            "bounding_box": {
+                "topLeftX": 0.7297794117647058,
+                "topLeftY": 0.25935828877005346,
+                "width": 0.14338235294117646,
+                "height": 0.026737967914438502
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "courtroad",
+            "bounding_box": {
+                "topLeftX": 0.7711397058823529,
+                "topLeftY": 0.22192513368983957,
+                "width": 0.15165441176470587,
+                "height": 0.026737967914438502
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "your",
+            "bounding_box": {
+                "topLeftX": 0.5137867647058824,
+                "topLeftY": 0.4852941176470588,
+                "width": 0.06158088235294118,
+                "height": 0.04679144385026738
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "communication",
+            "bounding_box": {
+                "topLeftX": 0.5808823529411765,
+                "topLeftY": 0.4852941176470588,
+                "width": 0.20772058823529413,
+                "height": 0.045454545454545456
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "has",
+            "bounding_box": {
+                "topLeftX": 0.5854779411764706,
+                "topLeftY": 0.5762032085561497,
+                "width": 0.04595588235294118,
+                "height": 0.0427807486631016
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "absence",
+            "bounding_box": {
+                "topLeftX": 0.5431985294117647,
+                "topLeftY": 0.643048128342246,
+                "width": 0.11029411764705882,
+                "height": 0.040106951871657755
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "been",
+            "bounding_box": {
+                "topLeftX": 0.6369485294117647,
+                "topLeftY": 0.5748663101604278,
+                "width": 0.06341911764705882,
+                "height": 0.0427807486631016
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "-",
+            "bounding_box": {
+                "topLeftX": 0.2104779411764706,
+                "topLeftY": 0.2179144385026738,
+                "width": 0.012867647058823529,
+                "height": 0.03609625668449198
+            },
+            "attention_score": 1.0
+        }
+    ]
+}

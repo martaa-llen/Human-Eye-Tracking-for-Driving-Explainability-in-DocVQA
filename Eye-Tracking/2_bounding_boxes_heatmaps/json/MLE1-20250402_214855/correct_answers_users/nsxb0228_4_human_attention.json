@@ -1,0 +1,381 @@
+{
+    "image_number": 163,
+    "user_answer": "12/20/71",
+    "correct_answer": "12/20/71",
+    "last_fixation_attention": [
+        {
+            "word": "b13057",
+            "bounding_box": {
+                "topLeftX": 0.8270223752151463,
+                "topLeftY": 0.09658421672555949,
+                "width": 0.10240963855421686,
+                "height": 0.03769140164899882
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "the",
+            "bounding_box": {
+                "topLeftX": 0.3089500860585198,
+                "topLeftY": 0.21790341578327443,
+                "width": 0.04561101549053356,
+                "height": 0.03415783274440518
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "vanderbilt",
+            "bounding_box": {
+                "topLeftX": 0.1927710843373494,
+                "topLeftY": 0.13898704358068315,
+                "width": 0.26592082616179,
+                "height": 0.04122497055359246
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "ms",
+            "bounding_box": {
+                "topLeftX": 0.28055077452667815,
+                "topLeftY": 0.6654888103651354,
+                "width": 0.03442340791738382,
+                "height": 0.02944640753828033
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "miss",
+            "bounding_box": {
+                "topLeftX": 0.2099827882960413,
+                "topLeftY": 0.7031802120141343,
+                "width": 0.07056798623063683,
+                "height": 0.03415783274440518
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "2910",
+            "bounding_box": {
+                "topLeftX": 0.2134251290877797,
+                "topLeftY": 0.7856301531213192,
+                "width": 0.06626506024096386,
+                "height": 0.03415783274440518
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "chihuahua",
+            "bounding_box": {
+                "topLeftX": 0.21084337349397592,
+                "topLeftY": 0.8268551236749117,
+                "width": 0.15920826161790017,
+                "height": 0.03297997644287397
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "col",
+            "bounding_box": {
+                "topLeftX": 0.29862306368330466,
+                "topLeftY": 0.7856301531213192,
+                "width": 0.05163511187607573,
+                "height": 0.03415783274440518
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "58",
+            "bounding_box": {
+                "topLeftX": 0.3347676419965577,
+                "topLeftY": 0.6654888103651354,
+                "width": 0.03270223752151463,
+                "height": 0.030624263839811542
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "bustamante",
+            "bounding_box": {
+                "topLeftX": 0.2117039586919105,
+                "topLeftY": 0.7455830388692579,
+                "width": 0.1738382099827883,
+                "height": 0.03297997644287397
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "m",
+            "bounding_box": {
+                "topLeftX": 0.2977624784853701,
+                "topLeftY": 0.7031802120141343,
+                "width": 0.016351118760757316,
+                "height": 0.03415783274440518
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "derbilt",
+            "bounding_box": {
+                "topLeftX": 0.27969018932874357,
+                "topLeftY": 0.8857479387514723,
+                "width": 0.06282271944922548,
+                "height": 0.024734982332155476
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "00",
+            "bounding_box": {
+                "topLeftX": 0.1919104991394148,
+                "topLeftY": 0.3415783274440518,
+                "width": 0.035283993115318414,
+                "height": 0.0353356890459364
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "$80.",
+            "bounding_box": {
+                "topLeftX": 0.12392426850258176,
+                "topLeftY": 0.34275618374558303,
+                "width": 0.06368330464716007,
+                "height": 0.03415783274440518
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "(check",
+            "bounding_box": {
+                "topLeftX": 0.12564543889845095,
+                "topLeftY": 0.3839811542991755,
+                "width": 0.09982788296041308,
+                "height": 0.03415783274440518
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "duplicate",
+            "bounding_box": {
+                "topLeftX": 0.6497418244406197,
+                "topLeftY": 0.10011778563015312,
+                "width": 0.15834767641996558,
+                "height": 0.03297997644287397
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "b13057",
+            "bounding_box": {
+                "topLeftX": 0.8270223752151463,
+                "topLeftY": 0.09658421672555949,
+                "width": 0.10240963855421686,
+                "height": 0.03769140164899882
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "living",
+            "bounding_box": {
+                "topLeftX": 0.36058519793459554,
+                "topLeftY": 0.21790341578327443,
+                "width": 0.08261617900172118,
+                "height": 0.0353356890459364
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "acknowledges",
+            "bounding_box": {
+                "topLeftX": 0.42168674698795183,
+                "topLeftY": 0.26383981154299174,
+                "width": 0.16523235800344235,
+                "height": 0.05889281507656066
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "b13057",
+            "bounding_box": {
+                "topLeftX": 0.8270223752151463,
+                "topLeftY": 0.09658421672555949,
+                "width": 0.10240963855421686,
+                "height": 0.03769140164899882
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "fund",
+            "bounding_box": {
+                "topLeftX": 0.7048192771084337,
+                "topLeftY": 0.3380447585394582,
+                "width": 0.06712564543889846,
+                "height": 0.0353356890459364
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "6211-4835-085-12",
+            "bounding_box": {
+                "topLeftX": 0.6523235800344234,
+                "topLeftY": 0.4994110718492344,
+                "width": 0.27969018932874357,
+                "height": 0.038869257950530034
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "ms",
+            "bounding_box": {
+                "topLeftX": 0.28055077452667815,
+                "topLeftY": 0.6654888103651354,
+                "width": 0.03442340791738382,
+                "height": 0.02944640753828033
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "miss",
+            "bounding_box": {
+                "topLeftX": 0.2099827882960413,
+                "topLeftY": 0.7031802120141343,
+                "width": 0.07056798623063683,
+                "height": 0.03415783274440518
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "2910",
+            "bounding_box": {
+                "topLeftX": 0.2134251290877797,
+                "topLeftY": 0.7856301531213192,
+                "width": 0.06626506024096386,
+                "height": 0.03415783274440518
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "chihuahua",
+            "bounding_box": {
+                "topLeftX": 0.21084337349397592,
+                "topLeftY": 0.8268551236749117,
+                "width": 0.15920826161790017,
+                "height": 0.03297997644287397
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "col",
+            "bounding_box": {
+                "topLeftX": 0.29862306368330466,
+                "topLeftY": 0.7856301531213192,
+                "width": 0.05163511187607573,
+                "height": 0.03415783274440518
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "58",
+            "bounding_box": {
+                "topLeftX": 0.3347676419965577,
+                "topLeftY": 0.6654888103651354,
+                "width": 0.03270223752151463,
+                "height": 0.030624263839811542
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "bustamante",
+            "bounding_box": {
+                "topLeftX": 0.2117039586919105,
+                "topLeftY": 0.7455830388692579,
+                "width": 0.1738382099827883,
+                "height": 0.03297997644287397
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "m",
+            "bounding_box": {
+                "topLeftX": 0.2977624784853701,
+                "topLeftY": 0.7031802120141343,
+                "width": 0.016351118760757316,
+                "height": 0.03415783274440518
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "vanderbilt",
+            "bounding_box": {
+                "topLeftX": 0.1927710843373494,
+                "topLeftY": 0.13898704358068315,
+                "width": 0.26592082616179,
+                "height": 0.04122497055359246
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "endowment",
+            "bounding_box": {
+                "topLeftX": 0.45611015490533563,
+                "topLeftY": 0.21908127208480566,
+                "width": 0.1729776247848537,
+                "height": 0.03415783274440518
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "r",
+            "bounding_box": {
+                "topLeftX": 0.4044750430292599,
+                "topLeftY": 0.3380447585394582,
+                "width": 0.01549053356282272,
+                "height": 0.03769140164899882
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "the",
+            "bounding_box": {
+                "topLeftX": 0.3089500860585198,
+                "topLeftY": 0.21790341578327443,
+                "width": 0.04561101549053356,
+                "height": 0.03415783274440518
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "frank",
+            "bounding_box": {
+                "topLeftX": 0.2977624784853701,
+                "topLeftY": 0.3392226148409894,
+                "width": 0.08605851979345955,
+                "height": 0.03651354534746761
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "gratefully",
+            "bounding_box": {
+                "topLeftX": 0.27710843373493976,
+                "topLeftY": 0.26148409893992935,
+                "width": 0.13080895008605853,
+                "height": 0.05889281507656066
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "to",
+            "bounding_box": {
+                "topLeftX": 0.24784853700516352,
+                "topLeftY": 0.3404004711425206,
+                "width": 0.03098106712564544,
+                "height": 0.03651354534746761
+            },
+            "attention_score": 0.5
+        }
+    ]
+}

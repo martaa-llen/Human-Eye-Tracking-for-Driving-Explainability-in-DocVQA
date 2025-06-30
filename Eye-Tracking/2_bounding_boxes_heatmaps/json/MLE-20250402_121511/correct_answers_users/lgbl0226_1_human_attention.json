@@ -1,0 +1,40 @@
+{
+    "image_number": 68,
+    "user_answer": "medical biophysics",
+    "correct_answer": "medical biophysics",
+    "last_fixation_attention": [
+        {
+            "word": "biophysics",
+            "bounding_box": {
+                "topLeftX": 0.3919902912621359,
+                "topLeftY": 0.1723202170963365,
+                "width": 0.216626213592233,
+                "height": 0.07598371777476255
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "medical",
+            "bounding_box": {
+                "topLeftX": 0.2196601941747573,
+                "topLeftY": 0.17096336499321574,
+                "width": 0.16140776699029127,
+                "height": 0.07598371777476255
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "biophysics",
+            "bounding_box": {
+                "topLeftX": 0.3919902912621359,
+                "topLeftY": 0.1723202170963365,
+                "width": 0.216626213592233,
+                "height": 0.07598371777476255
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": []
+}

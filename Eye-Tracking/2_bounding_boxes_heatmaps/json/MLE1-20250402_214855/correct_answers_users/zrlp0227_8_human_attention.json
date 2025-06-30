@@ -1,0 +1,30 @@
+{
+    "image_number": 199,
+    "user_answer": "16",
+    "correct_answer": "16",
+    "last_fixation_attention": [
+        {
+            "word": "16",
+            "bounding_box": {
+                "topLeftX": 0.26117751217352814,
+                "topLeftY": 0.6983494593056346,
+                "width": 0.015493581230633024,
+                "height": 0.016505406943653957
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "16",
+            "bounding_box": {
+                "topLeftX": 0.26117751217352814,
+                "topLeftY": 0.6983494593056346,
+                "width": 0.015493581230633024,
+                "height": 0.016505406943653957
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": []
+}

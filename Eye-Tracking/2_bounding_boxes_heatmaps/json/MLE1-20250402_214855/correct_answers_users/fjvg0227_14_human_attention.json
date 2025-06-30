@@ -1,0 +1,39 @@
+{
+    "image_number": 76,
+    "user_answer": "state of missouri office of economic opportunity",
+    "correct_answer": "state of missouri office of economic opportunity",
+    "last_fixation_attention": [],
+    "pre_typing_attention": [],
+    "typing_attention": [
+        {
+            "word": "office",
+            "bounding_box": {
+                "topLeftX": 0.19022687609075042,
+                "topLeftY": 0.08459383753501401,
+                "width": 0.037521815008726006,
+                "height": 0.014565826330532213
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "program",
+            "bounding_box": {
+                "topLeftX": 0.1806282722513089,
+                "topLeftY": 0.10084033613445378,
+                "width": 0.06108202443280977,
+                "height": 0.01568627450980392
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "of",
+            "bounding_box": {
+                "topLeftX": 0.2299301919720768,
+                "topLeftY": 0.08515406162464986,
+                "width": 0.014397905759162303,
+                "height": 0.014005602240896359
+            },
+            "attention_score": 1.0
+        }
+    ]
+}

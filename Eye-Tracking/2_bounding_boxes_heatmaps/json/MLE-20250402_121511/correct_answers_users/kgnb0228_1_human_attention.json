@@ -1,0 +1,101 @@
+{
+    "image_number": 160,
+    "user_answer": "0223-51781",
+    "correct_answer": "0223-51781",
+    "last_fixation_attention": [
+        {
+            "word": "0223",
+            "bounding_box": {
+                "topLeftX": 0.15073529411764705,
+                "topLeftY": 0.2179144385026738,
+                "width": 0.05606617647058824,
+                "height": 0.03609625668449198
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "telephone:",
+            "bounding_box": {
+                "topLeftX": 0.058823529411764705,
+                "topLeftY": 0.2179144385026738,
+                "width": 0.08823529411764706,
+                "height": 0.034759358288770054
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "0223",
+            "bounding_box": {
+                "topLeftX": 0.15073529411764705,
+                "topLeftY": 0.2179144385026738,
+                "width": 0.05606617647058824,
+                "height": 0.03609625668449198
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "-",
+            "bounding_box": {
+                "topLeftX": 0.2104779411764706,
+                "topLeftY": 0.2179144385026738,
+                "width": 0.012867647058823529,
+                "height": 0.03609625668449198
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "51781",
+            "bounding_box": {
+                "topLeftX": 0.2270220588235294,
+                "topLeftY": 0.21524064171122995,
+                "width": 0.06066176470588235,
+                "height": 0.040106951871657755
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "https://www.industrydocuments.ucsf.edu/docs/kanb0228",
+            "bounding_box": {
+                "topLeftX": 0.17371323529411764,
+                "topLeftY": 0.9425133689839572,
+                "width": 0.765625,
+                "height": 0.0427807486631016
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "secretary",
+            "bounding_box": {
+                "topLeftX": 0.4163602941176471,
+                "topLeftY": 0.8475935828877005,
+                "width": 0.14154411764705882,
+                "height": 0.040106951871657755
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "s.",
+            "bounding_box": {
+                "topLeftX": 0.5422794117647058,
+                "topLeftY": 0.8048128342245989,
+                "width": 0.03400735294117647,
+                "height": 0.03609625668449198
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "to",
+            "bounding_box": {
+                "topLeftX": 0.5744485294117647,
+                "topLeftY": 0.8462566844919787,
+                "width": 0.030330882352941176,
+                "height": 0.0374331550802139
+            },
+            "attention_score": 1.0
+        }
+    ]
+}

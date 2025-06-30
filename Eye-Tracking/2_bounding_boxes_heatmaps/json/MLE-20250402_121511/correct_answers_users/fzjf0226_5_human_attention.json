@@ -1,0 +1,371 @@
+{
+    "image_number": 185,
+    "user_answer": "create perception of actos reducing risk of cardiovascular complications starting in 2003",
+    "correct_answer": "create perception of actos reducing risk of cardiovascular complications starting in 2003",
+    "last_fixation_attention": [
+        {
+            "word": "marketing",
+            "bounding_box": {
+                "topLeftX": 0.44727272727272727,
+                "topLeftY": 0.11463133640552996,
+                "width": 0.14863636363636365,
+                "height": 0.05011520737327189
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "plan",
+            "bounding_box": {
+                "topLeftX": 0.2081818181818182,
+                "topLeftY": 0.11578341013824885,
+                "width": 0.06681818181818182,
+                "height": 0.04435483870967742
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": ":",
+            "bounding_box": {
+                "topLeftX": 0.3190909090909091,
+                "topLeftY": 0.20391705069124424,
+                "width": 0.008636363636363636,
+                "height": 0.03110599078341014
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "supporting",
+            "bounding_box": {
+                "topLeftX": 0.2840909090909091,
+                "topLeftY": 0.1152073732718894,
+                "width": 0.15636363636363637,
+                "height": 0.048963133640553
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "of",
+            "bounding_box": {
+                "topLeftX": 0.5077272727272727,
+                "topLeftY": 0.20449308755760368,
+                "width": 0.01818181818181818,
+                "height": 0.03052995391705069
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "marketing",
+            "bounding_box": {
+                "topLeftX": 0.44727272727272727,
+                "topLeftY": 0.11463133640552996,
+                "width": 0.14863636363636365,
+                "height": 0.05011520737327189
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "clinical",
+            "bounding_box": {
+                "topLeftX": 0.09272727272727273,
+                "topLeftY": 0.11578341013824885,
+                "width": 0.11,
+                "height": 0.04205069124423963
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "cardiovascular",
+            "bounding_box": {
+                "topLeftX": 0.11045454545454546,
+                "topLeftY": 0.23617511520737328,
+                "width": 0.14045454545454544,
+                "height": 0.02880184331797235
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "marketing",
+            "bounding_box": {
+                "topLeftX": 0.11,
+                "topLeftY": 0.2021889400921659,
+                "width": 0.1040909090909091,
+                "height": 0.03225806451612903
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "objective",
+            "bounding_box": {
+                "topLeftX": 0.21863636363636363,
+                "topLeftY": 0.2033410138248848,
+                "width": 0.09636363636363636,
+                "height": 0.03168202764976959
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "complications",
+            "bounding_box": {
+                "topLeftX": 0.2545454545454545,
+                "topLeftY": 0.2350230414746544,
+                "width": 0.13090909090909092,
+                "height": 0.03052995391705069
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "create",
+            "bounding_box": {
+                "topLeftX": 0.33181818181818185,
+                "topLeftY": 0.20449308755760368,
+                "width": 0.06454545454545454,
+                "height": 0.03052995391705069
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "perception",
+            "bounding_box": {
+                "topLeftX": 0.40045454545454545,
+                "topLeftY": 0.20449308755760368,
+                "width": 0.10318181818181818,
+                "height": 0.03052995391705069
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "in",
+            "bounding_box": {
+                "topLeftX": 0.46545454545454545,
+                "topLeftY": 0.23559907834101382,
+                "width": 0.01681818181818182,
+                "height": 0.0293778801843318
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "actos",
+            "bounding_box": {
+                "topLeftX": 0.53,
+                "topLeftY": 0.20449308755760368,
+                "width": 0.0740909090909091,
+                "height": 0.03052995391705069
+            },
+            "attention_score": 0.5
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": ":",
+            "bounding_box": {
+                "topLeftX": 0.3190909090909091,
+                "topLeftY": 0.20391705069124424,
+                "width": 0.008636363636363636,
+                "height": 0.03110599078341014
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "supporting",
+            "bounding_box": {
+                "topLeftX": 0.2840909090909091,
+                "topLeftY": 0.1152073732718894,
+                "width": 0.15636363636363637,
+                "height": 0.048963133640553
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "create",
+            "bounding_box": {
+                "topLeftX": 0.33181818181818185,
+                "topLeftY": 0.20449308755760368,
+                "width": 0.06454545454545454,
+                "height": 0.03052995391705069
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "complications",
+            "bounding_box": {
+                "topLeftX": 0.2545454545454545,
+                "topLeftY": 0.2350230414746544,
+                "width": 0.13090909090909092,
+                "height": 0.03052995391705069
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "perception",
+            "bounding_box": {
+                "topLeftX": 0.40045454545454545,
+                "topLeftY": 0.20449308755760368,
+                "width": 0.10318181818181818,
+                "height": 0.03052995391705069
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "starting",
+            "bounding_box": {
+                "topLeftX": 0.39,
+                "topLeftY": 0.2350230414746544,
+                "width": 0.07045454545454545,
+                "height": 0.03052995391705069
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "objectives",
+            "bounding_box": {
+                "topLeftX": 0.6045454545454545,
+                "topLeftY": 0.11290322580645161,
+                "width": 0.15681818181818183,
+                "height": 0.05184331797235023
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "reducing",
+            "bounding_box": {
+                "topLeftX": 0.6081818181818182,
+                "topLeftY": 0.20449308755760368,
+                "width": 0.08409090909090909,
+                "height": 0.03052995391705069
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "risk",
+            "bounding_box": {
+                "topLeftX": 0.6959090909090909,
+                "topLeftY": 0.20449308755760368,
+                "width": 0.03636363636363636,
+                "height": 0.029953917050691243
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "of",
+            "bounding_box": {
+                "topLeftX": 0.735909090909091,
+                "topLeftY": 0.20391705069124424,
+                "width": 0.02181818181818182,
+                "height": 0.029953917050691243
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "strategic",
+            "bounding_box": {
+                "topLeftX": 0.11545454545454545,
+                "topLeftY": 0.2932027649769585,
+                "width": 0.09409090909090909,
+                "height": 0.029953917050691243
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "clinical",
+            "bounding_box": {
+                "topLeftX": 0.09272727272727273,
+                "topLeftY": 0.11578341013824885,
+                "width": 0.11,
+                "height": 0.04205069124423963
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "cardiovascular",
+            "bounding_box": {
+                "topLeftX": 0.11045454545454546,
+                "topLeftY": 0.23617511520737328,
+                "width": 0.14045454545454544,
+                "height": 0.02880184331797235
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "marketing",
+            "bounding_box": {
+                "topLeftX": 0.11,
+                "topLeftY": 0.2021889400921659,
+                "width": 0.1040909090909091,
+                "height": 0.03225806451612903
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "objective",
+            "bounding_box": {
+                "topLeftX": 0.1159090909090909,
+                "topLeftY": 0.32661290322580644,
+                "width": 0.09636363636363636,
+                "height": 0.03052995391705069
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "plan",
+            "bounding_box": {
+                "topLeftX": 0.2081818181818182,
+                "topLeftY": 0.11578341013824885,
+                "width": 0.06681818181818182,
+                "height": 0.04435483870967742
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "objective",
+            "bounding_box": {
+                "topLeftX": 0.21863636363636363,
+                "topLeftY": 0.2033410138248848,
+                "width": 0.09636363636363636,
+                "height": 0.03168202764976959
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "2003",
+            "bounding_box": {
+                "topLeftX": 0.48863636363636365,
+                "topLeftY": 0.23559907834101382,
+                "width": 0.046363636363636364,
+                "height": 0.02880184331797235
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "in",
+            "bounding_box": {
+                "topLeftX": 0.46545454545454545,
+                "topLeftY": 0.23559907834101382,
+                "width": 0.01681818181818182,
+                "height": 0.0293778801843318
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "of",
+            "bounding_box": {
+                "topLeftX": 0.5077272727272727,
+                "topLeftY": 0.20449308755760368,
+                "width": 0.01818181818181818,
+                "height": 0.03052995391705069
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "marketing",
+            "bounding_box": {
+                "topLeftX": 0.44727272727272727,
+                "topLeftY": 0.11463133640552996,
+                "width": 0.14863636363636365,
+                "height": 0.05011520737327189
+            },
+            "attention_score": 0.5
+        }
+    ]
+}
