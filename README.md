@@ -52,6 +52,28 @@ The GUI will provide buttons to step through the process:
   3. *Trial*: Run the eye-tracking experiment for the participant.
   4. *Data Analysis*: Run the analysis script `main_data_analysis.py` for the last participant's data collected.
 
+To run main_data_analysis.py: 
+- **Standalone Usage**: This script can be run directly from the command line with the following arguments:
+  - Run Mode (`--mode`):
+    - `single`: Processes a single trial.
+    - `full`: Processes all trials.
+    - `questions`: Processes the questions appeared during the trials.
+  - Analysis Mode (`--analysis-mode`):
+    - default: Generates regular heatmaps.
+    - `bbox_heatmaps`: Generates heatmaps based on bounding boxes.
+  - Example Commands:
+    ```
+    # Run in single mode with default heatmap
+    python main_data_analysis.py --mode single
+    
+    # Run in full mode with bounding box heatmaps
+    python main_data_analysis.py --mode full --analysis-mode bbox_heatmaps
+    ```
+
+
+
+
+
 
 
 
