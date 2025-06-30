@@ -1,0 +1,391 @@
+{
+    "image_number": 70,
+    "user_answer": "report of performance on national scard part 3 examination",
+    "correct_answer": "report of performance on national board part 3 examination",
+    "last_fixation_attention": [
+        {
+            "word": "national",
+            "bounding_box": {
+                "topLeftX": 0.4391418563922942,
+                "topLeftY": 0.11017897091722595,
+                "width": 0.07311733800350263,
+                "height": 0.019574944071588368
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "wash",
+            "bounding_box": {
+                "topLeftX": 0.2618213660245184,
+                "topLeftY": 0.22539149888143176,
+                "width": 0.037215411558669004,
+                "height": 0.018456375838926176
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "-",
+            "bounding_box": {
+                "topLeftX": 0.24430823117338005,
+                "topLeftY": 0.22539149888143176,
+                "width": 0.010507880910683012,
+                "height": 0.018456375838926176
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "of",
+            "bounding_box": {
+                "topLeftX": 0.2530647985989492,
+                "topLeftY": 0.11129753914988814,
+                "width": 0.01838879159369527,
+                "height": 0.020134228187919462
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "u",
+            "bounding_box": {
+                "topLeftX": 0.30691768826619964,
+                "topLeftY": 0.22483221476510068,
+                "width": 0.010070052539404553,
+                "height": 0.01901565995525727
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "-",
+            "bounding_box": {
+                "topLeftX": 0.3239929947460595,
+                "topLeftY": 0.22483221476510068,
+                "width": 0.010507880910683012,
+                "height": 0.01901565995525727
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "st",
+            "bounding_box": {
+                "topLeftX": 0.34413309982486867,
+                "topLeftY": 0.22427293064876958,
+                "width": 0.01882661996497373,
+                "height": 0.01901565995525727
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "march",
+            "bounding_box": {
+                "topLeftX": 0.38660245183887915,
+                "topLeftY": 0.16722595078299776,
+                "width": 0.042907180385288964,
+                "height": 0.017337807606263984
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "louis",
+            "bounding_box": {
+                "topLeftX": 0.3690893169877408,
+                "topLeftY": 0.2231543624161074,
+                "width": 0.0446584938704028,
+                "height": 0.020134228187919462
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "performance",
+            "bounding_box": {
+                "topLeftX": 0.28809106830122594,
+                "topLeftY": 0.11073825503355705,
+                "width": 0.09938704028021016,
+                "height": 0.020134228187919462
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "report",
+            "bounding_box": {
+                "topLeftX": 0.18169877408056043,
+                "topLeftY": 0.11185682326621924,
+                "width": 0.05647985989492119,
+                "height": 0.020134228187919462
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "school",
+            "bounding_box": {
+                "topLeftX": 0.18432574430823118,
+                "topLeftY": 0.22539149888143176,
+                "width": 0.05253940455341506,
+                "height": 0.018456375838926176
+            },
+            "attention_score": 0.5
+        },
+        {
+            "word": "national",
+            "bounding_box": {
+                "topLeftX": 0.4391418563922942,
+                "topLeftY": 0.11017897091722595,
+                "width": 0.07311733800350263,
+                "height": 0.019574944071588368
+            },
+            "attention_score": 0.5
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "march",
+            "bounding_box": {
+                "topLeftX": 0.38660245183887915,
+                "topLeftY": 0.16722595078299776,
+                "width": 0.042907180385288964,
+                "height": 0.017337807606263984
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "and",
+            "bounding_box": {
+                "topLeftX": 0.44877408056042034,
+                "topLeftY": 0.16722595078299776,
+                "width": 0.026707530647985988,
+                "height": 0.017337807606263984
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "louis",
+            "bounding_box": {
+                "topLeftX": 0.3690893169877408,
+                "topLeftY": 0.2231543624161074,
+                "width": 0.0446584938704028,
+                "height": 0.020134228187919462
+            },
+            "attention_score": 0.8
+        },
+        {
+            "word": "on",
+            "bounding_box": {
+                "topLeftX": 0.4041155866900175,
+                "topLeftY": 0.11073825503355705,
+                "width": 0.01838879159369527,
+                "height": 0.01901565995525727
+            },
+            "attention_score": 0.8
+        },
+        {
+            "word": "may",
+            "bounding_box": {
+                "topLeftX": 0.4929947460595447,
+                "topLeftY": 0.16666666666666666,
+                "width": 0.027583187390542906,
+                "height": 0.017337807606263984
+            },
+            "attention_score": 0.8
+        },
+        {
+            "word": "national",
+            "bounding_box": {
+                "topLeftX": 0.4391418563922942,
+                "topLeftY": 0.11017897091722595,
+                "width": 0.07311733800350263,
+                "height": 0.019574944071588368
+            },
+            "attention_score": 0.8
+        },
+        {
+            "word": "part",
+            "bounding_box": {
+                "topLeftX": 0.591506129597198,
+                "topLeftY": 0.10961968680089486,
+                "width": 0.03765323992994746,
+                "height": 0.018456375838926176
+            },
+            "attention_score": 0.8
+        },
+        {
+            "word": "wash",
+            "bounding_box": {
+                "topLeftX": 0.2618213660245184,
+                "topLeftY": 0.22539149888143176,
+                "width": 0.037215411558669004,
+                "height": 0.018456375838926176
+            },
+            "attention_score": 0.6
+        },
+        {
+            "word": "-",
+            "bounding_box": {
+                "topLeftX": 0.24430823117338005,
+                "topLeftY": 0.22539149888143176,
+                "width": 0.010507880910683012,
+                "height": 0.018456375838926176
+            },
+            "attention_score": 0.6
+        },
+        {
+            "word": "of",
+            "bounding_box": {
+                "topLeftX": 0.2530647985989492,
+                "topLeftY": 0.11129753914988814,
+                "width": 0.01838879159369527,
+                "height": 0.020134228187919462
+            },
+            "attention_score": 0.6
+        },
+        {
+            "word": "u",
+            "bounding_box": {
+                "topLeftX": 0.30691768826619964,
+                "topLeftY": 0.22483221476510068,
+                "width": 0.010070052539404553,
+                "height": 0.01901565995525727
+            },
+            "attention_score": 0.6
+        },
+        {
+            "word": "-",
+            "bounding_box": {
+                "topLeftX": 0.3239929947460595,
+                "topLeftY": 0.22483221476510068,
+                "width": 0.010507880910683012,
+                "height": 0.01901565995525727
+            },
+            "attention_score": 0.6
+        },
+        {
+            "word": "performance",
+            "bounding_box": {
+                "topLeftX": 0.28809106830122594,
+                "topLeftY": 0.11073825503355705,
+                "width": 0.09938704028021016,
+                "height": 0.020134228187919462
+            },
+            "attention_score": 0.6
+        },
+        {
+            "word": "st",
+            "bounding_box": {
+                "topLeftX": 0.34413309982486867,
+                "topLeftY": 0.22427293064876958,
+                "width": 0.01882661996497373,
+                "height": 0.01901565995525727
+            },
+            "attention_score": 0.6
+        },
+        {
+            "word": "board",
+            "bounding_box": {
+                "topLeftX": 0.5280210157618214,
+                "topLeftY": 0.10961968680089486,
+                "width": 0.046409807355516634,
+                "height": 0.01901565995525727
+            },
+            "attention_score": 0.6
+        },
+        {
+            "word": "1975",
+            "bounding_box": {
+                "topLeftX": 0.5389667250437828,
+                "topLeftY": 0.16610738255033558,
+                "width": 0.03458844133099825,
+                "height": 0.01901565995525727
+            },
+            "attention_score": 0.6
+        },
+        {
+            "word": "3",
+            "bounding_box": {
+                "topLeftX": 0.6457968476357268,
+                "topLeftY": 0.10961968680089486,
+                "width": 0.010507880910683012,
+                "height": 0.017897091722595078
+            },
+            "attention_score": 0.6
+        },
+        {
+            "word": "school",
+            "bounding_box": {
+                "topLeftX": 0.6370402802101576,
+                "topLeftY": 0.2214765100671141,
+                "width": 0.05297723292469352,
+                "height": 0.019574944071588368
+            },
+            "attention_score": 0.6
+        },
+        {
+            "word": "report",
+            "bounding_box": {
+                "topLeftX": 0.18169877408056043,
+                "topLeftY": 0.11185682326621924,
+                "width": 0.05647985989492119,
+                "height": 0.020134228187919462
+            },
+            "attention_score": 0.4
+        },
+        {
+            "word": "school",
+            "bounding_box": {
+                "topLeftX": 0.18432574430823118,
+                "topLeftY": 0.22539149888143176,
+                "width": 0.05253940455341506,
+                "height": 0.018456375838926176
+            },
+            "attention_score": 0.4
+        },
+        {
+            "word": "no.",
+            "bounding_box": {
+                "topLeftX": 0.6983362521891419,
+                "topLeftY": 0.2214765100671141,
+                "width": 0.0297723292469352,
+                "height": 0.01901565995525727
+            },
+            "attention_score": 0.4
+        },
+        {
+            "word": "examination",
+            "bounding_box": {
+                "topLeftX": 0.6720665499124343,
+                "topLeftY": 0.10961968680089486,
+                "width": 0.09676007005253941,
+                "height": 0.017897091722595078
+            },
+            "attention_score": 0.4
+        },
+        {
+            "word": "https://www.industrydocuments.ucsf.edu/docs/yphd0227",
+            "bounding_box": {
+                "topLeftX": 0.3450087565674256,
+                "topLeftY": 0.977069351230425,
+                "width": 0.36471103327495624,
+                "height": 0.01901565995525727
+            },
+            "attention_score": 0.2
+        },
+        {
+            "word": "184",
+            "bounding_box": {
+                "topLeftX": 0.7351138353765324,
+                "topLeftY": 0.2214765100671141,
+                "width": 0.02626970227670753,
+                "height": 0.01901565995525727
+            },
+            "attention_score": 0.2
+        },
+        {
+            "word": "your",
+            "bounding_box": {
+                "topLeftX": 0.4054290718038529,
+                "topLeftY": 0.3187919463087248,
+                "width": 0.03415061295971979,
+                "height": 0.017897091722595078
+            },
+            "attention_score": 0.2
+        }
+    ]
+}

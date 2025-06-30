@@ -1,0 +1,201 @@
+{
+    "image_number": 16,
+    "user_answer": "the food herald",
+    "correct_answer": "food industry association",
+    "last_fixation_attention": [
+        {
+            "word": "the",
+            "bounding_box": {
+                "topLeftX": 0.06854130052724078,
+                "topLeftY": 0.9664804469273743,
+                "width": 0.03163444639718805,
+                "height": 0.020251396648044692
+            },
+            "attention_score": 1.0
+        }
+    ],
+    "pre_typing_attention": [
+        {
+            "word": "north",
+            "bounding_box": {
+                "topLeftX": 0.4370240187463386,
+                "topLeftY": 0.11452513966480447,
+                "width": 0.05272407732864675,
+                "height": 0.020251396648044692
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "industry",
+            "bounding_box": {
+                "topLeftX": 0.4182776801405975,
+                "topLeftY": 0.15502793296089384,
+                "width": 0.1265377855887522,
+                "height": 0.0356145251396648
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "oct.",
+            "bounding_box": {
+                "topLeftX": 0.45635618043350906,
+                "topLeftY": 0.24441340782122906,
+                "width": 0.05038078500292911,
+                "height": 0.025837988826815643
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "10,",
+            "bounding_box": {
+                "topLeftX": 0.5161101347393088,
+                "topLeftY": 0.24441340782122906,
+                "width": 0.038078500292911543,
+                "height": 0.025837988826815643
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "food",
+            "bounding_box": {
+                "topLeftX": 0.3397773872290568,
+                "topLeftY": 0.1543296089385475,
+                "width": 0.06971294669009959,
+                "height": 0.036312849162011177
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "food",
+            "bounding_box": {
+                "topLeftX": 0.1060339777387229,
+                "topLeftY": 0.9671787709497207,
+                "width": 0.046280023432923256,
+                "height": 0.0223463687150838
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "the",
+            "bounding_box": {
+                "topLeftX": 0.06854130052724078,
+                "topLeftY": 0.9664804469273743,
+                "width": 0.03163444639718805,
+                "height": 0.020251396648044692
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "publishers",
+            "bounding_box": {
+                "topLeftX": 0.08963093145869948,
+                "topLeftY": 0.946927374301676,
+                "width": 0.08963093145869948,
+                "height": 0.01675977653631285
+            },
+            "attention_score": 0.6666666666666666
+        },
+        {
+            "word": "central",
+            "bounding_box": {
+                "topLeftX": 0.4997070884592853,
+                "topLeftY": 0.11452513966480447,
+                "width": 0.06736965436438196,
+                "height": 0.020251396648044692
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "statement",
+            "bounding_box": {
+                "topLeftX": 0.4645577035735208,
+                "topLeftY": 0.040502793296089384,
+                "width": 0.11423550087873462,
+                "height": 0.0223463687150838
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "texas",
+            "bounding_box": {
+                "topLeftX": 0.5729349736379613,
+                "topLeftY": 0.11452513966480447,
+                "width": 0.04745166959578207,
+                "height": 0.020251396648044692
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "of",
+            "bounding_box": {
+                "topLeftX": 0.1833626244874048,
+                "topLeftY": 0.9462290502793296,
+                "width": 0.019332161687170474,
+                "height": 0.01675977653631285
+            },
+            "attention_score": 0.3333333333333333
+        },
+        {
+            "word": "heraldsource:",
+            "bounding_box": {
+                "topLeftX": 0.1611013473930873,
+                "topLeftY": 0.9685754189944135,
+                "width": 0.1282952548330404,
+                "height": 0.025139664804469275
+            },
+            "attention_score": 0.3333333333333333
+        }
+    ],
+    "typing_attention": [
+        {
+            "word": "food",
+            "bounding_box": {
+                "topLeftX": 0.1060339777387229,
+                "topLeftY": 0.9671787709497207,
+                "width": 0.046280023432923256,
+                "height": 0.0223463687150838
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "the",
+            "bounding_box": {
+                "topLeftX": 0.06854130052724078,
+                "topLeftY": 0.9664804469273743,
+                "width": 0.03163444639718805,
+                "height": 0.020251396648044692
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "of",
+            "bounding_box": {
+                "topLeftX": 0.1833626244874048,
+                "topLeftY": 0.9462290502793296,
+                "width": 0.019332161687170474,
+                "height": 0.01675977653631285
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "heraldsource:",
+            "bounding_box": {
+                "topLeftX": 0.1611013473930873,
+                "topLeftY": 0.9685754189944135,
+                "width": 0.1282952548330404,
+                "height": 0.025139664804469275
+            },
+            "attention_score": 1.0
+        },
+        {
+            "word": "publishers",
+            "bounding_box": {
+                "topLeftX": 0.08963093145869948,
+                "topLeftY": 0.946927374301676,
+                "width": 0.08963093145869948,
+                "height": 0.01675977653631285
+            },
+            "attention_score": 1.0
+        }
+    ]
+}
